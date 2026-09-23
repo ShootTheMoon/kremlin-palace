@@ -1,0 +1,2914 @@
+{
+ "static": [
+  {
+   "file": "KRM_STATIC_000.fbx",
+   "tris": 25968,
+   "verts": 13774,
+   "parts": [
+    "Door gilt scroll",
+    "Door gilt scroll.001",
+    "Door gilt scroll.018",
+    "Door gilt scroll.019",
+    "Door gilt scroll.036",
+    "Door gilt scroll.037",
+    "Door gilt scroll.054",
+    "Door gilt scroll.055",
+    "Entrance semicircular arch",
+    "Entrance semicircular arch.001",
+    "Gilt acanthus scroll.108",
+    "Gilt acanthus scroll.109",
+    "Gilt acanthus scroll.110",
+    "Gilt acanthus scroll.111",
+    "Overdoor gilt arch",
+    "Overdoor gilt arch.001",
+    "Overdoor gilt arch.002",
+    "Overdoor gilt arch.003",
+    "Overdoor gilt arch.004",
+    "Overdoor gilt arch.005",
+    "Overdoor gilt arch.006",
+    "Overdoor gilt arch.007",
+    "Overdoor medallion rim",
+    "Overdoor medallion rim.001",
+    "Overdoor medallion rim.002",
+    "Overdoor medallion rim.003",
+    "P3 angel plinth",
+    "P3 angel plinth gilt ring",
+    "P3 angel wing L",
+    "P3 angel wing R",
+    "P3 angel wing feather ridges L",
+    "P3 angel wing feather ridges R",
+    "P3 balcony bridge balustrade gilt handrail",
+    "P3 balcony bridge balustrade iron bottom rail",
+    "P3 balcony bridge balustrade iron heart scrolls",
+    "P3 balcony bridge balustrade iron posts",
+    "P3 balcony bridge frieze gilt lines"
+   ],
+   "bbox_min_m": [
+    -29.825,
+    -41.6,
+    2.76
+   ],
+   "bbox_max_m": [
+    29.825,
+    12.055,
+    9.6
+   ],
+   "mb": 0.46
+  },
+  {
+   "file": "KRM_STATIC_001.fbx",
+   "tris": 27092,
+   "verts": 14662,
+   "parts": [
+    "P3 balcony bridge frieze gilt scrolls",
+    "P3 balcony bridge marble",
+    "P3 balcony bridge sapphire carpet",
+    "P3 candelabrum L-33.5+1.5 candles",
+    "P3 candelabrum L-33.5+1.5 crystals",
+    "P3 candelabrum L-33.5+1.5 flames",
+    "P3 candelabrum L-33.5+1.5 gilt",
+    "P3 candelabrum L-33.5+1.5 gilt arms",
+    "P3 candelabrum L-33.5+1.5 iron stand",
+    "P3 candelabrum L-33.5-1.5 candles",
+    "P3 candelabrum L-33.5-1.5 crystals",
+    "P3 candelabrum L-33.5-1.5 flames",
+    "P3 candelabrum L-33.5-1.5 gilt",
+    "P3 candelabrum L-33.5-1.5 gilt arms",
+    "P3 candelabrum L-33.5-1.5 iron stand",
+    "P3 candelabrum L-5.5+1.5 candles",
+    "P3 candelabrum L-5.5+1.5 crystals",
+    "P3 candelabrum L-5.5+1.5 flames",
+    "P3 candelabrum L-5.5+1.5 gilt",
+    "P3 candelabrum L-5.5+1.5 gilt arms",
+    "P3 candelabrum L-5.5+1.5 iron stand",
+    "P3 candelabrum L-5.5-1.5 candles",
+    "P3 candelabrum L-5.5-1.5 crystals",
+    "P3 candelabrum L-5.5-1.5 flames",
+    "P3 candelabrum L-5.5-1.5 gilt",
+    "P3 candelabrum L-5.5-1.5 gilt arms",
+    "P3 candelabrum L-5.5-1.5 iron stand",
+    "P3 candelabrum R-33.5+1.5 candles",
+    "P3 candelabrum R-33.5+1.5 crystals",
+    "P3 candelabrum R-33.5+1.5 flames",
+    "P3 candelabrum R-33.5+1.5 gilt",
+    "P3 candelabrum R-33.5+1.5 gilt arms",
+    "P3 candelabrum R-33.5+1.5 iron stand",
+    "P3 candelabrum R-33.5-1.5 candles",
+    "P3 candelabrum R-33.5-1.5 crystals"
+   ],
+   "bbox_min_m": [
+    -15.538,
+    -35.33,
+    -0.001
+   ],
+   "bbox_max_m": [
+    15.595,
+    9.6,
+    5.14
+   ],
+   "mb": 0.54
+  },
+  {
+   "file": "KRM_STATIC_002.fbx",
+   "tris": 27936,
+   "verts": 15154,
+   "parts": [
+    "P3 candelabrum R-33.5-1.5 flames",
+    "P3 candelabrum R-33.5-1.5 gilt",
+    "P3 candelabrum R-33.5-1.5 gilt arms",
+    "P3 candelabrum R-33.5-1.5 iron stand",
+    "P3 candelabrum R-5.5+1.5 candles",
+    "P3 candelabrum R-5.5+1.5 crystals",
+    "P3 candelabrum R-5.5+1.5 flames",
+    "P3 candelabrum R-5.5+1.5 gilt",
+    "P3 candelabrum R-5.5+1.5 gilt arms",
+    "P3 candelabrum R-5.5+1.5 iron stand",
+    "P3 candelabrum R-5.5-1.5 candles",
+    "P3 candelabrum R-5.5-1.5 crystals",
+    "P3 candelabrum R-5.5-1.5 flames",
+    "P3 candelabrum R-5.5-1.5 gilt",
+    "P3 candelabrum R-5.5-1.5 gilt arms",
+    "P3 candelabrum R-5.5-1.5 iron stand",
+    "P3 candelabrum entrance L candles",
+    "P3 candelabrum entrance L crystals",
+    "P3 candelabrum entrance L flames",
+    "P3 candelabrum entrance L gilt",
+    "P3 candelabrum entrance L gilt arms",
+    "P3 candelabrum entrance L iron stand",
+    "P3 candelabrum entrance R candles",
+    "P3 candelabrum entrance R crystals",
+    "P3 candelabrum entrance R flames",
+    "P3 candelabrum entrance R gilt",
+    "P3 candelabrum entrance R gilt arms",
+    "P3 candelabrum entrance R iron stand",
+    "P3 ceiling dome gilt mid ring front",
+    "P3 ceiling dome gilt mid ring rear",
+    "P3 ceiling dome gilt ribs front"
+   ],
+   "bbox_min_m": [
+    -8.411,
+    -41.53,
+    -0.001
+   ],
+   "bbox_max_m": [
+    15.595,
+    5.58,
+    15.0
+   ],
+   "mb": 0.51
+  },
+  {
+   "file": "KRM_STATIC_003.fbx",
+   "tris": 26048,
+   "verts": 14208,
+   "parts": [
+    "P3 ceiling dome gilt ribs rear",
+    "P3 ceiling dome gilt scrolls front"
+   ],
+   "bbox_min_m": [
+    -8.411,
+    -34.332,
+    13.942
+   ],
+   "bbox_max_m": [
+    8.411,
+    7.213,
+    15.0
+   ],
+   "mb": 0.49
+  },
+  {
+   "file": "KRM_STATIC_004.fbx",
+   "tris": 25664,
+   "verts": 13872,
+   "parts": [
+    "P3 ceiling dome gilt scrolls rear",
+    "P3 ceiling dome marble front"
+   ],
+   "bbox_min_m": [
+    -8.4,
+    -35.2,
+    14.0
+   ],
+   "bbox_max_m": [
+    8.4,
+    6.332,
+    15.0
+   ],
+   "mb": 0.48
+  },
+  {
+   "file": "KRM_STATIC_005.fbx",
+   "tris": 4064,
+   "verts": 2768,
+   "parts": [
+    "P3 ceiling dome marble rear",
+    "P3 ceiling flat slab front",
+    "P3 ceiling flat slab rear"
+   ],
+   "bbox_min_m": [
+    -16.0,
+    -42.0,
+    12.0
+   ],
+   "bbox_max_m": [
+    16.0,
+    14.0,
+    15.0
+   ],
+   "mb": 0.1
+  },
+  {
+   "file": "KRM_STATIC_006.fbx",
+   "tris": 25632,
+   "verts": 13824,
+   "parts": [
+    "P3 ceiling frieze gilt scrolls front"
+   ],
+   "bbox_min_m": [
+    -9.65,
+    -36.45,
+    12.971
+   ],
+   "bbox_max_m": [
+    9.65,
+    -19.55,
+    13.166
+   ],
+   "mb": 0.52
+  },
+  {
+   "file": "KRM_STATIC_007.fbx",
+   "tris": 27936,
+   "verts": 14976,
+   "parts": [
+    "P3 ceiling frieze gilt scrolls rear",
+    "P3 ceiling gilt rope ring front"
+   ],
+   "bbox_min_m": [
+    -9.65,
+    -36.425,
+    12.971
+   ],
+   "bbox_max_m": [
+    9.65,
+    8.45,
+    13.535
+   ],
+   "mb": 0.55
+  },
+  {
+   "file": "KRM_STATIC_008.fbx",
+   "tris": 21520,
+   "verts": 10768,
+   "parts": [
+    "P3 ceiling gilt rope ring rear",
+    "P3 ceiling perimeter gilt lines front",
+    "P3 ceiling perimeter gilt lines rear",
+    "P3 ceiling sapphire perimeter band front",
+    "P3 ceiling sapphire perimeter band rear",
+    "P3 ceiling skylight gilt tracery outline front",
+    "P3 ceiling skylight gilt tracery outline rear",
+    "P3 ceiling skylight marble tracery front"
+   ],
+   "bbox_min_m": [
+    -15.721,
+    -41.721,
+    11.95
+   ],
+   "bbox_max_m": [
+    15.721,
+    13.721,
+    15.075
+   ],
+   "mb": 0.4
+  },
+  {
+   "file": "KRM_STATIC_009.fbx",
+   "tris": 24096,
+   "verts": 12194,
+   "parts": [
+    "P3 ceiling skylight marble tracery rear",
+    "P3 ceiling skylight sky panel front",
+    "P3 ceiling skylight sky panel rear",
+    "P3 ceiling step gilt rings front"
+   ],
+   "bbox_min_m": [
+    -10.215,
+    -37.015,
+    11.995
+   ],
+   "bbox_max_m": [
+    10.215,
+    4.056,
+    15.08
+   ],
+   "mb": 0.45
+  },
+  {
+   "file": "KRM_STATIC_010.fbx",
+   "tris": 26864,
+   "verts": 15960,
+   "parts": [
+    "P3 ceiling step gilt rings rear",
+    "P3 ceiling step1 ledge front",
+    "P3 ceiling step1 ledge rear",
+    "P3 ceiling step1 sapphire fascia front",
+    "P3 ceiling step1 sapphire fascia rear",
+    "P3 ceiling step2 gilt ledge front",
+    "P3 ceiling step2 gilt ledge rear",
+    "P3 ceiling step2 marble fascia front",
+    "P3 ceiling step2 marble fascia rear",
+    "P3 ceiling step3 ledge front",
+    "P3 ceiling step3 ledge rear",
+    "P3 ceiling step3 sapphire fascia front",
+    "P3 ceiling step3 sapphire fascia rear",
+    "P3 chandelier front dome candles",
+    "P3 chandelier front dome crystal strands"
+   ],
+   "bbox_min_m": [
+    -10.215,
+    -37.0,
+    7.75
+   ],
+   "bbox_max_m": [
+    10.215,
+    9.015,
+    14.055
+   ],
+   "mb": 0.45
+  },
+  {
+   "file": "KRM_STATIC_011.fbx",
+   "tris": 27864,
+   "verts": 14224,
+   "parts": [
+    "P3 chandelier front dome crystals",
+    "P3 chandelier front dome flames",
+    "P3 chandelier front dome gilt cast",
+    "P3 chandelier front dome gilt chain"
+   ],
+   "bbox_min_m": [
+    -2.035,
+    -30.035,
+    6.93
+   ],
+   "bbox_max_m": [
+    2.035,
+    -25.965,
+    15.01
+   ],
+   "mb": 0.46
+  },
+  {
+   "file": "KRM_STATIC_012.fbx",
+   "tris": 27184,
+   "verts": 15544,
+   "parts": [
+    "P3 chandelier front dome gilt curls",
+    "P3 chandelier front dome gilt rings",
+    "P3 chandelier front dome gilt scroll arms",
+    "P3 chandelier rear dome candles",
+    "P3 chandelier rear dome crystal strands"
+   ],
+   "bbox_min_m": [
+    -1.973,
+    -29.967,
+    7.75
+   ],
+   "bbox_max_m": [
+    1.973,
+    1.974,
+    11.03
+   ],
+   "mb": 0.5
+  },
+  {
+   "file": "KRM_STATIC_013.fbx",
+   "tris": 27864,
+   "verts": 14224,
+   "parts": [
+    "P3 chandelier rear dome crystals",
+    "P3 chandelier rear dome flames",
+    "P3 chandelier rear dome gilt cast",
+    "P3 chandelier rear dome gilt chain"
+   ],
+   "bbox_min_m": [
+    -2.035,
+    -2.035,
+    6.93
+   ],
+   "bbox_max_m": [
+    2.035,
+    2.035,
+    15.01
+   ],
+   "mb": 0.47
+  },
+  {
+   "file": "KRM_STATIC_014.fbx",
+   "tris": 27848,
+   "verts": 16160,
+   "parts": [
+    "P3 chandelier rear dome gilt curls",
+    "P3 chandelier rear dome gilt rings",
+    "P3 chandelier rear dome gilt scroll arms",
+    "P3 corridor L ceiling sapphire coffers",
+    "P3 corridor L chandelier arms",
+    "P3 corridor L chandelier candles",
+    "P3 corridor L chandelier crystal strands"
+   ],
+   "bbox_min_m": [
+    -29.4,
+    -1.967,
+    4.294
+   ],
+   "bbox_max_m": [
+    1.967,
+    12.45,
+    11.03
+   ],
+   "mb": 0.57
+  },
+  {
+   "file": "KRM_STATIC_015.fbx",
+   "tris": 27424,
+   "verts": 15064,
+   "parts": [
+    "P3 corridor L chandelier crystals",
+    "P3 corridor L chandelier flames",
+    "P3 corridor L chandelier gilt",
+    "P3 corridor L end door column bases",
+    "P3 corridor L end door column collars",
+    "P3 corridor L end door sapphire columns",
+    "P3 corridor L gilt tile inlay",
+    "P3 corridor L inner bench scroll legs",
+    "P3 corridor L inner bench velvet",
+    "P3 corridor L inner gilt arch frames",
+    "P3 corridor L inner gilt fine lines"
+   ],
+   "bbox_min_m": [
+    -29.858,
+    8.142,
+    0.0
+   ],
+   "bbox_max_m": [
+    -16.242,
+    13.858,
+    5.96
+   ],
+   "mb": 0.5
+  },
+  {
+   "file": "KRM_STATIC_016.fbx",
+   "tris": 25680,
+   "verts": 14760,
+   "parts": [
+    "P3 corridor L inner gilt frames",
+    "P3 corridor L inner gilt grilles",
+    "P3 corridor L inner gilt lantern brackets",
+    "P3 corridor L inner gilt lantern metal",
+    "P3 corridor L inner gilt ornaments",
+    "P3 corridor L inner lantern glow",
+    "P3 corridor L inner marble arch surround",
+    "P3 corridor L inner marble piers",
+    "P3 corridor L inner sapphire panels",
+    "P3 corridor L marble tiles",
+    "P3 corridor L outer bench scroll legs",
+    "P3 corridor L outer bench velvet",
+    "P3 corridor L outer gilt arch frames"
+   ],
+   "bbox_min_m": [
+    -29.85,
+    8.15,
+    0.0
+   ],
+   "bbox_max_m": [
+    -16.25,
+    13.85,
+    5.76
+   ],
+   "mb": 0.48
+  },
+  {
+   "file": "KRM_STATIC_017.fbx",
+   "tris": 19472,
+   "verts": 11464,
+   "parts": [
+    "P3 corridor L outer gilt fine lines",
+    "P3 corridor L outer gilt frames",
+    "P3 corridor L outer gilt grilles",
+    "P3 corridor L outer gilt lantern brackets",
+    "P3 corridor L outer gilt lantern metal"
+   ],
+   "bbox_min_m": [
+    -28.65,
+    12.88,
+    0.19
+   ],
+   "bbox_max_m": [
+    -16.7,
+    13.818,
+    5.782
+   ],
+   "mb": 0.33
+  },
+  {
+   "file": "KRM_STATIC_018.fbx",
+   "tris": 22664,
+   "verts": 13064,
+   "parts": [
+    "P3 corridor L outer gilt ornaments",
+    "P3 corridor L outer lantern glow",
+    "P3 corridor L outer marble arch surround",
+    "P3 corridor L outer marble piers",
+    "P3 corridor L outer sapphire panels",
+    "P3 corridor R ceiling sapphire coffers",
+    "P3 corridor R chandelier arms",
+    "P3 corridor R chandelier candles",
+    "P3 corridor R chandelier crystal strands"
+   ],
+   "bbox_min_m": [
+    -28.65,
+    9.55,
+    0.0
+   ],
+   "bbox_max_m": [
+    29.4,
+    13.85,
+    5.997
+   ],
+   "mb": 0.41
+  },
+  {
+   "file": "KRM_STATIC_019.fbx",
+   "tris": 27424,
+   "verts": 15064,
+   "parts": [
+    "P3 corridor R chandelier crystals",
+    "P3 corridor R chandelier flames",
+    "P3 corridor R chandelier gilt",
+    "P3 corridor R end door column bases",
+    "P3 corridor R end door column collars",
+    "P3 corridor R end door sapphire columns",
+    "P3 corridor R gilt tile inlay",
+    "P3 corridor R inner bench scroll legs",
+    "P3 corridor R inner bench velvet",
+    "P3 corridor R inner gilt arch frames",
+    "P3 corridor R inner gilt fine lines"
+   ],
+   "bbox_min_m": [
+    16.242,
+    8.142,
+    0.0
+   ],
+   "bbox_max_m": [
+    29.858,
+    13.858,
+    5.96
+   ],
+   "mb": 0.5
+  },
+  {
+   "file": "KRM_STATIC_020.fbx",
+   "tris": 25680,
+   "verts": 14760,
+   "parts": [
+    "P3 corridor R inner gilt frames",
+    "P3 corridor R inner gilt grilles",
+    "P3 corridor R inner gilt lantern brackets",
+    "P3 corridor R inner gilt lantern metal",
+    "P3 corridor R inner gilt ornaments",
+    "P3 corridor R inner lantern glow",
+    "P3 corridor R inner marble arch surround",
+    "P3 corridor R inner marble piers",
+    "P3 corridor R inner sapphire panels",
+    "P3 corridor R marble tiles",
+    "P3 corridor R outer bench scroll legs",
+    "P3 corridor R outer bench velvet",
+    "P3 corridor R outer gilt arch frames"
+   ],
+   "bbox_min_m": [
+    16.25,
+    8.15,
+    0.0
+   ],
+   "bbox_max_m": [
+    29.85,
+    13.85,
+    5.76
+   ],
+   "mb": 0.48
+  },
+  {
+   "file": "KRM_STATIC_021.fbx",
+   "tris": 19472,
+   "verts": 11464,
+   "parts": [
+    "P3 corridor R outer gilt fine lines",
+    "P3 corridor R outer gilt frames",
+    "P3 corridor R outer gilt grilles",
+    "P3 corridor R outer gilt lantern brackets",
+    "P3 corridor R outer gilt lantern metal"
+   ],
+   "bbox_min_m": [
+    16.7,
+    12.88,
+    0.19
+   ],
+   "bbox_max_m": [
+    28.65,
+    13.818,
+    5.782
+   ],
+   "mb": 0.33
+  },
+  {
+   "file": "KRM_STATIC_022.fbx",
+   "tris": 16224,
+   "verts": 8889,
+   "parts": [
+    "P3 corridor R outer gilt ornaments",
+    "P3 corridor R outer lantern glow",
+    "P3 corridor R outer marble arch surround",
+    "P3 corridor R outer marble piers",
+    "P3 corridor R outer sapphire panels",
+    "P3 diagonal checker floor"
+   ],
+   "bbox_min_m": [
+    -16.0,
+    -42.0,
+    0.0
+   ],
+   "bbox_max_m": [
+    28.65,
+    14.0,
+    5.76
+   ],
+   "mb": 0.26
+  },
+  {
+   "file": "KRM_STATIC_023.fbx",
+   "tris": 27456,
+   "verts": 14592,
+   "parts": [
+    "P3 entablature gilt volutes L"
+   ],
+   "bbox_min_m": [
+    -12.19,
+    -41.458,
+    11.406
+   ],
+   "bbox_max_m": [
+    -11.41,
+    12.458,
+    11.762
+   ],
+   "mb": 0.42
+  },
+  {
+   "file": "KRM_STATIC_024.fbx",
+   "tris": 27984,
+   "verts": 14944,
+   "parts": [
+    "P3 entablature gilt volutes R",
+    "P3 entablature sapphire insets"
+   ],
+   "bbox_min_m": [
+    -12.165,
+    -41.458,
+    11.406
+   ],
+   "bbox_max_m": [
+    12.19,
+    12.458,
+    11.845
+   ],
+   "mb": 0.43
+  },
+  {
+   "file": "KRM_STATIC_025.fbx",
+   "tris": 25156,
+   "verts": 13692,
+   "parts": [
+    "P3 entrance balcony balustrade L gilt handrail",
+    "P3 entrance balcony balustrade L iron bottom rail",
+    "P3 entrance balcony balustrade L iron heart scrolls",
+    "P3 entrance balcony balustrade L iron posts",
+    "P3 entrance balcony balustrade R gilt handrail",
+    "P3 entrance balcony balustrade R iron bottom rail",
+    "P3 entrance balcony balustrade R iron heart scrolls",
+    "P3 entrance balcony balustrade R iron posts",
+    "P3 entrance balcony return balustrade L gilt handrail",
+    "P3 entrance balcony return balustrade L iron bottom rail",
+    "P3 entrance balcony return balustrade L iron heart scrolls",
+    "P3 entrance balcony return balustrade L iron posts",
+    "P3 entrance balcony return balustrade R gilt handrail",
+    "P3 entrance balcony return balustrade R iron bottom rail",
+    "P3 entrance balcony return balustrade R iron heart scrolls",
+    "P3 entrance balcony return balustrade R iron posts",
+    "P3 entrance door gilt arch lines",
+    "P3 entrance door sapphire arch surround",
+    "P3 entrance topiary foliage",
+    "P3 entrance topiary urn gilt",
+    "P3 entrance topiary urns",
+    "P3 entrance wall gilt frames",
+    "P3 entrance wall gilt rosettes"
+   ],
+   "bbox_min_m": [
+    -14.635,
+    -41.767,
+    -0.2
+   ],
+   "bbox_max_m": [
+    14.635,
+    -38.535,
+    10.435
+   ],
+   "mb": 0.43
+  },
+  {
+   "file": "KRM_STATIC_026.fbx",
+   "tris": 20976,
+   "verts": 11186,
+   "parts": [
+    "P3 entrance wall gilt scrolls",
+    "P3 entrance wall marble panels",
+    "P3 fountain baluster pedestal",
+    "P3 fountain basin gilt bands"
+   ],
+   "bbox_min_m": [
+    -14.6,
+    -41.75,
+    0.17
+   ],
+   "bbox_max_m": [
+    14.6,
+    6.39,
+    10.4
+   ],
+   "mb": 0.37
+  },
+  {
+   "file": "KRM_STATIC_027.fbx",
+   "tris": 16416,
+   "verts": 10134,
+   "parts": [
+    "P3 fountain basin gilt scrolls",
+    "P3 fountain basin marble wall",
+    "P3 fountain basin sapphire frieze band",
+    "P3 fountain lower bowl",
+    "P3 fountain lower bowl gilt rim",
+    "P3 fountain plinth gilt edge",
+    "P3 fountain upper bowl",
+    "P3 fountain upper bowl gilt rim",
+    "P3 fountain upper stem",
+    "P3 gallery fascia gilt lines"
+   ],
+   "bbox_min_m": [
+    -12.177,
+    -41.75,
+    0.075
+   ],
+   "bbox_max_m": [
+    12.177,
+    11.55,
+    11.899
+   ],
+   "mb": 0.35
+  },
+  {
+   "file": "KRM_STATIC_028.fbx",
+   "tris": 28000,
+   "verts": 15106,
+   "parts": [
+    "P3 gallery fascia gilt scrolls#00"
+   ],
+   "bbox_min_m": [
+    -11.31,
+    -41.33,
+    4.709
+   ],
+   "bbox_max_m": [
+    11.31,
+    -24.277,
+    4.86
+   ],
+   "mb": 0.5
+  },
+  {
+   "file": "KRM_STATIC_029.fbx",
+   "tris": 28000,
+   "verts": 15148,
+   "parts": [
+    "P3 gallery fascia gilt scrolls#01"
+   ],
+   "bbox_min_m": [
+    -11.31,
+    -24.32,
+    4.709
+   ],
+   "bbox_max_m": [
+    11.31,
+    0.064,
+    4.86
+   ],
+   "mb": 0.5
+  },
+  {
+   "file": "KRM_STATIC_030.fbx",
+   "tris": 26840,
+   "verts": 14514,
+   "parts": [
+    "P3 gallery fascia gilt scrolls#02",
+    "P3 gallery fascia marble",
+    "P3 landing edge balustrade L gilt handrail",
+    "P3 landing edge balustrade L iron bottom rail",
+    "P3 landing edge balustrade L iron heart scrolls",
+    "P3 landing edge balustrade L iron posts",
+    "P3 landing edge balustrade R gilt handrail",
+    "P3 landing edge balustrade R iron bottom rail"
+   ],
+   "bbox_min_m": [
+    -12.15,
+    -42.0,
+    4.42
+   ],
+   "bbox_max_m": [
+    12.15,
+    14.0,
+    12.0
+   ],
+   "mb": 0.48
+  },
+  {
+   "file": "KRM_STATIC_031.fbx",
+   "tris": 14328,
+   "verts": 8472,
+   "parts": [
+    "P3 landing edge balustrade R iron heart scrolls",
+    "P3 landing edge balustrade R iron posts",
+    "P3 landing fascia gilt line L",
+    "P3 landing fascia gilt line R",
+    "P3 lantern gilt brackets",
+    "P3 lantern glow",
+    "P3 rear window gilt S-scroll grilles",
+    "P3 side gallery balustrade L gilt handrail",
+    "P3 side gallery balustrade L iron bottom rail"
+   ],
+   "bbox_min_m": [
+    -15.795,
+    -38.58,
+    1.811
+   ],
+   "bbox_max_m": [
+    15.795,
+    13.795,
+    9.758
+   ],
+   "mb": 0.25
+  },
+  {
+   "file": "KRM_STATIC_032.fbx",
+   "tris": 28000,
+   "verts": 14008,
+   "parts": [
+    "P3 side gallery balustrade L iron heart scrolls#00"
+   ],
+   "bbox_min_m": [
+    -11.392,
+    -38.536,
+    5.35
+   ],
+   "bbox_max_m": [
+    -11.368,
+    2.95,
+    5.813
+   ],
+   "mb": 0.43
+  },
+  {
+   "file": "KRM_STATIC_033.fbx",
+   "tris": 5532,
+   "verts": 4136,
+   "parts": [
+    "P3 side gallery balustrade L iron heart scrolls#01",
+    "P3 side gallery balustrade L iron posts",
+    "P3 side gallery balustrade R gilt handrail",
+    "P3 side gallery balustrade R iron bottom rail"
+   ],
+   "bbox_min_m": [
+    -11.4,
+    -38.597,
+    5.12
+   ],
+   "bbox_max_m": [
+    11.425,
+    8.197,
+    6.115
+   ],
+   "mb": 0.11
+  },
+  {
+   "file": "KRM_STATIC_034.fbx",
+   "tris": 28000,
+   "verts": 14008,
+   "parts": [
+    "P3 side gallery balustrade R iron heart scrolls#00"
+   ],
+   "bbox_min_m": [
+    11.368,
+    -38.536,
+    5.35
+   ],
+   "bbox_max_m": [
+    11.392,
+    2.95,
+    5.813
+   ],
+   "mb": 0.43
+  },
+  {
+   "file": "KRM_STATIC_035.fbx",
+   "tris": 27988,
+   "verts": 17154,
+   "parts": [
+    "P3 side gallery balustrade R iron heart scrolls#01",
+    "P3 side gallery balustrade R iron posts",
+    "P3 sideboard L crystal",
+    "P3 sideboard L gilt",
+    "P3 sideboard L gilt lines",
+    "P3 sideboard L gilt ornaments",
+    "P3 sideboard L gilt turned",
+    "P3 sideboard L iron",
+    "P3 sideboard L marble",
+    "P3 sideboard L marble turned",
+    "P3 sideboard L mirror gilt frame",
+    "P3 sideboard L mirror glass",
+    "P3 sideboard L mirror sapphire frame",
+    "P3 sideboard L porcelain",
+    "P3 sideboard L sapphire panels",
+    "P3 sideboard L trolley gilt frame",
+    "P3 sideboard L trolley sapphire wheels",
+    "P3 sideboard R crystal",
+    "P3 sideboard R gilt",
+    "P3 sideboard R gilt lines",
+    "P3 sideboard R gilt ornaments",
+    "P3 sideboard R gilt turned",
+    "P3 sideboard R iron",
+    "P3 sideboard R marble",
+    "P3 sideboard R marble turned",
+    "P3 sideboard R mirror gilt frame",
+    "P3 sideboard R mirror glass",
+    "P3 sideboard R mirror sapphire frame",
+    "P3 sideboard R porcelain",
+    "P3 sideboard R sapphire panels",
+    "P3 sideboard R trolley gilt frame",
+    "P3 sideboard R trolley sapphire wheels",
+    "P3 sofa L-33.5 carved frame",
+    "P3 sofa L-33.5 carved rails",
+    "P3 sofa L-33.5 gilt"
+   ],
+   "bbox_min_m": [
+    -15.765,
+    -38.597,
+    -0.01
+   ],
+   "bbox_max_m": [
+    15.765,
+    8.197,
+    6.07
+   ],
+   "mb": 0.55
+  },
+  {
+   "file": "KRM_STATIC_036.fbx",
+   "tris": 27524,
+   "verts": 16044,
+   "parts": [
+    "P3 sofa L-33.5 gilt beads",
+    "P3 sofa L-33.5 gilt cabriole legs",
+    "P3 sofa L-33.5 gilt crest",
+    "P3 sofa L-33.5 velvet",
+    "P3 sofa L-5.5 carved frame",
+    "P3 sofa L-5.5 carved rails",
+    "P3 sofa L-5.5 gilt",
+    "P3 sofa L-5.5 gilt beads",
+    "P3 sofa L-5.5 gilt cabriole legs",
+    "P3 sofa L-5.5 gilt crest",
+    "P3 sofa L-5.5 velvet",
+    "P3 sofa R-33.5 carved frame",
+    "P3 sofa R-33.5 carved rails",
+    "P3 sofa R-33.5 gilt",
+    "P3 sofa R-33.5 gilt beads",
+    "P3 sofa R-33.5 gilt cabriole legs",
+    "P3 sofa R-33.5 gilt crest",
+    "P3 sofa R-33.5 velvet",
+    "P3 sofa R-5.5 carved frame",
+    "P3 sofa R-5.5 carved rails",
+    "P3 sofa R-5.5 gilt",
+    "P3 sofa R-5.5 gilt beads",
+    "P3 sofa R-5.5 gilt cabriole legs",
+    "P3 sofa R-5.5 gilt crest",
+    "P3 sofa R-5.5 velvet",
+    "P3 stair gilt nosing L",
+    "P3 stair gilt nosing R",
+    "P3 stair inner balustrade L gilt handrail",
+    "P3 stair inner balustrade L iron bottom rail",
+    "P3 stair inner balustrade L iron heart scrolls",
+    "P3 stair inner balustrade L iron posts",
+    "P3 stair inner balustrade R gilt handrail",
+    "P3 stair inner balustrade R iron bottom rail",
+    "P3 stair inner balustrade R iron heart scrolls",
+    "P3 stair inner balustrade R iron posts",
+    "P3 stair inner frieze gilt lines L"
+   ],
+   "bbox_min_m": [
+    -15.725,
+    -34.575,
+    -0.002
+   ],
+   "bbox_max_m": [
+    15.725,
+    8.603,
+    6.189
+   ],
+   "mb": 0.61
+  },
+  {
+   "file": "KRM_STATIC_037.fbx",
+   "tris": 26468,
+   "verts": 14176,
+   "parts": [
+    "P3 stair inner frieze gilt lines R",
+    "P3 stair inner frieze gilt scrolls L",
+    "P3 stair inner frieze gilt scrolls R",
+    "P3 stair inner stringer marble L",
+    "P3 stair inner stringer marble R",
+    "P3 stair marble treads L",
+    "P3 stair marble treads R",
+    "P3 stair outer balustrade L gilt handrail",
+    "P3 stair outer balustrade L iron bottom rail"
+   ],
+   "bbox_min_m": [
+    -5.6,
+    -0.85,
+    0.0
+   ],
+   "bbox_max_m": [
+    5.6,
+    8.85,
+    5.642
+   ],
+   "mb": 0.59
+  },
+  {
+   "file": "KRM_STATIC_038.fbx",
+   "tris": 23376,
+   "verts": 12624,
+   "parts": [
+    "P3 stair outer balustrade L iron heart scrolls",
+    "P3 stair outer balustrade L iron posts",
+    "P3 stair outer balustrade R gilt handrail",
+    "P3 stair outer balustrade R iron bottom rail",
+    "P3 stair outer balustrade R iron heart scrolls",
+    "P3 stair outer balustrade R iron posts",
+    "P3 stair outer frieze gilt lines L",
+    "P3 stair outer frieze gilt lines R"
+   ],
+   "bbox_min_m": [
+    -5.754,
+    -0.983,
+    0.132
+   ],
+   "bbox_max_m": [
+    5.754,
+    8.209,
+    5.642
+   ],
+   "mb": 0.47
+  },
+  {
+   "file": "KRM_STATIC_039.fbx",
+   "tris": 24072,
+   "verts": 12844,
+   "parts": [
+    "P3 stair outer frieze gilt scrolls L",
+    "P3 stair outer frieze gilt scrolls R",
+    "P3 stair outer stringer marble L",
+    "P3 stair outer stringer marble R",
+    "P3 tea T00 P8 leg gilt knee leaves",
+    "P3 tea T00 berries",
+    "P3 tea T00 cake",
+    "P3 tea T00 carved table feet",
+    "P3 tea T00 crystal plates",
+    "P3 tea T00 cutlery"
+   ],
+   "bbox_min_m": [
+    -7.49,
+    -3.49,
+    0.0
+   ],
+   "bbox_max_m": [
+    5.746,
+    8.183,
+    4.956
+   ],
+   "mb": 0.54
+  },
+  {
+   "file": "KRM_STATIC_040.fbx",
+   "tris": 26740,
+   "verts": 14252,
+   "parts": [
+    "P3 tea T00 gilt inlay and rug scrolls",
+    "P3 tea T00 gilt lines",
+    "P3 tea T00 gilt metal",
+    "P3 tea T00 marble table",
+    "P3 tea T00 porcelain",
+    "P3 tea T00 rug velvet",
+    "P3 tea T01 P8 leg gilt knee leaves"
+   ],
+   "bbox_min_m": [
+    -8.8,
+    -8.225,
+    0.0
+   ],
+   "bbox_max_m": [
+    -5.2,
+    -1.2,
+    1.31
+   ],
+   "mb": 0.54
+  },
+  {
+   "file": "KRM_STATIC_041.fbx",
+   "tris": 26220,
+   "verts": 14080,
+   "parts": [
+    "P3 tea T01 berries",
+    "P3 tea T01 cake",
+    "P3 tea T01 carved table feet",
+    "P3 tea T01 crystal plates",
+    "P3 tea T01 cutlery",
+    "P3 tea T01 gilt inlay and rug scrolls"
+   ],
+   "bbox_min_m": [
+    -8.352,
+    -9.352,
+    0.007
+   ],
+   "bbox_max_m": [
+    -5.648,
+    -6.648,
+    1.222
+   ],
+   "mb": 0.54
+  },
+  {
+   "file": "KRM_STATIC_042.fbx",
+   "tris": 13096,
+   "verts": 6804,
+   "parts": [
+    "P3 tea T01 gilt lines",
+    "P3 tea T01 gilt metal",
+    "P3 tea T01 marble table",
+    "P3 tea T01 porcelain",
+    "P3 tea T01 rug velvet",
+    "P3 tea T02 P8 leg gilt knee leaves",
+    "P3 tea T02 berries",
+    "P3 tea T02 cake",
+    "P3 tea T02 carved table feet",
+    "P3 tea T02 crystal plates",
+    "P3 tea T02 cutlery"
+   ],
+   "bbox_min_m": [
+    -8.8,
+    -31.49,
+    0.0
+   ],
+   "bbox_max_m": [
+    -5.2,
+    -6.2,
+    1.31
+   ],
+   "mb": 0.27
+  },
+  {
+   "file": "KRM_STATIC_043.fbx",
+   "tris": 26740,
+   "verts": 14252,
+   "parts": [
+    "P3 tea T02 gilt inlay and rug scrolls",
+    "P3 tea T02 gilt lines",
+    "P3 tea T02 gilt metal",
+    "P3 tea T02 marble table",
+    "P3 tea T02 porcelain",
+    "P3 tea T02 rug velvet",
+    "P3 tea T03 P8 leg gilt knee leaves"
+   ],
+   "bbox_min_m": [
+    -8.8,
+    -36.225,
+    0.0
+   ],
+   "bbox_max_m": [
+    -5.2,
+    -29.2,
+    1.31
+   ],
+   "mb": 0.54
+  },
+  {
+   "file": "KRM_STATIC_044.fbx",
+   "tris": 26220,
+   "verts": 14080,
+   "parts": [
+    "P3 tea T03 berries",
+    "P3 tea T03 cake",
+    "P3 tea T03 carved table feet",
+    "P3 tea T03 crystal plates",
+    "P3 tea T03 cutlery",
+    "P3 tea T03 gilt inlay and rug scrolls"
+   ],
+   "bbox_min_m": [
+    -8.352,
+    -37.352,
+    0.007
+   ],
+   "bbox_max_m": [
+    -5.648,
+    -34.648,
+    1.222
+   ],
+   "mb": 0.53
+  },
+  {
+   "file": "KRM_STATIC_045.fbx",
+   "tris": 13096,
+   "verts": 6804,
+   "parts": [
+    "P3 tea T03 gilt lines",
+    "P3 tea T03 gilt metal",
+    "P3 tea T03 marble table",
+    "P3 tea T03 porcelain",
+    "P3 tea T03 rug velvet",
+    "P3 tea T04 P8 leg gilt knee leaves",
+    "P3 tea T04 berries",
+    "P3 tea T04 cake",
+    "P3 tea T04 carved table feet",
+    "P3 tea T04 crystal plates",
+    "P3 tea T04 cutlery"
+   ],
+   "bbox_min_m": [
+    -8.8,
+    -37.8,
+    0.0
+   ],
+   "bbox_max_m": [
+    7.49,
+    -2.51,
+    1.31
+   ],
+   "mb": 0.27
+  },
+  {
+   "file": "KRM_STATIC_046.fbx",
+   "tris": 26740,
+   "verts": 14252,
+   "parts": [
+    "P3 tea T04 gilt inlay and rug scrolls",
+    "P3 tea T04 gilt lines",
+    "P3 tea T04 gilt metal",
+    "P3 tea T04 marble table",
+    "P3 tea T04 porcelain",
+    "P3 tea T04 rug velvet",
+    "P3 tea T05 P8 leg gilt knee leaves"
+   ],
+   "bbox_min_m": [
+    5.2,
+    -8.225,
+    0.0
+   ],
+   "bbox_max_m": [
+    8.8,
+    -1.2,
+    1.31
+   ],
+   "mb": 0.54
+  },
+  {
+   "file": "KRM_STATIC_047.fbx",
+   "tris": 26220,
+   "verts": 14080,
+   "parts": [
+    "P3 tea T05 berries",
+    "P3 tea T05 cake",
+    "P3 tea T05 carved table feet",
+    "P3 tea T05 crystal plates",
+    "P3 tea T05 cutlery",
+    "P3 tea T05 gilt inlay and rug scrolls"
+   ],
+   "bbox_min_m": [
+    5.648,
+    -9.352,
+    0.007
+   ],
+   "bbox_max_m": [
+    8.352,
+    -6.648,
+    1.222
+   ],
+   "mb": 0.54
+  },
+  {
+   "file": "KRM_STATIC_048.fbx",
+   "tris": 13096,
+   "verts": 6804,
+   "parts": [
+    "P3 tea T05 gilt lines",
+    "P3 tea T05 gilt metal",
+    "P3 tea T05 marble table",
+    "P3 tea T05 porcelain",
+    "P3 tea T05 rug velvet",
+    "P3 tea T06 P8 leg gilt knee leaves",
+    "P3 tea T06 berries",
+    "P3 tea T06 cake",
+    "P3 tea T06 carved table feet",
+    "P3 tea T06 crystal plates",
+    "P3 tea T06 cutlery"
+   ],
+   "bbox_min_m": [
+    5.2,
+    -31.49,
+    0.0
+   ],
+   "bbox_max_m": [
+    8.8,
+    -6.2,
+    1.31
+   ],
+   "mb": 0.27
+  },
+  {
+   "file": "KRM_STATIC_049.fbx",
+   "tris": 26740,
+   "verts": 14252,
+   "parts": [
+    "P3 tea T06 gilt inlay and rug scrolls",
+    "P3 tea T06 gilt lines",
+    "P3 tea T06 gilt metal",
+    "P3 tea T06 marble table",
+    "P3 tea T06 porcelain",
+    "P3 tea T06 rug velvet",
+    "P3 tea T07 P8 leg gilt knee leaves"
+   ],
+   "bbox_min_m": [
+    5.2,
+    -36.225,
+    0.0
+   ],
+   "bbox_max_m": [
+    8.8,
+    -29.2,
+    1.31
+   ],
+   "mb": 0.54
+  },
+  {
+   "file": "KRM_STATIC_050.fbx",
+   "tris": 26220,
+   "verts": 14080,
+   "parts": [
+    "P3 tea T07 berries",
+    "P3 tea T07 cake",
+    "P3 tea T07 carved table feet",
+    "P3 tea T07 crystal plates",
+    "P3 tea T07 cutlery",
+    "P3 tea T07 gilt inlay and rug scrolls"
+   ],
+   "bbox_min_m": [
+    5.648,
+    -37.352,
+    0.007
+   ],
+   "bbox_max_m": [
+    8.352,
+    -34.648,
+    1.222
+   ],
+   "mb": 0.53
+  },
+  {
+   "file": "KRM_STATIC_051.fbx",
+   "tris": 13096,
+   "verts": 6804,
+   "parts": [
+    "P3 tea T07 gilt lines",
+    "P3 tea T07 gilt metal",
+    "P3 tea T07 marble table",
+    "P3 tea T07 porcelain",
+    "P3 tea T07 rug velvet",
+    "P3 tea T08 P8 leg gilt knee leaves",
+    "P3 tea T08 berries",
+    "P3 tea T08 cake",
+    "P3 tea T08 carved table feet",
+    "P3 tea T08 crystal plates",
+    "P3 tea T08 cutlery"
+   ],
+   "bbox_min_m": [
+    -14.19,
+    -37.8,
+    0.0
+   ],
+   "bbox_max_m": [
+    8.8,
+    -9.01,
+    6.342
+   ],
+   "mb": 0.27
+  },
+  {
+   "file": "KRM_STATIC_052.fbx",
+   "tris": 26740,
+   "verts": 14252,
+   "parts": [
+    "P3 tea T08 gilt inlay and rug scrolls",
+    "P3 tea T08 gilt lines",
+    "P3 tea T08 gilt metal",
+    "P3 tea T08 marble table",
+    "P3 tea T08 porcelain",
+    "P3 tea T08 rug velvet",
+    "P3 tea T09 P8 leg gilt knee leaves"
+   ],
+   "bbox_min_m": [
+    -15.5,
+    -11.3,
+    5.12
+   ],
+   "bbox_max_m": [
+    -11.9,
+    0.725,
+    6.43
+   ],
+   "mb": 0.53
+  },
+  {
+   "file": "KRM_STATIC_053.fbx",
+   "tris": 26220,
+   "verts": 14080,
+   "parts": [
+    "P3 tea T09 berries",
+    "P3 tea T09 cake",
+    "P3 tea T09 carved table feet",
+    "P3 tea T09 crystal plates",
+    "P3 tea T09 cutlery",
+    "P3 tea T09 gilt inlay and rug scrolls"
+   ],
+   "bbox_min_m": [
+    -15.052,
+    -0.852,
+    5.127
+   ],
+   "bbox_max_m": [
+    -12.348,
+    1.852,
+    6.342
+   ],
+   "mb": 0.54
+  },
+  {
+   "file": "KRM_STATIC_054.fbx",
+   "tris": 13096,
+   "verts": 6804,
+   "parts": [
+    "P3 tea T09 gilt lines",
+    "P3 tea T09 gilt metal",
+    "P3 tea T09 marble table",
+    "P3 tea T09 porcelain",
+    "P3 tea T09 rug velvet",
+    "P3 tea T10 P8 leg gilt knee leaves",
+    "P3 tea T10 berries",
+    "P3 tea T10 cake",
+    "P3 tea T10 carved table feet",
+    "P3 tea T10 crystal plates",
+    "P3 tea T10 cutlery"
+   ],
+   "bbox_min_m": [
+    -15.5,
+    -24.49,
+    5.12
+   ],
+   "bbox_max_m": [
+    -11.9,
+    2.3,
+    6.43
+   ],
+   "mb": 0.27
+  },
+  {
+   "file": "KRM_STATIC_055.fbx",
+   "tris": 26740,
+   "verts": 14252,
+   "parts": [
+    "P3 tea T10 gilt inlay and rug scrolls",
+    "P3 tea T10 gilt lines",
+    "P3 tea T10 gilt metal",
+    "P3 tea T10 marble table",
+    "P3 tea T10 porcelain",
+    "P3 tea T10 rug velvet",
+    "P3 tea T11 P8 leg gilt knee leaves"
+   ],
+   "bbox_min_m": [
+    -15.5,
+    -33.225,
+    5.12
+   ],
+   "bbox_max_m": [
+    -11.9,
+    -22.2,
+    6.43
+   ],
+   "mb": 0.53
+  },
+  {
+   "file": "KRM_STATIC_056.fbx",
+   "tris": 26220,
+   "verts": 14080,
+   "parts": [
+    "P3 tea T11 berries",
+    "P3 tea T11 cake",
+    "P3 tea T11 carved table feet",
+    "P3 tea T11 crystal plates",
+    "P3 tea T11 cutlery",
+    "P3 tea T11 gilt inlay and rug scrolls"
+   ],
+   "bbox_min_m": [
+    -15.052,
+    -34.352,
+    5.127
+   ],
+   "bbox_max_m": [
+    -12.348,
+    -31.648,
+    6.342
+   ],
+   "mb": 0.53
+  },
+  {
+   "file": "KRM_STATIC_057.fbx",
+   "tris": 13096,
+   "verts": 6804,
+   "parts": [
+    "P3 tea T11 gilt lines",
+    "P3 tea T11 gilt metal",
+    "P3 tea T11 marble table",
+    "P3 tea T11 porcelain",
+    "P3 tea T11 rug velvet",
+    "P3 tea T12 P8 leg gilt knee leaves",
+    "P3 tea T12 berries",
+    "P3 tea T12 cake",
+    "P3 tea T12 carved table feet",
+    "P3 tea T12 crystal plates",
+    "P3 tea T12 cutlery"
+   ],
+   "bbox_min_m": [
+    -15.5,
+    -34.8,
+    5.12
+   ],
+   "bbox_max_m": [
+    14.19,
+    -9.01,
+    6.43
+   ],
+   "mb": 0.27
+  },
+  {
+   "file": "KRM_STATIC_058.fbx",
+   "tris": 26740,
+   "verts": 14252,
+   "parts": [
+    "P3 tea T12 gilt inlay and rug scrolls",
+    "P3 tea T12 gilt lines",
+    "P3 tea T12 gilt metal",
+    "P3 tea T12 marble table",
+    "P3 tea T12 porcelain",
+    "P3 tea T12 rug velvet",
+    "P3 tea T13 P8 leg gilt knee leaves"
+   ],
+   "bbox_min_m": [
+    11.9,
+    -11.3,
+    5.12
+   ],
+   "bbox_max_m": [
+    15.5,
+    0.725,
+    6.43
+   ],
+   "mb": 0.53
+  },
+  {
+   "file": "KRM_STATIC_059.fbx",
+   "tris": 26220,
+   "verts": 14080,
+   "parts": [
+    "P3 tea T13 berries",
+    "P3 tea T13 cake",
+    "P3 tea T13 carved table feet",
+    "P3 tea T13 crystal plates",
+    "P3 tea T13 cutlery",
+    "P3 tea T13 gilt inlay and rug scrolls"
+   ],
+   "bbox_min_m": [
+    12.348,
+    -0.852,
+    5.127
+   ],
+   "bbox_max_m": [
+    15.052,
+    1.852,
+    6.342
+   ],
+   "mb": 0.54
+  },
+  {
+   "file": "KRM_STATIC_060.fbx",
+   "tris": 13096,
+   "verts": 6804,
+   "parts": [
+    "P3 tea T13 gilt lines",
+    "P3 tea T13 gilt metal",
+    "P3 tea T13 marble table",
+    "P3 tea T13 porcelain",
+    "P3 tea T13 rug velvet",
+    "P3 tea T14 P8 leg gilt knee leaves",
+    "P3 tea T14 berries",
+    "P3 tea T14 cake",
+    "P3 tea T14 carved table feet",
+    "P3 tea T14 crystal plates",
+    "P3 tea T14 cutlery"
+   ],
+   "bbox_min_m": [
+    11.9,
+    -24.49,
+    5.12
+   ],
+   "bbox_max_m": [
+    15.5,
+    2.3,
+    6.43
+   ],
+   "mb": 0.27
+  },
+  {
+   "file": "KRM_STATIC_061.fbx",
+   "tris": 26740,
+   "verts": 14252,
+   "parts": [
+    "P3 tea T14 gilt inlay and rug scrolls",
+    "P3 tea T14 gilt lines",
+    "P3 tea T14 gilt metal",
+    "P3 tea T14 marble table",
+    "P3 tea T14 porcelain",
+    "P3 tea T14 rug velvet",
+    "P3 tea T15 P8 leg gilt knee leaves"
+   ],
+   "bbox_min_m": [
+    11.9,
+    -33.225,
+    5.12
+   ],
+   "bbox_max_m": [
+    15.5,
+    -22.2,
+    6.43
+   ],
+   "mb": 0.53
+  },
+  {
+   "file": "KRM_STATIC_062.fbx",
+   "tris": 26220,
+   "verts": 14080,
+   "parts": [
+    "P3 tea T15 berries",
+    "P3 tea T15 cake",
+    "P3 tea T15 carved table feet",
+    "P3 tea T15 crystal plates",
+    "P3 tea T15 cutlery",
+    "P3 tea T15 gilt inlay and rug scrolls"
+   ],
+   "bbox_min_m": [
+    12.348,
+    -34.352,
+    5.127
+   ],
+   "bbox_max_m": [
+    15.052,
+    -31.648,
+    6.342
+   ],
+   "mb": 0.53
+  },
+  {
+   "file": "KRM_STATIC_063.fbx",
+   "tris": 18820,
+   "verts": 11640,
+   "parts": [
+    "P3 tea T15 gilt lines",
+    "P3 tea T15 gilt metal",
+    "P3 tea T15 marble table",
+    "P3 tea T15 porcelain",
+    "P3 tea T15 rug velvet",
+    "P3 wall gilt frames"
+   ],
+   "bbox_min_m": [
+    -15.755,
+    -40.235,
+    0.515
+   ],
+   "bbox_max_m": [
+    15.755,
+    13.755,
+    11.85
+   ],
+   "mb": 0.25
+  },
+  {
+   "file": "KRM_STATIC_064.fbx",
+   "tris": 28000,
+   "verts": 15120,
+   "parts": [
+    "P3 wall gilt panel scrolls#00"
+   ],
+   "bbox_min_m": [
+    -15.708,
+    -39.162,
+    0.898
+   ],
+   "bbox_max_m": [
+    15.708,
+    -18.059,
+    10.052
+   ],
+   "mb": 0.47
+  },
+  {
+   "file": "KRM_STATIC_065.fbx",
+   "tris": 28000,
+   "verts": 15272,
+   "parts": [
+    "P3 wall gilt panel scrolls#01"
+   ],
+   "bbox_min_m": [
+    -15.708,
+    -18.082,
+    0.898
+   ],
+   "bbox_max_m": [
+    15.708,
+    4.905,
+    10.052
+   ],
+   "mb": 0.53
+  },
+  {
+   "file": "KRM_STATIC_066.fbx",
+   "tris": 20896,
+   "verts": 11368,
+   "parts": [
+    "P3 wall gilt panel scrolls#02"
+   ],
+   "bbox_min_m": [
+    -15.708,
+    4.854,
+    0.898
+   ],
+   "bbox_max_m": [
+    15.708,
+    13.708,
+    10.052
+   ],
+   "mb": 0.38
+  },
+  {
+   "file": "KRM_STATIC_067.fbx",
+   "tris": 28000,
+   "verts": 14536,
+   "parts": [
+    "P3 wall gilt rosettes and lantern metal#00"
+   ],
+   "bbox_min_m": [
+    -15.75,
+    -39.795,
+    0.91
+   ],
+   "bbox_max_m": [
+    15.75,
+    -15.88,
+    10.04
+   ],
+   "mb": 0.49
+  },
+  {
+   "file": "KRM_STATIC_068.fbx",
+   "tris": 28000,
+   "verts": 14688,
+   "parts": [
+    "P3 wall gilt rosettes and lantern metal#01"
+   ],
+   "bbox_min_m": [
+    -15.75,
+    -16.0,
+    0.91
+   ],
+   "bbox_max_m": [
+    15.75,
+    7.0,
+    10.04
+   ],
+   "mb": 0.52
+  },
+  {
+   "file": "KRM_STATIC_069.fbx",
+   "tris": 26280,
+   "verts": 14492,
+   "parts": [
+    "P3 wall gilt rosettes and lantern metal#02",
+    "P3 wall marble panels",
+    "P3 wall sapphire narrow panels",
+    "P5 ceiling",
+    "P5 ceiling band E",
+    "P5 ceiling band N",
+    "P5 ceiling band S",
+    "P5 ceiling band W",
+    "P5 ceiling band gilt E",
+    "P5 ceiling band gilt N",
+    "P5 ceiling band gilt S",
+    "P5 ceiling band gilt W",
+    "P5 chandelier F stem",
+    "P5 chandelier F | arms",
+    "P5 chandelier F | crystal strands",
+    "P5 chandelier R stem",
+    "P5 chandelier R | arms"
+   ],
+   "bbox_min_m": [
+    -15.775,
+    -58.475,
+    0.55
+   ],
+   "bbox_max_m": [
+    15.775,
+    13.775,
+    12.055
+   ],
+   "mb": 0.53
+  },
+  {
+   "file": "KRM_STATIC_070.fbx",
+   "tris": 19788,
+   "verts": 12524,
+   "parts": [
+    "P5 chandelier R | crystal strands",
+    "P5 cove back",
+    "P5 cove front",
+    "P5 cove left",
+    "P5 cove right",
+    "P5 firebox back",
+    "P5 firebox floor",
+    "P5 firebox left",
+    "P5 firebox right",
+    "P5 firebox top",
+    "P5 fireplace breast",
+    "P5 fireplace jamb L",
+    "P5 fireplace jamb R",
+    "P5 fireplace lintel",
+    "P5 fireplace mantel",
+    "P5 fireplace pier L",
+    "P5 fireplace pier R",
+    "P5 floor",
+    "P5 floor band E",
+    "P5 floor band N",
+    "P5 floor band S",
+    "P5 floor band W",
+    "P5 floor checker",
+    "P5 floor gilt E",
+    "P5 floor gilt N",
+    "P5 floor gilt S",
+    "P5 floor gilt W",
+    "P5 hearth slab",
+    "P5 overmantel frame",
+    "P5 overmantel mirror",
+    "P5 sconce L-45.0",
+    "P5 sconce L-50.2",
+    "P5 sconce L-55.5",
+    "P5 sconce R-45.0",
+    "P5 sconce R-50.2",
+    "P5 sconce R-55.5",
+    "P5 wall back",
+    "P5 wall left",
+    "P5 wall right",
+    "P7 basin gilt spout shells",
+    "P7 basin gilt spouts",
+    "P7 basin scalloped gilt rim",
+    "P7 fountain gilt spout heads and nozzles.001",
+    "P7 fountain mosaic floor.001",
+    "P7 fountain mosaic gilt rings"
+   ],
+   "bbox_min_m": [
+    -11.45,
+    -58.7,
+    -0.3
+   ],
+   "bbox_max_m": [
+    11.45,
+    6.424,
+    10.2
+   ],
+   "mb": 0.39
+  },
+  {
+   "file": "KRM_STATIC_071.fbx",
+   "tris": 26960,
+   "verts": 13928,
+   "parts": [
+    "P7 fountain water streams (GN)",
+    "P7 lower bowl acanthus midrib",
+    "P7 lower bowl acanthus outline",
+    "P7 lower bowl scalloped gilt rim"
+   ],
+   "bbox_min_m": [
+    -1.967,
+    2.033,
+    0.502
+   ],
+   "bbox_max_m": [
+    1.967,
+    5.967,
+    2.943
+   ],
+   "mb": 0.49
+  },
+  {
+   "file": "KRM_STATIC_072.fbx",
+   "tris": 22484,
+   "verts": 12328,
+   "parts": [
+    "P7 pedestal gilt volute brackets",
+    "P7 upper bowl acanthus midrib",
+    "P7 upper bowl acanthus outline",
+    "P7 upper bowl scalloped gilt rim",
+    "P7 water basin body",
+    "P7 water lower bowl body",
+    "P7 water overflow sheet lower",
+    "P7 water overflow sheet upper",
+    "P7 water upper bowl body",
+    "P8 angel arms",
+    "P8 angel carved details",
+    "P8 angel draped robe",
+    "P8 angel fingers",
+    "P8 angel hair locks",
+    "P8 angel laurel wreath",
+    "P8 angel raised arms",
+    "P8 angel sash",
+    "P8 angel torso",
+    "P8 banner gilt fittings -5",
+    "P8 banner gilt fittings 5"
+   ],
+   "bbox_min_m": [
+    -5.851,
+    -37.79,
+    0.12
+   ],
+   "bbox_max_m": [
+    5.851,
+    6.07,
+    5.74
+   ],
+   "mb": 0.43
+  },
+  {
+   "file": "KRM_STATIC_073.fbx",
+   "tris": 27424,
+   "verts": 14206,
+   "parts": [
+    "P8 banner gilt fleur-de-lis -5",
+    "P8 banner gilt fleur-de-lis 5",
+    "P8 candelabrum L -0.5 candles",
+    "P8 candelabrum L -0.5 crystals",
+    "P8 candelabrum L -0.5 flames",
+    "P8 candelabrum L -0.5 gilt",
+    "P8 candelabrum L -0.5 gilt arms",
+    "P8 candelabrum L -0.5 iron stand",
+    "P8 candelabrum L -10.5 candles",
+    "P8 candelabrum L -10.5 crystals",
+    "P8 candelabrum L -10.5 flames",
+    "P8 candelabrum L -10.5 gilt",
+    "P8 candelabrum L -10.5 gilt arms",
+    "P8 candelabrum L -10.5 iron stand",
+    "P8 candelabrum L -18.5 candles",
+    "P8 candelabrum L -18.5 crystals",
+    "P8 candelabrum L -18.5 flames"
+   ],
+   "bbox_min_m": [
+    -15.588,
+    -37.785,
+    -0.003
+   ],
+   "bbox_max_m": [
+    5.345,
+    -0.17,
+    3.673
+   ],
+   "mb": 0.5
+  },
+  {
+   "file": "KRM_STATIC_074.fbx",
+   "tris": 25248,
+   "verts": 13890,
+   "parts": [
+    "P8 candelabrum L -18.5 gilt",
+    "P8 candelabrum L -18.5 gilt arms",
+    "P8 candelabrum L -18.5 iron stand",
+    "P8 candelabrum L -28.5 candles",
+    "P8 candelabrum L -28.5 crystals",
+    "P8 candelabrum L -28.5 flames",
+    "P8 candelabrum L -28.5 gilt",
+    "P8 candelabrum L -28.5 gilt arms",
+    "P8 candelabrum L -28.5 iron stand",
+    "P8 candelabrum R -0.5 candles",
+    "P8 candelabrum R -0.5 crystals",
+    "P8 candelabrum R -0.5 flames",
+    "P8 candelabrum R -0.5 gilt",
+    "P8 candelabrum R -0.5 gilt arms",
+    "P8 candelabrum R -0.5 iron stand",
+    "P8 candelabrum R -10.5 candles",
+    "P8 candelabrum R -10.5 crystals",
+    "P8 candelabrum R -10.5 flames",
+    "P8 candelabrum R -10.5 gilt",
+    "P8 candelabrum R -10.5 gilt arms",
+    "P8 candelabrum R -10.5 iron stand",
+    "P8 candelabrum R -18.5 candles",
+    "P8 candelabrum R -18.5 crystals",
+    "P8 candelabrum R -18.5 flames",
+    "P8 candelabrum R -18.5 gilt",
+    "P8 candelabrum R -18.5 gilt arms",
+    "P8 candelabrum R -18.5 iron stand",
+    "P8 candelabrum R -28.5 candles",
+    "P8 candelabrum R -28.5 crystals",
+    "P8 candelabrum R -28.5 flames",
+    "P8 candelabrum R -28.5 gilt",
+    "P8 candelabrum R -28.5 gilt arms",
+    "P8 candelabrum R -28.5 iron stand"
+   ],
+   "bbox_min_m": [
+    -15.588,
+    -28.83,
+    -0.003
+   ],
+   "bbox_max_m": [
+    15.645,
+    -0.17,
+    1.945
+   ],
+   "mb": 0.46
+  },
+  {
+   "file": "KRM_STATIC_075.fbx",
+   "tris": 28000,
+   "verts": 14492,
+   "parts": [
+    "P8 ceiling gilt acanthus reliefs#00"
+   ],
+   "bbox_min_m": [
+    -15.263,
+    -40.6,
+    11.945
+   ],
+   "bbox_max_m": [
+    15.263,
+    9.054,
+    11.995
+   ],
+   "mb": 0.46
+  },
+  {
+   "file": "KRM_STATIC_076.fbx",
+   "tris": 5344,
+   "verts": 2776,
+   "parts": [
+    "P8 ceiling gilt acanthus reliefs#01"
+   ],
+   "bbox_min_m": [
+    -15.263,
+    8.993,
+    11.945
+   ],
+   "bbox_max_m": [
+    15.258,
+    12.6,
+    11.995
+   ],
+   "mb": 0.11
+  },
+  {
+   "file": "KRM_STATIC_077.fbx",
+   "tris": 28000,
+   "verts": 14728,
+   "parts": [
+    "P8 chandelier front dome crystal beads#00"
+   ],
+   "bbox_min_m": [
+    -1.972,
+    -29.972,
+    7.34
+   ],
+   "bbox_max_m": [
+    1.972,
+    -26.673,
+    10.48
+   ],
+   "mb": 0.53
+  },
+  {
+   "file": "KRM_STATIC_078.fbx",
+   "tris": 5920,
+   "verts": 3144,
+   "parts": [
+    "P8 chandelier front dome crystal beads#01"
+   ],
+   "bbox_min_m": [
+    -1.432,
+    -26.683,
+    7.34
+   ],
+   "bbox_max_m": [
+    1.432,
+    -26.028,
+    8.891
+   ],
+   "mb": 0.13
+  },
+  {
+   "file": "KRM_STATIC_079.fbx",
+   "tris": 28000,
+   "verts": 14728,
+   "parts": [
+    "P8 chandelier rear dome crystal beads#00"
+   ],
+   "bbox_min_m": [
+    -1.972,
+    -1.972,
+    7.34
+   ],
+   "bbox_max_m": [
+    1.327,
+    1.972,
+    10.48
+   ],
+   "mb": 0.53
+  },
+  {
+   "file": "KRM_STATIC_080.fbx",
+   "tris": 27576,
+   "verts": 14144,
+   "parts": [
+    "P8 chandelier rear dome crystal beads#01",
+    "P8 clock L gilt details",
+    "P8 clock L gilt pediment",
+    "P8 clock L pendulum glass",
+    "P8 clock R gilt details",
+    "P8 clock R gilt pediment",
+    "P8 clock R pendulum glass",
+    "P8 column capital abacus edge (-11.4, -41.2)",
+    "P8 column capital abacus edge (-11.8, -13.0)",
+    "P8 column capital abacus edge (-11.8, -16.0)",
+    "P8 column capital abacus edge (-11.8, -21.0)",
+    "P8 column capital abacus edge (-11.8, -26.0)",
+    "P8 column capital abacus edge (-11.8, -3.0)",
+    "P8 column capital abacus edge (-11.8, -31.0)",
+    "P8 column capital abacus edge (-11.8, -36.0)",
+    "P8 column capital abacus edge (-11.8, -41.0)",
+    "P8 column capital abacus edge (-11.8, -8.0)",
+    "P8 column capital abacus edge (-11.8, 12.0)",
+    "P8 column capital abacus edge (-11.8, 13.3)",
+    "P8 column capital abacus edge (-11.8, 2.0)",
+    "P8 column capital abacus edge (-11.8, 7.0)",
+    "P8 column capital abacus edge (-15.2, -41.2)",
+    "P8 column capital abacus edge (-15.5, 13.3)",
+    "P8 column capital abacus edge (-3.4, -41.2)",
+    "P8 column capital abacus edge (-3.6, 13.3)",
+    "P8 column capital abacus edge (-7.6, -41.2)",
+    "P8 column capital abacus edge (-7.8, 13.3)",
+    "P8 column capital abacus edge (11.4, -41.2)",
+    "P8 column capital abacus edge (11.8, -13.0)",
+    "P8 column capital abacus edge (11.8, -16.0)",
+    "P8 column capital abacus edge (11.8, -21.0)",
+    "P8 column capital abacus edge (11.8, -26.0)",
+    "P8 column capital abacus edge (11.8, -3.0)",
+    "P8 column capital abacus edge (11.8, -31.0)",
+    "P8 column capital abacus edge (11.8, -36.0)",
+    "P8 column capital abacus edge (11.8, -41.0)",
+    "P8 column capital abacus edge (11.8, -8.0)",
+    "P8 column capital abacus edge (11.8, 12.0)",
+    "P8 column capital abacus edge (11.8, 13.3)"
+   ],
+   "bbox_min_m": [
+    -16.008,
+    -41.708,
+    0.245
+   ],
+   "bbox_max_m": [
+    14.673,
+    13.858,
+    11.362
+   ],
+   "mb": 0.46
+  },
+  {
+   "file": "KRM_STATIC_081.fbx",
+   "tris": 26720,
+   "verts": 14656,
+   "parts": [
+    "P8 column capital abacus edge (11.8, 2.0)",
+    "P8 column capital abacus edge (11.8, 7.0)",
+    "P8 column capital abacus edge (15.2, -41.2)",
+    "P8 column capital abacus edge (15.5, 13.3)",
+    "P8 column capital abacus edge (3.4, -41.2)",
+    "P8 column capital abacus edge (3.6, 13.3)",
+    "P8 column capital abacus edge (7.6, -41.2)",
+    "P8 column capital abacus edge (7.8, 13.3)",
+    "P8 column capital volutes (-11.4, -41.2)",
+    "P8 column capital volutes (-11.8, -13.0)",
+    "P8 column capital volutes (-11.8, -16.0)",
+    "P8 column capital volutes (-11.8, -21.0)",
+    "P8 column capital volutes (-11.8, -26.0)",
+    "P8 column capital volutes (-11.8, -3.0)",
+    "P8 column capital volutes (-11.8, -31.0)",
+    "P8 column capital volutes (-11.8, -36.0)",
+    "P8 column capital volutes (-11.8, -41.0)"
+   ],
+   "bbox_min_m": [
+    -12.192,
+    -41.708,
+    11.066
+   ],
+   "bbox_max_m": [
+    16.008,
+    13.858,
+    11.362
+   ],
+   "mb": 0.47
+  },
+  {
+   "file": "KRM_STATIC_082.fbx",
+   "tris": 26400,
+   "verts": 14784,
+   "parts": [
+    "P8 column capital volutes (-11.8, -8.0)",
+    "P8 column capital volutes (-11.8, 12.0)",
+    "P8 column capital volutes (-11.8, 13.3)",
+    "P8 column capital volutes (-11.8, 2.0)",
+    "P8 column capital volutes (-11.8, 7.0)",
+    "P8 column capital volutes (-15.2, -41.2)",
+    "P8 column capital volutes (-15.5, 13.3)",
+    "P8 column capital volutes (-3.4, -41.2)",
+    "P8 column capital volutes (-3.6, 13.3)",
+    "P8 column capital volutes (-7.6, -41.2)",
+    "P8 column capital volutes (-7.8, 13.3)"
+   ],
+   "bbox_min_m": [
+    -15.892,
+    -41.592,
+    11.066
+   ],
+   "bbox_max_m": [
+    -3.008,
+    13.742,
+    11.284
+   ],
+   "mb": 0.49
+  },
+  {
+   "file": "KRM_STATIC_083.fbx",
+   "tris": 26400,
+   "verts": 14784,
+   "parts": [
+    "P8 column capital volutes (11.4, -41.2)",
+    "P8 column capital volutes (11.8, -13.0)",
+    "P8 column capital volutes (11.8, -16.0)",
+    "P8 column capital volutes (11.8, -21.0)",
+    "P8 column capital volutes (11.8, -26.0)",
+    "P8 column capital volutes (11.8, -3.0)",
+    "P8 column capital volutes (11.8, -31.0)",
+    "P8 column capital volutes (11.8, -36.0)",
+    "P8 column capital volutes (11.8, -41.0)",
+    "P8 column capital volutes (11.8, -8.0)",
+    "P8 column capital volutes (11.8, 12.0)"
+   ],
+   "bbox_min_m": [
+    11.008,
+    -41.592,
+    11.066
+   ],
+   "bbox_max_m": [
+    12.192,
+    12.392,
+    11.284
+   ],
+   "mb": 0.48
+  },
+  {
+   "file": "KRM_STATIC_084.fbx",
+   "tris": 27996,
+   "verts": 15834,
+   "parts": [
+    "P8 column capital volutes (11.8, 13.3)",
+    "P8 column capital volutes (11.8, 2.0)",
+    "P8 column capital volutes (11.8, 7.0)",
+    "P8 column capital volutes (15.2, -41.2)",
+    "P8 column capital volutes (15.5, 13.3)",
+    "P8 column capital volutes (3.4, -41.2)",
+    "P8 column capital volutes (3.6, 13.3)",
+    "P8 column capital volutes (7.6, -41.2)",
+    "P8 column capital volutes (7.8, 13.3)",
+    "P8 hall floor border blue grey marble",
+    "P8 hall floor border gilt inlay",
+    "P8 sofa gallery L -18.5 carved frame",
+    "P8 sofa gallery L -18.5 carved rails",
+    "P8 sofa gallery L -18.5 gilt",
+    "P8 sofa gallery L -18.5 gilt cabriole legs",
+    "P8 sofa gallery L -18.5 gilt crest",
+    "P8 sofa gallery L -18.5 velvet",
+    "P8 sofa gallery L -28.5 carved frame",
+    "P8 sofa gallery L -28.5 carved rails",
+    "P8 sofa gallery L -28.5 gilt",
+    "P8 sofa gallery L -28.5 gilt cabriole legs",
+    "P8 sofa gallery L -28.5 gilt crest",
+    "P8 sofa gallery L -28.5 velvet",
+    "P8 sofa gallery L 4.5 carved frame",
+    "P8 sofa gallery L 4.5 carved rails",
+    "P8 sofa gallery L 4.5 gilt",
+    "P8 sofa gallery L 4.5 gilt cabriole legs",
+    "P8 sofa gallery L 4.5 gilt crest",
+    "P8 sofa gallery L 4.5 velvet"
+   ],
+   "bbox_min_m": [
+    -15.775,
+    -41.75,
+    0.0
+   ],
+   "bbox_max_m": [
+    15.892,
+    13.775,
+    11.284
+   ],
+   "mb": 0.56
+  },
+  {
+   "file": "KRM_STATIC_085.fbx",
+   "tris": 9132,
+   "verts": 5562,
+   "parts": [
+    "P8 sofa gallery R -18.5 carved frame",
+    "P8 sofa gallery R -18.5 carved rails",
+    "P8 sofa gallery R -18.5 gilt",
+    "P8 sofa gallery R -18.5 gilt cabriole legs",
+    "P8 sofa gallery R -18.5 gilt crest",
+    "P8 sofa gallery R -18.5 velvet",
+    "P8 sofa gallery R -28.5 carved frame",
+    "P8 sofa gallery R -28.5 carved rails",
+    "P8 sofa gallery R -28.5 gilt",
+    "P8 sofa gallery R -28.5 gilt cabriole legs",
+    "P8 sofa gallery R -28.5 gilt crest",
+    "P8 sofa gallery R -28.5 velvet",
+    "P8 sofa gallery R 4.5 carved frame",
+    "P8 sofa gallery R 4.5 carved rails",
+    "P8 sofa gallery R 4.5 gilt",
+    "P8 sofa gallery R 4.5 gilt cabriole legs",
+    "P8 sofa gallery R 4.5 gilt crest",
+    "P8 sofa gallery R 4.5 velvet",
+    "P8 soffit gilt frames"
+   ],
+   "bbox_min_m": [
+    -15.475,
+    -41.525,
+    4.765
+   ],
+   "bbox_max_m": [
+    15.725,
+    13.525,
+    6.443
+   ],
+   "mb": 0.17
+  },
+  {
+   "file": "KRM_STATIC_086.fbx",
+   "tris": 28000,
+   "verts": 14350,
+   "parts": [
+    "P8 soffit gilt rosettes#00"
+   ],
+   "bbox_min_m": [
+    -14.595,
+    -40.82,
+    4.712
+   ],
+   "bbox_max_m": [
+    14.595,
+    12.14,
+    4.802
+   ],
+   "mb": 0.49
+  },
+  {
+   "file": "KRM_STATIC_087.fbx",
+   "tris": 12256,
+   "verts": 6254,
+   "parts": [
+    "P8 soffit gilt rosettes#01",
+    "P8 soffit sapphire coffers",
+    "Rose window gilded rim",
+    "Rose window gilded rim.001",
+    "Rose window petal",
+    "Rose window petal.001",
+    "Rose window petal.002",
+    "Rose window petal.003",
+    "Rose window petal.004",
+    "Rose window petal.005",
+    "Wing ceiling medallion ring",
+    "Wing ceiling medallion ring.001",
+    "Wing ceiling medallion ring.002",
+    "Wing ceiling medallion ring.003",
+    "Wing ceiling medallion ring.004",
+    "Wing ceiling medallion ring.005",
+    "Wing ceiling medallion ring.006",
+    "Wing ceiling medallion ring.007",
+    "Wing ceiling panel moulding",
+    "Wing ceiling panel moulding.001",
+    "Wing ceiling panel moulding.002",
+    "Wing ceiling panel moulding.003"
+   ],
+   "bbox_min_m": [
+    -29.518,
+    -41.5,
+    4.742
+   ],
+   "bbox_max_m": [
+    29.518,
+    13.5,
+    11.425
+   ],
+   "mb": 0.21
+  }
+ ],
+ "masters": [
+  {
+   "file": "KRM_M00_Cube.fbx",
+   "mesh": "Cube",
+   "tris": 12,
+   "verts": 8,
+   "instances": 21,
+   "textured": false,
+   "mb": 0.02
+  },
+  {
+   "file": "KRM_M01_Cube.001.fbx",
+   "mesh": "Cube.001",
+   "tris": 12,
+   "verts": 8,
+   "instances": 58,
+   "textured": false,
+   "mb": 0.02
+  },
+  {
+   "file": "KRM_M02_Cube.002.fbx",
+   "mesh": "Cube.002",
+   "tris": 12,
+   "verts": 8,
+   "instances": 1,
+   "textured": false,
+   "mb": 0.02
+  },
+  {
+   "file": "KRM_M03_Cube.003.fbx",
+   "mesh": "Cube.003",
+   "tris": 12,
+   "verts": 8,
+   "instances": 5,
+   "textured": false,
+   "mb": 0.02
+  },
+  {
+   "file": "KRM_M04_Cube.005.fbx",
+   "mesh": "Cube.005",
+   "tris": 12,
+   "verts": 8,
+   "instances": 7,
+   "textured": false,
+   "mb": 0.02
+  },
+  {
+   "file": "KRM_M05_Cube.006.fbx",
+   "mesh": "Cube.006",
+   "tris": 12,
+   "verts": 8,
+   "instances": 4,
+   "textured": false,
+   "mb": 0.02
+  },
+  {
+   "file": "KRM_M06_Cube.007.fbx",
+   "mesh": "Cube.007",
+   "tris": 12,
+   "verts": 8,
+   "instances": 19,
+   "textured": false,
+   "mb": 0.02
+  },
+  {
+   "file": "KRM_M07_Cylinder.fbx",
+   "mesh": "Cylinder",
+   "tris": 92,
+   "verts": 48,
+   "instances": 169,
+   "textured": false,
+   "mb": 0.03
+  },
+  {
+   "file": "KRM_M08_Cylinder.001.fbx",
+   "mesh": "Cylinder.001",
+   "tris": 92,
+   "verts": 48,
+   "instances": 2,
+   "textured": false,
+   "mb": 0.03
+  },
+  {
+   "file": "KRM_M09_Cylinder.002.fbx",
+   "mesh": "Cylinder.002",
+   "tris": 92,
+   "verts": 48,
+   "instances": 33,
+   "textured": false,
+   "mb": 0.03
+  },
+  {
+   "file": "KRM_M10_Cylinder.007.fbx",
+   "mesh": "Cylinder.007",
+   "tris": 92,
+   "verts": 48,
+   "instances": 42,
+   "textured": false,
+   "mb": 0.03
+  },
+  {
+   "file": "KRM_M11_Cylinder.008.fbx",
+   "mesh": "Cylinder.008",
+   "tris": 92,
+   "verts": 48,
+   "instances": 2,
+   "textured": false,
+   "mb": 0.03
+  },
+  {
+   "file": "KRM_M12_Cylinder.009.fbx",
+   "mesh": "Cylinder.009",
+   "tris": 92,
+   "verts": 48,
+   "instances": 18,
+   "textured": false,
+   "mb": 0.03
+  },
+  {
+   "file": "KRM_M13_DOOR_unit_ball_Sapphire_stone.fbx",
+   "mesh": "DOOR_unit_ball_Sapphire stone",
+   "tris": 224,
+   "verts": 114,
+   "instances": 4,
+   "textured": false,
+   "mb": 0.03
+  },
+  {
+   "file": "KRM_M14_DOOR_unit_box_Antique_gilded_bronze.fbx",
+   "mesh": "DOOR_unit_box_Antique gilded bronze",
+   "tris": 12,
+   "verts": 8,
+   "instances": 30,
+   "textured": false,
+   "mb": 0.03
+  },
+  {
+   "file": "KRM_M15_DOOR_unit_box_Ivory_marble.fbx",
+   "mesh": "DOOR_unit_box_Ivory marble",
+   "tris": 12,
+   "verts": 8,
+   "instances": 20,
+   "textured": false,
+   "mb": 0.03
+  },
+  {
+   "file": "KRM_M16_GEN_knight_armor_LOD.fbx",
+   "mesh": "GEN_knight_armor_LOD",
+   "tris": 29148,
+   "verts": 27936,
+   "instances": 18,
+   "textured": true,
+   "mb": 3.36
+  },
+  {
+   "file": "KRM_M17_GEN_rococo_armchair_LOD.fbx",
+   "mesh": "GEN_rococo_armchair_LOD",
+   "tris": 17999,
+   "verts": 16686,
+   "instances": 64,
+   "textured": true,
+   "mb": 3.16
+  },
+  {
+   "file": "KRM_M18_P3_corridor_L_outer_glazing.fbx",
+   "mesh": "P3 corridor L outer glazing",
+   "tris": 416,
+   "verts": 216,
+   "instances": 4,
+   "textured": false,
+   "mb": 0.03
+  },
+  {
+   "file": "KRM_M19_P3_corridor_R_outer_glazing.fbx",
+   "mesh": "P3 corridor R outer glazing",
+   "tris": 416,
+   "verts": 216,
+   "instances": 4,
+   "textured": false,
+   "mb": 0.03
+  },
+  {
+   "file": "KRM_M20_P3_unit_ball_Antique_gilded_bronze.fbx",
+   "mesh": "P3_unit_ball_Antique gilded bronze",
+   "tris": 440,
+   "verts": 222,
+   "instances": 4,
+   "textured": false,
+   "mb": 0.03
+  },
+  {
+   "file": "KRM_M21_P3_unit_ball_Sapphire_stone.fbx",
+   "mesh": "P3_unit_ball_Sapphire stone",
+   "tris": 440,
+   "verts": 222,
+   "instances": 4,
+   "textured": false,
+   "mb": 0.03
+  },
+  {
+   "file": "KRM_M22_P3_unit_box_Antique_gilded_bronze.fbx",
+   "mesh": "P3_unit_box_Antique gilded bronze",
+   "tris": 12,
+   "verts": 8,
+   "instances": 4,
+   "textured": false,
+   "mb": 0.03
+  },
+  {
+   "file": "KRM_M23_P3_unit_box_Ivory_marble.fbx",
+   "mesh": "P3_unit_box_Ivory marble",
+   "tris": 12,
+   "verts": 8,
+   "instances": 4,
+   "textured": false,
+   "mb": 0.03
+  },
+  {
+   "file": "KRM_M24_P3_unit_box_Sapphire_stone.fbx",
+   "mesh": "P3_unit_box_Sapphire stone",
+   "tris": 12,
+   "verts": 8,
+   "instances": 4,
+   "textured": false,
+   "mb": 0.03
+  },
+  {
+   "file": "KRM_M25_P3_unit_cyl_Antique_gilded_bronze.fbx",
+   "mesh": "P3_unit_cyl_Antique gilded bronze",
+   "tris": 124,
+   "verts": 64,
+   "instances": 8,
+   "textured": false,
+   "mb": 0.03
+  },
+  {
+   "file": "KRM_M26_P3_unit_cyl_Ivory_marble.fbx",
+   "mesh": "P3_unit_cyl_Ivory marble",
+   "tris": 124,
+   "verts": 64,
+   "instances": 1,
+   "textured": false,
+   "mb": 0.03
+  },
+  {
+   "file": "KRM_M27_P3_unit_rhombus_Sapphire.fbx",
+   "mesh": "P3_unit_rhombus_Sapphire",
+   "tris": 12,
+   "verts": 8,
+   "instances": 72,
+   "textured": false,
+   "mb": 0.03
+  },
+  {
+   "file": "KRM_M28_P5MOD_gilt_frames.fbx",
+   "mesh": "P5MOD gilt frames",
+   "tris": 408,
+   "verts": 288,
+   "instances": 10,
+   "textured": false,
+   "mb": 0.03
+  },
+  {
+   "file": "KRM_M29_P5MOD_gilt_rosettes_and_lantern_metal.fbx",
+   "mesh": "P5MOD gilt rosettes and lantern metal",
+   "tris": 2480,
+   "verts": 1332,
+   "instances": 10,
+   "textured": false,
+   "mb": 0.07
+  },
+  {
+   "file": "KRM_M30_P5MOD_marble_panels.fbx",
+   "mesh": "P5MOD marble panels",
+   "tris": 24,
+   "verts": 16,
+   "instances": 10,
+   "textured": false,
+   "mb": 0.03
+  },
+  {
+   "file": "KRM_M31_P5MOD_sapphire_narrow_panels.fbx",
+   "mesh": "P5MOD sapphire narrow panels",
+   "tris": 20,
+   "verts": 16,
+   "instances": 10,
+   "textured": false,
+   "mb": 0.03
+  },
+  {
+   "file": "KRM_M32_P5MODC_gilt_frames.fbx",
+   "mesh": "P5MODC gilt frames",
+   "tris": 96,
+   "verts": 64,
+   "instances": 15,
+   "textured": false,
+   "mb": 0.03
+  },
+  {
+   "file": "KRM_M33_P5MODC_gilt_rosettes.fbx",
+   "mesh": "P5MODC gilt rosettes",
+   "tris": 980,
+   "verts": 500,
+   "instances": 15,
+   "textured": false,
+   "mb": 0.04
+  },
+  {
+   "file": "KRM_M34_P5MODC_sapphire_coffers.fbx",
+   "mesh": "P5MODC sapphire coffers",
+   "tris": 12,
+   "verts": 8,
+   "instances": 15,
+   "textured": false,
+   "mb": 0.02
+  },
+  {
+   "file": "KRM_M35_P5MODL_candles.fbx",
+   "mesh": "P5MODL candles",
+   "tris": 504,
+   "verts": 288,
+   "instances": 2,
+   "textured": false,
+   "mb": 0.03
+  },
+  {
+   "file": "KRM_M36_P5MODL_crystals.fbx",
+   "mesh": "P5MODL crystals",
+   "tris": 3192,
+   "verts": 1634,
+   "instances": 2,
+   "textured": false,
+   "mb": 0.07
+  },
+  {
+   "file": "KRM_M37_P5MODL_flames.fbx",
+   "mesh": "P5MODL flames",
+   "tris": 3024,
+   "verts": 1548,
+   "instances": 2,
+   "textured": false,
+   "mb": 0.07
+  },
+  {
+   "file": "KRM_M38_P5MODL_gilt.fbx",
+   "mesh": "P5MODL gilt",
+   "tris": 1008,
+   "verts": 542,
+   "instances": 2,
+   "textured": false,
+   "mb": 0.04
+  },
+  {
+   "file": "KRM_M39_P8_column_attic_base_gilt_fillets.fbx",
+   "mesh": "P8 column attic base gilt fillets",
+   "tris": 480,
+   "verts": 320,
+   "instances": 50,
+   "textured": false,
+   "mb": 0.03
+  },
+  {
+   "file": "KRM_M40_P8_column_attic_base_marble.fbx",
+   "mesh": "P8 column attic base marble",
+   "tris": 892,
+   "verts": 488,
+   "instances": 50,
+   "textured": false,
+   "mb": 0.04
+  },
+  {
+   "file": "KRM_M41_P8_column_corinthian_acanthus_gilt.fbx",
+   "mesh": "P8 column corinthian acanthus gilt",
+   "tris": 3440,
+   "verts": 2040,
+   "instances": 50,
+   "textured": false,
+   "mb": 0.08
+  },
+  {
+   "file": "KRM_M42_P8_column_corinthian_bell_and_abacus_marble.fbx",
+   "mesh": "P8 column corinthian bell and abacus marble",
+   "tris": 476,
+   "verts": 280,
+   "instances": 50,
+   "textured": false,
+   "mb": 0.03
+  },
+  {
+   "file": "KRM_M43_ROOM_unit_ball_Antique_gilded_bronze.fbx",
+   "mesh": "ROOM_unit_ball_Antique gilded bronze",
+   "tris": 224,
+   "verts": 114,
+   "instances": 4,
+   "textured": false,
+   "mb": 0.03
+  },
+  {
+   "file": "KRM_M44_ROOM_unit_box_Antique_gilded_bronze.fbx",
+   "mesh": "ROOM_unit_box_Antique gilded bronze",
+   "tris": 12,
+   "verts": 8,
+   "instances": 14,
+   "textured": false,
+   "mb": 0.03
+  },
+  {
+   "file": "KRM_M45_ROOM_unit_box_Ivory_marble.fbx",
+   "mesh": "ROOM_unit_box_Ivory marble",
+   "tris": 12,
+   "verts": 8,
+   "instances": 2,
+   "textured": false,
+   "mb": 0.03
+  },
+  {
+   "file": "KRM_M46_ROOM_unit_cyl_Sapphire_stone.fbx",
+   "mesh": "ROOM_unit_cyl_Sapphire stone",
+   "tris": 76,
+   "verts": 40,
+   "instances": 4,
+   "textured": false,
+   "mb": 0.03
+  },
+  {
+   "file": "KRM_M47_Sphere.005.fbx",
+   "mesh": "Sphere.005",
+   "tris": 224,
+   "verts": 114,
+   "instances": 2,
+   "textured": false,
+   "mb": 0.03
+  }
+ ],
+ "tri_cap": 28000,
+ "totals": {
+  "static_files": 88,
+  "static_tris": 2058732,
+  "master_files": 48,
+  "master_tris": 67623,
+  "placements": 945,
+  "over_margin_28k": [
+   "KRM_M16_GEN_knight_armor_LOD.fbx"
+  ],
+  "over_OFFICIAL_30k": [],
+  "max_tris_in_a_file": 29148,
+  "total_mb": 46.7
+ }
+}

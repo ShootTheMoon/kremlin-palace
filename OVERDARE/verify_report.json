@@ -1,0 +1,2802 @@
+{
+ "summary": {
+  "files_checked": 146,
+  "total_tris": 2169163,
+  "total_verts": 1196755,
+  "total_mb": 47.7,
+  "max_tris": 29148,
+  "all_single_mesh": true,
+  "all_single_material": true,
+  "textures": [
+   [
+    "KRM_armchair_C.png",
+    2.197
+   ],
+   [
+    "KRM_knight_C.png",
+    1.77
+   ],
+   [
+    "KRM_palette.png",
+    0.006
+   ]
+  ],
+  "FAILURES": []
+ },
+ "rows": [
+  {
+   "file": "KRM_STATIC_000.fbx",
+   "objects": 1,
+   "tris": 25968,
+   "verts": 13774,
+   "src_tris": 25968,
+   "materials": 1,
+   "mb": 0.46,
+   "bbox_min_cm": [
+    -29.8,
+    -41.6,
+    2.8
+   ],
+   "bbox_max_cm": [
+    29.8,
+    12.1,
+    9.6
+   ]
+  },
+  {
+   "file": "KRM_STATIC_001.fbx",
+   "objects": 1,
+   "tris": 27092,
+   "verts": 14662,
+   "src_tris": 27092,
+   "materials": 1,
+   "mb": 0.54,
+   "bbox_min_cm": [
+    -15.5,
+    -35.3,
+    -0.0
+   ],
+   "bbox_max_cm": [
+    15.6,
+    9.6,
+    5.1
+   ]
+  },
+  {
+   "file": "KRM_STATIC_002.fbx",
+   "objects": 1,
+   "tris": 27936,
+   "verts": 15154,
+   "src_tris": 27936,
+   "materials": 1,
+   "mb": 0.51,
+   "bbox_min_cm": [
+    -8.4,
+    -41.5,
+    -0.0
+   ],
+   "bbox_max_cm": [
+    15.6,
+    5.6,
+    15.0
+   ]
+  },
+  {
+   "file": "KRM_STATIC_003.fbx",
+   "objects": 1,
+   "tris": 26048,
+   "verts": 14208,
+   "src_tris": 26048,
+   "materials": 1,
+   "mb": 0.49,
+   "bbox_min_cm": [
+    -8.4,
+    -34.3,
+    13.9
+   ],
+   "bbox_max_cm": [
+    8.4,
+    7.2,
+    15.0
+   ]
+  },
+  {
+   "file": "KRM_STATIC_004.fbx",
+   "objects": 1,
+   "tris": 25664,
+   "verts": 13872,
+   "src_tris": 25664,
+   "materials": 1,
+   "mb": 0.48,
+   "bbox_min_cm": [
+    -8.4,
+    -35.2,
+    14.0
+   ],
+   "bbox_max_cm": [
+    8.4,
+    6.3,
+    15.0
+   ]
+  },
+  {
+   "file": "KRM_STATIC_005.fbx",
+   "objects": 1,
+   "tris": 4064,
+   "verts": 2768,
+   "src_tris": 4064,
+   "materials": 1,
+   "mb": 0.1,
+   "bbox_min_cm": [
+    -16.0,
+    -42.0,
+    12.0
+   ],
+   "bbox_max_cm": [
+    16.0,
+    14.0,
+    15.0
+   ]
+  },
+  {
+   "file": "KRM_STATIC_006.fbx",
+   "objects": 1,
+   "tris": 25632,
+   "verts": 13824,
+   "src_tris": 25632,
+   "materials": 1,
+   "mb": 0.52,
+   "bbox_min_cm": [
+    -9.7,
+    -36.4,
+    13.0
+   ],
+   "bbox_max_cm": [
+    9.7,
+    -19.5,
+    13.2
+   ]
+  },
+  {
+   "file": "KRM_STATIC_007.fbx",
+   "objects": 1,
+   "tris": 27936,
+   "verts": 14976,
+   "src_tris": 27936,
+   "materials": 1,
+   "mb": 0.55,
+   "bbox_min_cm": [
+    -9.7,
+    -36.4,
+    13.0
+   ],
+   "bbox_max_cm": [
+    9.7,
+    8.5,
+    13.5
+   ]
+  },
+  {
+   "file": "KRM_STATIC_008.fbx",
+   "objects": 1,
+   "tris": 21520,
+   "verts": 10768,
+   "src_tris": 21520,
+   "materials": 1,
+   "mb": 0.4,
+   "bbox_min_cm": [
+    -15.7,
+    -41.7,
+    11.9
+   ],
+   "bbox_max_cm": [
+    15.7,
+    13.7,
+    15.1
+   ]
+  },
+  {
+   "file": "KRM_STATIC_009.fbx",
+   "objects": 1,
+   "tris": 24096,
+   "verts": 12194,
+   "src_tris": 24096,
+   "materials": 1,
+   "mb": 0.45,
+   "bbox_min_cm": [
+    -10.2,
+    -37.0,
+    12.0
+   ],
+   "bbox_max_cm": [
+    10.2,
+    4.1,
+    15.1
+   ]
+  },
+  {
+   "file": "KRM_STATIC_010.fbx",
+   "objects": 1,
+   "tris": 26864,
+   "verts": 15960,
+   "src_tris": 26864,
+   "materials": 1,
+   "mb": 0.45,
+   "bbox_min_cm": [
+    -10.2,
+    -37.0,
+    7.8
+   ],
+   "bbox_max_cm": [
+    10.2,
+    9.0,
+    14.1
+   ]
+  },
+  {
+   "file": "KRM_STATIC_011.fbx",
+   "objects": 1,
+   "tris": 27864,
+   "verts": 14224,
+   "src_tris": 27864,
+   "materials": 1,
+   "mb": 0.46,
+   "bbox_min_cm": [
+    -2.0,
+    -30.0,
+    6.9
+   ],
+   "bbox_max_cm": [
+    2.0,
+    -26.0,
+    15.0
+   ]
+  },
+  {
+   "file": "KRM_STATIC_012.fbx",
+   "objects": 1,
+   "tris": 27184,
+   "verts": 15544,
+   "src_tris": 27184,
+   "materials": 1,
+   "mb": 0.5,
+   "bbox_min_cm": [
+    -2.0,
+    -30.0,
+    7.8
+   ],
+   "bbox_max_cm": [
+    2.0,
+    2.0,
+    11.0
+   ]
+  },
+  {
+   "file": "KRM_STATIC_013.fbx",
+   "objects": 1,
+   "tris": 27864,
+   "verts": 14224,
+   "src_tris": 27864,
+   "materials": 1,
+   "mb": 0.47,
+   "bbox_min_cm": [
+    -2.0,
+    -2.0,
+    6.9
+   ],
+   "bbox_max_cm": [
+    2.0,
+    2.0,
+    15.0
+   ]
+  },
+  {
+   "file": "KRM_STATIC_014.fbx",
+   "objects": 1,
+   "tris": 27848,
+   "verts": 16160,
+   "src_tris": 27848,
+   "materials": 1,
+   "mb": 0.57,
+   "bbox_min_cm": [
+    -29.4,
+    -2.0,
+    4.3
+   ],
+   "bbox_max_cm": [
+    2.0,
+    12.5,
+    11.0
+   ]
+  },
+  {
+   "file": "KRM_STATIC_015.fbx",
+   "objects": 1,
+   "tris": 27424,
+   "verts": 15064,
+   "src_tris": 27424,
+   "materials": 1,
+   "mb": 0.5,
+   "bbox_min_cm": [
+    -29.9,
+    8.1,
+    -0.0
+   ],
+   "bbox_max_cm": [
+    -16.2,
+    13.9,
+    6.0
+   ]
+  },
+  {
+   "file": "KRM_STATIC_016.fbx",
+   "objects": 1,
+   "tris": 25680,
+   "verts": 14760,
+   "src_tris": 25680,
+   "materials": 1,
+   "mb": 0.48,
+   "bbox_min_cm": [
+    -29.9,
+    8.1,
+    -0.0
+   ],
+   "bbox_max_cm": [
+    -16.2,
+    13.9,
+    5.8
+   ]
+  },
+  {
+   "file": "KRM_STATIC_017.fbx",
+   "objects": 1,
+   "tris": 19472,
+   "verts": 11464,
+   "src_tris": 19472,
+   "materials": 1,
+   "mb": 0.33,
+   "bbox_min_cm": [
+    -28.6,
+    12.9,
+    0.2
+   ],
+   "bbox_max_cm": [
+    -16.7,
+    13.8,
+    5.8
+   ]
+  },
+  {
+   "file": "KRM_STATIC_018.fbx",
+   "objects": 1,
+   "tris": 22664,
+   "verts": 13064,
+   "src_tris": 22664,
+   "materials": 1,
+   "mb": 0.41,
+   "bbox_min_cm": [
+    -28.6,
+    9.6,
+    -0.0
+   ],
+   "bbox_max_cm": [
+    29.4,
+    13.9,
+    6.0
+   ]
+  },
+  {
+   "file": "KRM_STATIC_019.fbx",
+   "objects": 1,
+   "tris": 27424,
+   "verts": 15064,
+   "src_tris": 27424,
+   "materials": 1,
+   "mb": 0.5,
+   "bbox_min_cm": [
+    16.2,
+    8.1,
+    -0.0
+   ],
+   "bbox_max_cm": [
+    29.9,
+    13.9,
+    6.0
+   ]
+  },
+  {
+   "file": "KRM_STATIC_020.fbx",
+   "objects": 1,
+   "tris": 25680,
+   "verts": 14760,
+   "src_tris": 25680,
+   "materials": 1,
+   "mb": 0.48,
+   "bbox_min_cm": [
+    16.2,
+    8.1,
+    -0.0
+   ],
+   "bbox_max_cm": [
+    29.9,
+    13.9,
+    5.8
+   ]
+  },
+  {
+   "file": "KRM_STATIC_021.fbx",
+   "objects": 1,
+   "tris": 19472,
+   "verts": 11464,
+   "src_tris": 19472,
+   "materials": 1,
+   "mb": 0.33,
+   "bbox_min_cm": [
+    16.7,
+    12.9,
+    0.2
+   ],
+   "bbox_max_cm": [
+    28.6,
+    13.8,
+    5.8
+   ]
+  },
+  {
+   "file": "KRM_STATIC_022.fbx",
+   "objects": 1,
+   "tris": 16224,
+   "verts": 8889,
+   "src_tris": 16224,
+   "materials": 1,
+   "mb": 0.26,
+   "bbox_min_cm": [
+    -16.0,
+    -42.0,
+    -0.0
+   ],
+   "bbox_max_cm": [
+    28.6,
+    14.0,
+    5.8
+   ]
+  },
+  {
+   "file": "KRM_STATIC_023.fbx",
+   "objects": 1,
+   "tris": 27456,
+   "verts": 14592,
+   "src_tris": 27456,
+   "materials": 1,
+   "mb": 0.42,
+   "bbox_min_cm": [
+    -12.2,
+    -41.5,
+    11.4
+   ],
+   "bbox_max_cm": [
+    -11.4,
+    12.5,
+    11.8
+   ]
+  },
+  {
+   "file": "KRM_STATIC_024.fbx",
+   "objects": 1,
+   "tris": 27984,
+   "verts": 14944,
+   "src_tris": 27984,
+   "materials": 1,
+   "mb": 0.43,
+   "bbox_min_cm": [
+    -12.2,
+    -41.5,
+    11.4
+   ],
+   "bbox_max_cm": [
+    12.2,
+    12.5,
+    11.8
+   ]
+  },
+  {
+   "file": "KRM_STATIC_025.fbx",
+   "objects": 1,
+   "tris": 25156,
+   "verts": 13692,
+   "src_tris": 25156,
+   "materials": 1,
+   "mb": 0.43,
+   "bbox_min_cm": [
+    -14.6,
+    -41.8,
+    -0.2
+   ],
+   "bbox_max_cm": [
+    14.6,
+    -38.5,
+    10.4
+   ]
+  },
+  {
+   "file": "KRM_STATIC_026.fbx",
+   "objects": 1,
+   "tris": 20976,
+   "verts": 11186,
+   "src_tris": 20976,
+   "materials": 1,
+   "mb": 0.37,
+   "bbox_min_cm": [
+    -14.6,
+    -41.8,
+    0.2
+   ],
+   "bbox_max_cm": [
+    14.6,
+    6.4,
+    10.4
+   ]
+  },
+  {
+   "file": "KRM_STATIC_027.fbx",
+   "objects": 1,
+   "tris": 16416,
+   "verts": 10134,
+   "src_tris": 16416,
+   "materials": 1,
+   "mb": 0.35,
+   "bbox_min_cm": [
+    -12.2,
+    -41.8,
+    0.1
+   ],
+   "bbox_max_cm": [
+    12.2,
+    11.6,
+    11.9
+   ]
+  },
+  {
+   "file": "KRM_STATIC_028.fbx",
+   "objects": 1,
+   "tris": 28000,
+   "verts": 15106,
+   "src_tris": 28000,
+   "materials": 1,
+   "mb": 0.5,
+   "bbox_min_cm": [
+    -11.3,
+    -41.3,
+    4.7
+   ],
+   "bbox_max_cm": [
+    11.3,
+    -24.3,
+    4.9
+   ]
+  },
+  {
+   "file": "KRM_STATIC_029.fbx",
+   "objects": 1,
+   "tris": 28000,
+   "verts": 15148,
+   "src_tris": 28000,
+   "materials": 1,
+   "mb": 0.5,
+   "bbox_min_cm": [
+    -11.3,
+    -24.3,
+    4.7
+   ],
+   "bbox_max_cm": [
+    11.3,
+    0.1,
+    4.9
+   ]
+  },
+  {
+   "file": "KRM_STATIC_030.fbx",
+   "objects": 1,
+   "tris": 26840,
+   "verts": 14514,
+   "src_tris": 26840,
+   "materials": 1,
+   "mb": 0.48,
+   "bbox_min_cm": [
+    -12.2,
+    -42.0,
+    4.4
+   ],
+   "bbox_max_cm": [
+    12.2,
+    14.0,
+    12.0
+   ]
+  },
+  {
+   "file": "KRM_STATIC_031.fbx",
+   "objects": 1,
+   "tris": 14328,
+   "verts": 8472,
+   "src_tris": 14328,
+   "materials": 1,
+   "mb": 0.25,
+   "bbox_min_cm": [
+    -15.8,
+    -38.6,
+    1.8
+   ],
+   "bbox_max_cm": [
+    15.8,
+    13.8,
+    9.8
+   ]
+  },
+  {
+   "file": "KRM_STATIC_032.fbx",
+   "objects": 1,
+   "tris": 28000,
+   "verts": 14008,
+   "src_tris": 28000,
+   "materials": 1,
+   "mb": 0.43,
+   "bbox_min_cm": [
+    -11.4,
+    -38.5,
+    5.3
+   ],
+   "bbox_max_cm": [
+    -11.4,
+    2.9,
+    5.8
+   ]
+  },
+  {
+   "file": "KRM_STATIC_033.fbx",
+   "objects": 1,
+   "tris": 5532,
+   "verts": 4136,
+   "src_tris": 5532,
+   "materials": 1,
+   "mb": 0.11,
+   "bbox_min_cm": [
+    -11.4,
+    -38.6,
+    5.1
+   ],
+   "bbox_max_cm": [
+    11.4,
+    8.2,
+    6.1
+   ]
+  },
+  {
+   "file": "KRM_STATIC_034.fbx",
+   "objects": 1,
+   "tris": 28000,
+   "verts": 14008,
+   "src_tris": 28000,
+   "materials": 1,
+   "mb": 0.43,
+   "bbox_min_cm": [
+    11.4,
+    -38.5,
+    5.3
+   ],
+   "bbox_max_cm": [
+    11.4,
+    2.9,
+    5.8
+   ]
+  },
+  {
+   "file": "KRM_STATIC_035.fbx",
+   "objects": 1,
+   "tris": 27988,
+   "verts": 17154,
+   "src_tris": 27988,
+   "materials": 1,
+   "mb": 0.55,
+   "bbox_min_cm": [
+    -15.8,
+    -38.6,
+    -0.0
+   ],
+   "bbox_max_cm": [
+    15.8,
+    8.2,
+    6.1
+   ]
+  },
+  {
+   "file": "KRM_STATIC_036.fbx",
+   "objects": 1,
+   "tris": 27524,
+   "verts": 16044,
+   "src_tris": 27524,
+   "materials": 1,
+   "mb": 0.61,
+   "bbox_min_cm": [
+    -15.7,
+    -34.6,
+    -0.0
+   ],
+   "bbox_max_cm": [
+    15.7,
+    8.6,
+    6.2
+   ]
+  },
+  {
+   "file": "KRM_STATIC_037.fbx",
+   "objects": 1,
+   "tris": 26468,
+   "verts": 14176,
+   "src_tris": 26468,
+   "materials": 1,
+   "mb": 0.59,
+   "bbox_min_cm": [
+    -5.6,
+    -0.8,
+    -0.0
+   ],
+   "bbox_max_cm": [
+    5.6,
+    8.8,
+    5.6
+   ]
+  },
+  {
+   "file": "KRM_STATIC_038.fbx",
+   "objects": 1,
+   "tris": 23376,
+   "verts": 12624,
+   "src_tris": 23376,
+   "materials": 1,
+   "mb": 0.47,
+   "bbox_min_cm": [
+    -5.8,
+    -1.0,
+    0.1
+   ],
+   "bbox_max_cm": [
+    5.8,
+    8.2,
+    5.6
+   ]
+  },
+  {
+   "file": "KRM_STATIC_039.fbx",
+   "objects": 1,
+   "tris": 24072,
+   "verts": 12844,
+   "src_tris": 24072,
+   "materials": 1,
+   "mb": 0.54,
+   "bbox_min_cm": [
+    -7.5,
+    -3.5,
+    -0.0
+   ],
+   "bbox_max_cm": [
+    5.7,
+    8.2,
+    5.0
+   ]
+  },
+  {
+   "file": "KRM_STATIC_040.fbx",
+   "objects": 1,
+   "tris": 26740,
+   "verts": 14252,
+   "src_tris": 26740,
+   "materials": 1,
+   "mb": 0.54,
+   "bbox_min_cm": [
+    -8.8,
+    -8.2,
+    0.0
+   ],
+   "bbox_max_cm": [
+    -5.2,
+    -1.2,
+    1.3
+   ]
+  },
+  {
+   "file": "KRM_STATIC_041.fbx",
+   "objects": 1,
+   "tris": 26220,
+   "verts": 14080,
+   "src_tris": 26220,
+   "materials": 1,
+   "mb": 0.54,
+   "bbox_min_cm": [
+    -8.4,
+    -9.4,
+    0.0
+   ],
+   "bbox_max_cm": [
+    -5.6,
+    -6.6,
+    1.2
+   ]
+  },
+  {
+   "file": "KRM_STATIC_042.fbx",
+   "objects": 1,
+   "tris": 13096,
+   "verts": 6804,
+   "src_tris": 13096,
+   "materials": 1,
+   "mb": 0.27,
+   "bbox_min_cm": [
+    -8.8,
+    -31.5,
+    0.0
+   ],
+   "bbox_max_cm": [
+    -5.2,
+    -6.2,
+    1.3
+   ]
+  },
+  {
+   "file": "KRM_STATIC_043.fbx",
+   "objects": 1,
+   "tris": 26740,
+   "verts": 14252,
+   "src_tris": 26740,
+   "materials": 1,
+   "mb": 0.54,
+   "bbox_min_cm": [
+    -8.8,
+    -36.2,
+    0.0
+   ],
+   "bbox_max_cm": [
+    -5.2,
+    -29.2,
+    1.3
+   ]
+  },
+  {
+   "file": "KRM_STATIC_044.fbx",
+   "objects": 1,
+   "tris": 26220,
+   "verts": 14080,
+   "src_tris": 26220,
+   "materials": 1,
+   "mb": 0.53,
+   "bbox_min_cm": [
+    -8.4,
+    -37.4,
+    0.0
+   ],
+   "bbox_max_cm": [
+    -5.6,
+    -34.6,
+    1.2
+   ]
+  },
+  {
+   "file": "KRM_STATIC_045.fbx",
+   "objects": 1,
+   "tris": 13096,
+   "verts": 6804,
+   "src_tris": 13096,
+   "materials": 1,
+   "mb": 0.27,
+   "bbox_min_cm": [
+    -8.8,
+    -37.8,
+    0.0
+   ],
+   "bbox_max_cm": [
+    7.5,
+    -2.5,
+    1.3
+   ]
+  },
+  {
+   "file": "KRM_STATIC_046.fbx",
+   "objects": 1,
+   "tris": 26740,
+   "verts": 14252,
+   "src_tris": 26740,
+   "materials": 1,
+   "mb": 0.54,
+   "bbox_min_cm": [
+    5.2,
+    -8.2,
+    0.0
+   ],
+   "bbox_max_cm": [
+    8.8,
+    -1.2,
+    1.3
+   ]
+  },
+  {
+   "file": "KRM_STATIC_047.fbx",
+   "objects": 1,
+   "tris": 26220,
+   "verts": 14080,
+   "src_tris": 26220,
+   "materials": 1,
+   "mb": 0.54,
+   "bbox_min_cm": [
+    5.6,
+    -9.4,
+    0.0
+   ],
+   "bbox_max_cm": [
+    8.4,
+    -6.6,
+    1.2
+   ]
+  },
+  {
+   "file": "KRM_STATIC_048.fbx",
+   "objects": 1,
+   "tris": 13096,
+   "verts": 6804,
+   "src_tris": 13096,
+   "materials": 1,
+   "mb": 0.27,
+   "bbox_min_cm": [
+    5.2,
+    -31.5,
+    0.0
+   ],
+   "bbox_max_cm": [
+    8.8,
+    -6.2,
+    1.3
+   ]
+  },
+  {
+   "file": "KRM_STATIC_049.fbx",
+   "objects": 1,
+   "tris": 26740,
+   "verts": 14252,
+   "src_tris": 26740,
+   "materials": 1,
+   "mb": 0.54,
+   "bbox_min_cm": [
+    5.2,
+    -36.2,
+    0.0
+   ],
+   "bbox_max_cm": [
+    8.8,
+    -29.2,
+    1.3
+   ]
+  },
+  {
+   "file": "KRM_STATIC_050.fbx",
+   "objects": 1,
+   "tris": 26220,
+   "verts": 14080,
+   "src_tris": 26220,
+   "materials": 1,
+   "mb": 0.53,
+   "bbox_min_cm": [
+    5.6,
+    -37.4,
+    0.0
+   ],
+   "bbox_max_cm": [
+    8.4,
+    -34.6,
+    1.2
+   ]
+  },
+  {
+   "file": "KRM_STATIC_051.fbx",
+   "objects": 1,
+   "tris": 13096,
+   "verts": 6804,
+   "src_tris": 13096,
+   "materials": 1,
+   "mb": 0.27,
+   "bbox_min_cm": [
+    -14.2,
+    -37.8,
+    0.0
+   ],
+   "bbox_max_cm": [
+    8.8,
+    -9.0,
+    6.3
+   ]
+  },
+  {
+   "file": "KRM_STATIC_052.fbx",
+   "objects": 1,
+   "tris": 26740,
+   "verts": 14252,
+   "src_tris": 26740,
+   "materials": 1,
+   "mb": 0.53,
+   "bbox_min_cm": [
+    -15.5,
+    -11.3,
+    5.1
+   ],
+   "bbox_max_cm": [
+    -11.9,
+    0.7,
+    6.4
+   ]
+  },
+  {
+   "file": "KRM_STATIC_053.fbx",
+   "objects": 1,
+   "tris": 26220,
+   "verts": 14080,
+   "src_tris": 26220,
+   "materials": 1,
+   "mb": 0.54,
+   "bbox_min_cm": [
+    -15.1,
+    -0.9,
+    5.1
+   ],
+   "bbox_max_cm": [
+    -12.3,
+    1.9,
+    6.3
+   ]
+  },
+  {
+   "file": "KRM_STATIC_054.fbx",
+   "objects": 1,
+   "tris": 13096,
+   "verts": 6804,
+   "src_tris": 13096,
+   "materials": 1,
+   "mb": 0.27,
+   "bbox_min_cm": [
+    -15.5,
+    -24.5,
+    5.1
+   ],
+   "bbox_max_cm": [
+    -11.9,
+    2.3,
+    6.4
+   ]
+  },
+  {
+   "file": "KRM_STATIC_055.fbx",
+   "objects": 1,
+   "tris": 26740,
+   "verts": 14252,
+   "src_tris": 26740,
+   "materials": 1,
+   "mb": 0.53,
+   "bbox_min_cm": [
+    -15.5,
+    -33.2,
+    5.1
+   ],
+   "bbox_max_cm": [
+    -11.9,
+    -22.2,
+    6.4
+   ]
+  },
+  {
+   "file": "KRM_STATIC_056.fbx",
+   "objects": 1,
+   "tris": 26220,
+   "verts": 14080,
+   "src_tris": 26220,
+   "materials": 1,
+   "mb": 0.53,
+   "bbox_min_cm": [
+    -15.1,
+    -34.4,
+    5.1
+   ],
+   "bbox_max_cm": [
+    -12.3,
+    -31.6,
+    6.3
+   ]
+  },
+  {
+   "file": "KRM_STATIC_057.fbx",
+   "objects": 1,
+   "tris": 13096,
+   "verts": 6804,
+   "src_tris": 13096,
+   "materials": 1,
+   "mb": 0.27,
+   "bbox_min_cm": [
+    -15.5,
+    -34.8,
+    5.1
+   ],
+   "bbox_max_cm": [
+    14.2,
+    -9.0,
+    6.4
+   ]
+  },
+  {
+   "file": "KRM_STATIC_058.fbx",
+   "objects": 1,
+   "tris": 26740,
+   "verts": 14252,
+   "src_tris": 26740,
+   "materials": 1,
+   "mb": 0.53,
+   "bbox_min_cm": [
+    11.9,
+    -11.3,
+    5.1
+   ],
+   "bbox_max_cm": [
+    15.5,
+    0.7,
+    6.4
+   ]
+  },
+  {
+   "file": "KRM_STATIC_059.fbx",
+   "objects": 1,
+   "tris": 26220,
+   "verts": 14080,
+   "src_tris": 26220,
+   "materials": 1,
+   "mb": 0.54,
+   "bbox_min_cm": [
+    12.3,
+    -0.9,
+    5.1
+   ],
+   "bbox_max_cm": [
+    15.1,
+    1.9,
+    6.3
+   ]
+  },
+  {
+   "file": "KRM_STATIC_060.fbx",
+   "objects": 1,
+   "tris": 13096,
+   "verts": 6804,
+   "src_tris": 13096,
+   "materials": 1,
+   "mb": 0.27,
+   "bbox_min_cm": [
+    11.9,
+    -24.5,
+    5.1
+   ],
+   "bbox_max_cm": [
+    15.5,
+    2.3,
+    6.4
+   ]
+  },
+  {
+   "file": "KRM_STATIC_061.fbx",
+   "objects": 1,
+   "tris": 26740,
+   "verts": 14252,
+   "src_tris": 26740,
+   "materials": 1,
+   "mb": 0.53,
+   "bbox_min_cm": [
+    11.9,
+    -33.2,
+    5.1
+   ],
+   "bbox_max_cm": [
+    15.5,
+    -22.2,
+    6.4
+   ]
+  },
+  {
+   "file": "KRM_STATIC_062.fbx",
+   "objects": 1,
+   "tris": 26220,
+   "verts": 14080,
+   "src_tris": 26220,
+   "materials": 1,
+   "mb": 0.53,
+   "bbox_min_cm": [
+    12.3,
+    -34.4,
+    5.1
+   ],
+   "bbox_max_cm": [
+    15.1,
+    -31.6,
+    6.3
+   ]
+  },
+  {
+   "file": "KRM_STATIC_063.fbx",
+   "objects": 1,
+   "tris": 18820,
+   "verts": 11640,
+   "src_tris": 18820,
+   "materials": 1,
+   "mb": 0.25,
+   "bbox_min_cm": [
+    -15.8,
+    -40.2,
+    0.5
+   ],
+   "bbox_max_cm": [
+    15.8,
+    13.8,
+    11.8
+   ]
+  },
+  {
+   "file": "KRM_STATIC_064.fbx",
+   "objects": 1,
+   "tris": 28000,
+   "verts": 15120,
+   "src_tris": 28000,
+   "materials": 1,
+   "mb": 0.47,
+   "bbox_min_cm": [
+    -15.7,
+    -39.2,
+    0.9
+   ],
+   "bbox_max_cm": [
+    15.7,
+    -18.1,
+    10.1
+   ]
+  },
+  {
+   "file": "KRM_STATIC_065.fbx",
+   "objects": 1,
+   "tris": 28000,
+   "verts": 15272,
+   "src_tris": 28000,
+   "materials": 1,
+   "mb": 0.53,
+   "bbox_min_cm": [
+    -15.7,
+    -18.1,
+    0.9
+   ],
+   "bbox_max_cm": [
+    15.7,
+    4.9,
+    10.1
+   ]
+  },
+  {
+   "file": "KRM_STATIC_066.fbx",
+   "objects": 1,
+   "tris": 20896,
+   "verts": 11368,
+   "src_tris": 20896,
+   "materials": 1,
+   "mb": 0.38,
+   "bbox_min_cm": [
+    -15.7,
+    4.9,
+    0.9
+   ],
+   "bbox_max_cm": [
+    15.7,
+    13.7,
+    10.1
+   ]
+  },
+  {
+   "file": "KRM_STATIC_067.fbx",
+   "objects": 1,
+   "tris": 28000,
+   "verts": 14536,
+   "src_tris": 28000,
+   "materials": 1,
+   "mb": 0.49,
+   "bbox_min_cm": [
+    -15.8,
+    -39.8,
+    0.9
+   ],
+   "bbox_max_cm": [
+    15.8,
+    -15.9,
+    10.0
+   ]
+  },
+  {
+   "file": "KRM_STATIC_068.fbx",
+   "objects": 1,
+   "tris": 28000,
+   "verts": 14688,
+   "src_tris": 28000,
+   "materials": 1,
+   "mb": 0.52,
+   "bbox_min_cm": [
+    -15.8,
+    -16.0,
+    0.9
+   ],
+   "bbox_max_cm": [
+    15.8,
+    7.0,
+    10.0
+   ]
+  },
+  {
+   "file": "KRM_STATIC_069.fbx",
+   "objects": 1,
+   "tris": 26280,
+   "verts": 14492,
+   "src_tris": 26280,
+   "materials": 1,
+   "mb": 0.53,
+   "bbox_min_cm": [
+    -15.8,
+    -58.5,
+    0.5
+   ],
+   "bbox_max_cm": [
+    15.8,
+    13.8,
+    12.1
+   ]
+  },
+  {
+   "file": "KRM_STATIC_070.fbx",
+   "objects": 1,
+   "tris": 19788,
+   "verts": 12524,
+   "src_tris": 19788,
+   "materials": 1,
+   "mb": 0.39,
+   "bbox_min_cm": [
+    -11.5,
+    -58.7,
+    -0.3
+   ],
+   "bbox_max_cm": [
+    11.5,
+    6.4,
+    10.2
+   ]
+  },
+  {
+   "file": "KRM_STATIC_071.fbx",
+   "objects": 1,
+   "tris": 26960,
+   "verts": 13928,
+   "src_tris": 26960,
+   "materials": 1,
+   "mb": 0.49,
+   "bbox_min_cm": [
+    -2.0,
+    2.0,
+    0.5
+   ],
+   "bbox_max_cm": [
+    2.0,
+    6.0,
+    2.9
+   ]
+  },
+  {
+   "file": "KRM_STATIC_072.fbx",
+   "objects": 1,
+   "tris": 22484,
+   "verts": 12328,
+   "src_tris": 22484,
+   "materials": 1,
+   "mb": 0.43,
+   "bbox_min_cm": [
+    -5.9,
+    -37.8,
+    0.1
+   ],
+   "bbox_max_cm": [
+    5.9,
+    6.1,
+    5.7
+   ]
+  },
+  {
+   "file": "KRM_STATIC_073.fbx",
+   "objects": 1,
+   "tris": 27424,
+   "verts": 14206,
+   "src_tris": 27424,
+   "materials": 1,
+   "mb": 0.5,
+   "bbox_min_cm": [
+    -15.6,
+    -37.8,
+    -0.0
+   ],
+   "bbox_max_cm": [
+    5.3,
+    -0.2,
+    3.7
+   ]
+  },
+  {
+   "file": "KRM_STATIC_074.fbx",
+   "objects": 1,
+   "tris": 25248,
+   "verts": 13890,
+   "src_tris": 25248,
+   "materials": 1,
+   "mb": 0.46,
+   "bbox_min_cm": [
+    -15.6,
+    -28.8,
+    -0.0
+   ],
+   "bbox_max_cm": [
+    15.6,
+    -0.2,
+    1.9
+   ]
+  },
+  {
+   "file": "KRM_STATIC_075.fbx",
+   "objects": 1,
+   "tris": 28000,
+   "verts": 14492,
+   "src_tris": 28000,
+   "materials": 1,
+   "mb": 0.46,
+   "bbox_min_cm": [
+    -15.3,
+    -40.6,
+    11.9
+   ],
+   "bbox_max_cm": [
+    15.3,
+    9.1,
+    12.0
+   ]
+  },
+  {
+   "file": "KRM_STATIC_076.fbx",
+   "objects": 1,
+   "tris": 5344,
+   "verts": 2776,
+   "src_tris": 5344,
+   "materials": 1,
+   "mb": 0.11,
+   "bbox_min_cm": [
+    -15.3,
+    9.0,
+    11.9
+   ],
+   "bbox_max_cm": [
+    15.3,
+    12.6,
+    12.0
+   ]
+  },
+  {
+   "file": "KRM_STATIC_077.fbx",
+   "objects": 1,
+   "tris": 28000,
+   "verts": 14728,
+   "src_tris": 28000,
+   "materials": 1,
+   "mb": 0.53,
+   "bbox_min_cm": [
+    -2.0,
+    -30.0,
+    7.3
+   ],
+   "bbox_max_cm": [
+    2.0,
+    -26.7,
+    10.5
+   ]
+  },
+  {
+   "file": "KRM_STATIC_078.fbx",
+   "objects": 1,
+   "tris": 5920,
+   "verts": 3144,
+   "src_tris": 5920,
+   "materials": 1,
+   "mb": 0.13,
+   "bbox_min_cm": [
+    -1.4,
+    -26.7,
+    7.3
+   ],
+   "bbox_max_cm": [
+    1.4,
+    -26.0,
+    8.9
+   ]
+  },
+  {
+   "file": "KRM_STATIC_079.fbx",
+   "objects": 1,
+   "tris": 28000,
+   "verts": 14728,
+   "src_tris": 28000,
+   "materials": 1,
+   "mb": 0.53,
+   "bbox_min_cm": [
+    -2.0,
+    -2.0,
+    7.3
+   ],
+   "bbox_max_cm": [
+    1.3,
+    2.0,
+    10.5
+   ]
+  },
+  {
+   "file": "KRM_STATIC_080.fbx",
+   "objects": 1,
+   "tris": 27576,
+   "verts": 14144,
+   "src_tris": 27576,
+   "materials": 1,
+   "mb": 0.46,
+   "bbox_min_cm": [
+    -16.0,
+    -41.7,
+    0.2
+   ],
+   "bbox_max_cm": [
+    14.7,
+    13.9,
+    11.4
+   ]
+  },
+  {
+   "file": "KRM_STATIC_081.fbx",
+   "objects": 1,
+   "tris": 26720,
+   "verts": 14656,
+   "src_tris": 26720,
+   "materials": 1,
+   "mb": 0.47,
+   "bbox_min_cm": [
+    -12.2,
+    -41.7,
+    11.1
+   ],
+   "bbox_max_cm": [
+    16.0,
+    13.9,
+    11.4
+   ]
+  },
+  {
+   "file": "KRM_STATIC_082.fbx",
+   "objects": 1,
+   "tris": 26400,
+   "verts": 14784,
+   "src_tris": 26400,
+   "materials": 1,
+   "mb": 0.49,
+   "bbox_min_cm": [
+    -15.9,
+    -41.6,
+    11.1
+   ],
+   "bbox_max_cm": [
+    -3.0,
+    13.7,
+    11.3
+   ]
+  },
+  {
+   "file": "KRM_STATIC_083.fbx",
+   "objects": 1,
+   "tris": 26400,
+   "verts": 14784,
+   "src_tris": 26400,
+   "materials": 1,
+   "mb": 0.48,
+   "bbox_min_cm": [
+    11.0,
+    -41.6,
+    11.1
+   ],
+   "bbox_max_cm": [
+    12.2,
+    12.4,
+    11.3
+   ]
+  },
+  {
+   "file": "KRM_STATIC_084.fbx",
+   "objects": 1,
+   "tris": 27996,
+   "verts": 15834,
+   "src_tris": 27996,
+   "materials": 1,
+   "mb": 0.56,
+   "bbox_min_cm": [
+    -15.8,
+    -41.8,
+    -0.0
+   ],
+   "bbox_max_cm": [
+    15.9,
+    13.8,
+    11.3
+   ]
+  },
+  {
+   "file": "KRM_STATIC_085.fbx",
+   "objects": 1,
+   "tris": 9132,
+   "verts": 5562,
+   "src_tris": 9132,
+   "materials": 1,
+   "mb": 0.17,
+   "bbox_min_cm": [
+    -15.5,
+    -41.5,
+    4.8
+   ],
+   "bbox_max_cm": [
+    15.7,
+    13.5,
+    6.4
+   ]
+  },
+  {
+   "file": "KRM_STATIC_086.fbx",
+   "objects": 1,
+   "tris": 28000,
+   "verts": 14350,
+   "src_tris": 28000,
+   "materials": 1,
+   "mb": 0.49,
+   "bbox_min_cm": [
+    -14.6,
+    -40.8,
+    4.7
+   ],
+   "bbox_max_cm": [
+    14.6,
+    12.1,
+    4.8
+   ]
+  },
+  {
+   "file": "KRM_STATIC_087.fbx",
+   "objects": 1,
+   "tris": 12256,
+   "verts": 6254,
+   "src_tris": 12256,
+   "materials": 1,
+   "mb": 0.21,
+   "bbox_min_cm": [
+    -29.5,
+    -41.5,
+    4.7
+   ],
+   "bbox_max_cm": [
+    29.5,
+    13.5,
+    11.4
+   ]
+  },
+  {
+   "file": "KRM_M00_Cube.fbx",
+   "objects": 1,
+   "tris": 12,
+   "verts": 8,
+   "src_tris": 12,
+   "materials": 1,
+   "mb": 0.02,
+   "bbox_min_cm": [
+    -0.5,
+    -0.5,
+    -0.0
+   ],
+   "bbox_max_cm": [
+    0.5,
+    0.5,
+    1.0
+   ]
+  },
+  {
+   "file": "KRM_M01_Cube.001.fbx",
+   "objects": 1,
+   "tris": 12,
+   "verts": 8,
+   "src_tris": 12,
+   "materials": 1,
+   "mb": 0.02,
+   "bbox_min_cm": [
+    -0.5,
+    -0.5,
+    -0.0
+   ],
+   "bbox_max_cm": [
+    0.5,
+    0.5,
+    1.0
+   ]
+  },
+  {
+   "file": "KRM_M02_Cube.002.fbx",
+   "objects": 1,
+   "tris": 12,
+   "verts": 8,
+   "src_tris": 12,
+   "materials": 1,
+   "mb": 0.02,
+   "bbox_min_cm": [
+    -0.5,
+    -0.5,
+    -0.0
+   ],
+   "bbox_max_cm": [
+    0.5,
+    0.5,
+    1.0
+   ]
+  },
+  {
+   "file": "KRM_M03_Cube.003.fbx",
+   "objects": 1,
+   "tris": 12,
+   "verts": 8,
+   "src_tris": 12,
+   "materials": 1,
+   "mb": 0.02,
+   "bbox_min_cm": [
+    -0.5,
+    -0.5,
+    -0.0
+   ],
+   "bbox_max_cm": [
+    0.5,
+    0.5,
+    1.0
+   ]
+  },
+  {
+   "file": "KRM_M04_Cube.005.fbx",
+   "objects": 1,
+   "tris": 12,
+   "verts": 8,
+   "src_tris": 12,
+   "materials": 1,
+   "mb": 0.02,
+   "bbox_min_cm": [
+    -0.5,
+    -0.5,
+    -0.0
+   ],
+   "bbox_max_cm": [
+    0.5,
+    0.5,
+    1.0
+   ]
+  },
+  {
+   "file": "KRM_M05_Cube.006.fbx",
+   "objects": 1,
+   "tris": 12,
+   "verts": 8,
+   "src_tris": 12,
+   "materials": 1,
+   "mb": 0.02,
+   "bbox_min_cm": [
+    -0.5,
+    -0.5,
+    -0.0
+   ],
+   "bbox_max_cm": [
+    0.5,
+    0.5,
+    1.0
+   ]
+  },
+  {
+   "file": "KRM_M06_Cube.007.fbx",
+   "objects": 1,
+   "tris": 12,
+   "verts": 8,
+   "src_tris": 12,
+   "materials": 1,
+   "mb": 0.02,
+   "bbox_min_cm": [
+    -0.5,
+    -0.5,
+    -0.0
+   ],
+   "bbox_max_cm": [
+    0.5,
+    0.5,
+    1.0
+   ]
+  },
+  {
+   "file": "KRM_M07_Cylinder.fbx",
+   "objects": 1,
+   "tris": 92,
+   "verts": 48,
+   "src_tris": 92,
+   "materials": 1,
+   "mb": 0.03,
+   "bbox_min_cm": [
+    -1.0,
+    -1.0,
+    -0.0
+   ],
+   "bbox_max_cm": [
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "file": "KRM_M08_Cylinder.001.fbx",
+   "objects": 1,
+   "tris": 92,
+   "verts": 48,
+   "src_tris": 92,
+   "materials": 1,
+   "mb": 0.03,
+   "bbox_min_cm": [
+    -1.0,
+    -1.0,
+    -0.0
+   ],
+   "bbox_max_cm": [
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "file": "KRM_M09_Cylinder.002.fbx",
+   "objects": 1,
+   "tris": 92,
+   "verts": 48,
+   "src_tris": 92,
+   "materials": 1,
+   "mb": 0.03,
+   "bbox_min_cm": [
+    -1.0,
+    -1.0,
+    -0.0
+   ],
+   "bbox_max_cm": [
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "file": "KRM_M10_Cylinder.007.fbx",
+   "objects": 1,
+   "tris": 92,
+   "verts": 48,
+   "src_tris": 92,
+   "materials": 1,
+   "mb": 0.03,
+   "bbox_min_cm": [
+    -1.0,
+    -1.0,
+    -0.0
+   ],
+   "bbox_max_cm": [
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "file": "KRM_M11_Cylinder.008.fbx",
+   "objects": 1,
+   "tris": 92,
+   "verts": 48,
+   "src_tris": 92,
+   "materials": 1,
+   "mb": 0.03,
+   "bbox_min_cm": [
+    -1.0,
+    -1.0,
+    -0.0
+   ],
+   "bbox_max_cm": [
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "file": "KRM_M12_Cylinder.009.fbx",
+   "objects": 1,
+   "tris": 92,
+   "verts": 48,
+   "src_tris": 92,
+   "materials": 1,
+   "mb": 0.03,
+   "bbox_min_cm": [
+    -1.0,
+    -1.0,
+    -0.0
+   ],
+   "bbox_max_cm": [
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "file": "KRM_M13_DOOR_unit_ball_Sapphire_stone.fbx",
+   "objects": 1,
+   "tris": 224,
+   "verts": 114,
+   "src_tris": 224,
+   "materials": 1,
+   "mb": 0.03,
+   "bbox_min_cm": [
+    -1.0,
+    -1.0,
+    0.0
+   ],
+   "bbox_max_cm": [
+    1.0,
+    1.0,
+    2.0
+   ]
+  },
+  {
+   "file": "KRM_M14_DOOR_unit_box_Antique_gilded_bronze.fbx",
+   "objects": 1,
+   "tris": 12,
+   "verts": 8,
+   "src_tris": 12,
+   "materials": 1,
+   "mb": 0.03,
+   "bbox_min_cm": [
+    -0.5,
+    -0.5,
+    -0.0
+   ],
+   "bbox_max_cm": [
+    0.5,
+    0.5,
+    1.0
+   ]
+  },
+  {
+   "file": "KRM_M15_DOOR_unit_box_Ivory_marble.fbx",
+   "objects": 1,
+   "tris": 12,
+   "verts": 8,
+   "src_tris": 12,
+   "materials": 1,
+   "mb": 0.03,
+   "bbox_min_cm": [
+    -0.5,
+    -0.5,
+    -0.0
+   ],
+   "bbox_max_cm": [
+    0.5,
+    0.5,
+    1.0
+   ]
+  },
+  {
+   "file": "KRM_M16_GEN_knight_armor_LOD.fbx",
+   "objects": 1,
+   "tris": 29148,
+   "verts": 27936,
+   "src_tris": 29148,
+   "materials": 1,
+   "mb": 3.36,
+   "bbox_min_cm": [
+    -0.6,
+    -0.4,
+    -0.0
+   ],
+   "bbox_max_cm": [
+    0.6,
+    0.4,
+    2.0
+   ]
+  },
+  {
+   "file": "KRM_M17_GEN_rococo_armchair_LOD.fbx",
+   "objects": 1,
+   "tris": 17999,
+   "verts": 16686,
+   "src_tris": 17999,
+   "materials": 1,
+   "mb": 3.16,
+   "bbox_min_cm": [
+    -0.4,
+    -0.3,
+    0.0
+   ],
+   "bbox_max_cm": [
+    0.4,
+    0.3,
+    1.1
+   ]
+  },
+  {
+   "file": "KRM_M18_P3_corridor_L_outer_glazing.fbx",
+   "objects": 1,
+   "tris": 416,
+   "verts": 216,
+   "src_tris": 416,
+   "materials": 1,
+   "mb": 0.03,
+   "bbox_min_cm": [
+    -0.8,
+    -0.0,
+    -0.0
+   ],
+   "bbox_max_cm": [
+    0.8,
+    0.0,
+    3.4
+   ]
+  },
+  {
+   "file": "KRM_M19_P3_corridor_R_outer_glazing.fbx",
+   "objects": 1,
+   "tris": 416,
+   "verts": 216,
+   "src_tris": 416,
+   "materials": 1,
+   "mb": 0.03,
+   "bbox_min_cm": [
+    -0.8,
+    -0.0,
+    -0.0
+   ],
+   "bbox_max_cm": [
+    0.8,
+    0.0,
+    3.4
+   ]
+  },
+  {
+   "file": "KRM_M20_P3_unit_ball_Antique_gilded_bronze.fbx",
+   "objects": 1,
+   "tris": 440,
+   "verts": 222,
+   "src_tris": 440,
+   "materials": 1,
+   "mb": 0.03,
+   "bbox_min_cm": [
+    -1.0,
+    -1.0,
+    -0.0
+   ],
+   "bbox_max_cm": [
+    1.0,
+    1.0,
+    2.0
+   ]
+  },
+  {
+   "file": "KRM_M21_P3_unit_ball_Sapphire_stone.fbx",
+   "objects": 1,
+   "tris": 440,
+   "verts": 222,
+   "src_tris": 440,
+   "materials": 1,
+   "mb": 0.03,
+   "bbox_min_cm": [
+    -1.0,
+    -1.0,
+    -0.0
+   ],
+   "bbox_max_cm": [
+    1.0,
+    1.0,
+    2.0
+   ]
+  },
+  {
+   "file": "KRM_M22_P3_unit_box_Antique_gilded_bronze.fbx",
+   "objects": 1,
+   "tris": 12,
+   "verts": 8,
+   "src_tris": 12,
+   "materials": 1,
+   "mb": 0.03,
+   "bbox_min_cm": [
+    -0.5,
+    -0.5,
+    -0.0
+   ],
+   "bbox_max_cm": [
+    0.5,
+    0.5,
+    1.0
+   ]
+  },
+  {
+   "file": "KRM_M23_P3_unit_box_Ivory_marble.fbx",
+   "objects": 1,
+   "tris": 12,
+   "verts": 8,
+   "src_tris": 12,
+   "materials": 1,
+   "mb": 0.03,
+   "bbox_min_cm": [
+    -0.5,
+    -0.5,
+    -0.0
+   ],
+   "bbox_max_cm": [
+    0.5,
+    0.5,
+    1.0
+   ]
+  },
+  {
+   "file": "KRM_M24_P3_unit_box_Sapphire_stone.fbx",
+   "objects": 1,
+   "tris": 12,
+   "verts": 8,
+   "src_tris": 12,
+   "materials": 1,
+   "mb": 0.03,
+   "bbox_min_cm": [
+    -0.5,
+    -0.5,
+    -0.0
+   ],
+   "bbox_max_cm": [
+    0.5,
+    0.5,
+    1.0
+   ]
+  },
+  {
+   "file": "KRM_M25_P3_unit_cyl_Antique_gilded_bronze.fbx",
+   "objects": 1,
+   "tris": 124,
+   "verts": 64,
+   "src_tris": 124,
+   "materials": 1,
+   "mb": 0.03,
+   "bbox_min_cm": [
+    -1.0,
+    -1.0,
+    -0.0
+   ],
+   "bbox_max_cm": [
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "file": "KRM_M26_P3_unit_cyl_Ivory_marble.fbx",
+   "objects": 1,
+   "tris": 124,
+   "verts": 64,
+   "src_tris": 124,
+   "materials": 1,
+   "mb": 0.03,
+   "bbox_min_cm": [
+    -1.0,
+    -1.0,
+    -0.0
+   ],
+   "bbox_max_cm": [
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "file": "KRM_M27_P3_unit_rhombus_Sapphire.fbx",
+   "objects": 1,
+   "tris": 12,
+   "verts": 8,
+   "src_tris": 12,
+   "materials": 1,
+   "mb": 0.03,
+   "bbox_min_cm": [
+    -1.0,
+    -1.0,
+    -0.0
+   ],
+   "bbox_max_cm": [
+    1.0,
+    1.0,
+    2.0
+   ]
+  },
+  {
+   "file": "KRM_M28_P5MOD_gilt_frames.fbx",
+   "objects": 1,
+   "tris": 408,
+   "verts": 288,
+   "src_tris": 408,
+   "materials": 1,
+   "mb": 0.03,
+   "bbox_min_cm": [
+    -0.2,
+    -2.3,
+    -0.0
+   ],
+   "bbox_max_cm": [
+    0.2,
+    2.3,
+    9.9
+   ]
+  },
+  {
+   "file": "KRM_M29_P5MOD_gilt_rosettes_and_lantern_metal.fbx",
+   "objects": 1,
+   "tris": 2480,
+   "verts": 1332,
+   "src_tris": 2480,
+   "materials": 1,
+   "mb": 0.07,
+   "bbox_min_cm": [
+    -0.2,
+    -2.0,
+    0.0
+   ],
+   "bbox_max_cm": [
+    0.2,
+    2.0,
+    9.1
+   ]
+  },
+  {
+   "file": "KRM_M30_P5MOD_marble_panels.fbx",
+   "objects": 1,
+   "tris": 24,
+   "verts": 16,
+   "src_tris": 24,
+   "materials": 1,
+   "mb": 0.03,
+   "bbox_min_cm": [
+    -0.0,
+    -1.7,
+    -0.0
+   ],
+   "bbox_max_cm": [
+    0.0,
+    1.7,
+    9.8
+   ]
+  },
+  {
+   "file": "KRM_M31_P5MOD_sapphire_narrow_panels.fbx",
+   "objects": 1,
+   "tris": 20,
+   "verts": 16,
+   "src_tris": 20,
+   "materials": 1,
+   "mb": 0.03,
+   "bbox_min_cm": [
+    -0.0,
+    -0.4,
+    -0.0
+   ],
+   "bbox_max_cm": [
+    0.0,
+    0.4,
+    9.7
+   ]
+  },
+  {
+   "file": "KRM_M32_P5MODC_gilt_frames.fbx",
+   "objects": 1,
+   "tris": 96,
+   "verts": 64,
+   "src_tris": 96,
+   "materials": 1,
+   "mb": 0.03,
+   "bbox_min_cm": [
+    -1.6,
+    -2.1,
+    -0.0
+   ],
+   "bbox_max_cm": [
+    1.6,
+    2.1,
+    0.0
+   ]
+  },
+  {
+   "file": "KRM_M33_P5MODC_gilt_rosettes.fbx",
+   "objects": 1,
+   "tris": 980,
+   "verts": 500,
+   "src_tris": 980,
+   "materials": 1,
+   "mb": 0.04,
+   "bbox_min_cm": [
+    -0.7,
+    -0.9,
+    0.0
+   ],
+   "bbox_max_cm": [
+    0.7,
+    0.9,
+    0.1
+   ]
+  },
+  {
+   "file": "KRM_M34_P5MODC_sapphire_coffers.fbx",
+   "objects": 1,
+   "tris": 12,
+   "verts": 8,
+   "src_tris": 12,
+   "materials": 1,
+   "mb": 0.02,
+   "bbox_min_cm": [
+    -1.6,
+    -2.1,
+    -0.0
+   ],
+   "bbox_max_cm": [
+    1.6,
+    2.1,
+    0.0
+   ]
+  },
+  {
+   "file": "KRM_M35_P5MODL_candles.fbx",
+   "objects": 1,
+   "tris": 504,
+   "verts": 288,
+   "src_tris": 504,
+   "materials": 1,
+   "mb": 0.03,
+   "bbox_min_cm": [
+    -0.7,
+    -0.7,
+    -0.0
+   ],
+   "bbox_max_cm": [
+    0.7,
+    0.7,
+    0.6
+   ]
+  },
+  {
+   "file": "KRM_M36_P5MODL_crystals.fbx",
+   "objects": 1,
+   "tris": 3192,
+   "verts": 1634,
+   "src_tris": 3192,
+   "materials": 1,
+   "mb": 0.07,
+   "bbox_min_cm": [
+    -0.7,
+    -0.7,
+    0.0
+   ],
+   "bbox_max_cm": [
+    0.7,
+    0.7,
+    1.0
+   ]
+  },
+  {
+   "file": "KRM_M37_P5MODL_flames.fbx",
+   "objects": 1,
+   "tris": 3024,
+   "verts": 1548,
+   "src_tris": 3024,
+   "materials": 1,
+   "mb": 0.07,
+   "bbox_min_cm": [
+    -0.7,
+    -0.7,
+    -0.0
+   ],
+   "bbox_max_cm": [
+    0.7,
+    0.7,
+    0.5
+   ]
+  },
+  {
+   "file": "KRM_M38_P5MODL_gilt.fbx",
+   "objects": 1,
+   "tris": 1008,
+   "verts": 542,
+   "src_tris": 1008,
+   "materials": 1,
+   "mb": 0.04,
+   "bbox_min_cm": [
+    -0.7,
+    -0.7,
+    0.0
+   ],
+   "bbox_max_cm": [
+    0.7,
+    0.7,
+    1.9
+   ]
+  },
+  {
+   "file": "KRM_M39_P8_column_attic_base_gilt_fillets.fbx",
+   "objects": 1,
+   "tris": 480,
+   "verts": 320,
+   "src_tris": 480,
+   "materials": 1,
+   "mb": 0.03,
+   "bbox_min_cm": [
+    -0.5,
+    -0.5,
+    -0.0
+   ],
+   "bbox_max_cm": [
+    0.5,
+    0.5,
+    0.4
+   ]
+  },
+  {
+   "file": "KRM_M40_P8_column_attic_base_marble.fbx",
+   "objects": 1,
+   "tris": 892,
+   "verts": 488,
+   "src_tris": 892,
+   "materials": 1,
+   "mb": 0.04,
+   "bbox_min_cm": [
+    -0.5,
+    -0.5,
+    -0.0
+   ],
+   "bbox_max_cm": [
+    0.5,
+    0.5,
+    0.6
+   ]
+  },
+  {
+   "file": "KRM_M41_P8_column_corinthian_acanthus_gilt.fbx",
+   "objects": 1,
+   "tris": 3440,
+   "verts": 2040,
+   "src_tris": 3440,
+   "materials": 1,
+   "mb": 0.08,
+   "bbox_min_cm": [
+    -0.5,
+    -0.5,
+    -0.0
+   ],
+   "bbox_max_cm": [
+    0.5,
+    0.5,
+    0.5
+   ]
+  },
+  {
+   "file": "KRM_M42_P8_column_corinthian_bell_and_abacus_marble.fbx",
+   "objects": 1,
+   "tris": 476,
+   "verts": 280,
+   "src_tris": 476,
+   "materials": 1,
+   "mb": 0.03,
+   "bbox_min_cm": [
+    -0.5,
+    -0.5,
+    -0.0
+   ],
+   "bbox_max_cm": [
+    0.5,
+    0.5,
+    0.5
+   ]
+  },
+  {
+   "file": "KRM_M43_ROOM_unit_ball_Antique_gilded_bronze.fbx",
+   "objects": 1,
+   "tris": 224,
+   "verts": 114,
+   "src_tris": 224,
+   "materials": 1,
+   "mb": 0.03,
+   "bbox_min_cm": [
+    -1.0,
+    -1.0,
+    0.0
+   ],
+   "bbox_max_cm": [
+    1.0,
+    1.0,
+    2.0
+   ]
+  },
+  {
+   "file": "KRM_M44_ROOM_unit_box_Antique_gilded_bronze.fbx",
+   "objects": 1,
+   "tris": 12,
+   "verts": 8,
+   "src_tris": 12,
+   "materials": 1,
+   "mb": 0.03,
+   "bbox_min_cm": [
+    -0.5,
+    -0.5,
+    -0.0
+   ],
+   "bbox_max_cm": [
+    0.5,
+    0.5,
+    1.0
+   ]
+  },
+  {
+   "file": "KRM_M45_ROOM_unit_box_Ivory_marble.fbx",
+   "objects": 1,
+   "tris": 12,
+   "verts": 8,
+   "src_tris": 12,
+   "materials": 1,
+   "mb": 0.03,
+   "bbox_min_cm": [
+    -0.5,
+    -0.5,
+    -0.0
+   ],
+   "bbox_max_cm": [
+    0.5,
+    0.5,
+    1.0
+   ]
+  },
+  {
+   "file": "KRM_M46_ROOM_unit_cyl_Sapphire_stone.fbx",
+   "objects": 1,
+   "tris": 76,
+   "verts": 40,
+   "src_tris": 76,
+   "materials": 1,
+   "mb": 0.03,
+   "bbox_min_cm": [
+    -1.0,
+    -1.0,
+    -0.0
+   ],
+   "bbox_max_cm": [
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "file": "KRM_M47_Sphere.005.fbx",
+   "objects": 1,
+   "tris": 224,
+   "verts": 114,
+   "src_tris": 224,
+   "materials": 1,
+   "mb": 0.03,
+   "bbox_min_cm": [
+    -1.0,
+    -1.0,
+    0.0
+   ],
+   "bbox_max_cm": [
+    1.0,
+    1.0,
+    2.0
+   ]
+  },
+  {
+   "file": "KRM_DOOR_00_DOOR_HINGE___Wing_end_LEFT___A.fbx",
+   "objects": 1,
+   "tris": 4612,
+   "verts": 2460,
+   "src_tris": 4612,
+   "materials": 1,
+   "mb": 0.1,
+   "bbox_min_cm": [
+    0.0,
+    -0.2,
+    0.1
+   ],
+   "bbox_max_cm": [
+    1.2,
+    0.2,
+    3.7
+   ]
+  },
+  {
+   "file": "KRM_DOOR_01_DOOR_HINGE___Wing_end_LEFT___B.fbx",
+   "objects": 1,
+   "tris": 4612,
+   "verts": 2460,
+   "src_tris": 4612,
+   "materials": 1,
+   "mb": 0.1,
+   "bbox_min_cm": [
+    -1.2,
+    -0.2,
+    0.1
+   ],
+   "bbox_max_cm": [
+    -0.0,
+    0.2,
+    3.7
+   ]
+  },
+  {
+   "file": "KRM_DOOR_02_DOOR_HINGE___Wing_end_RIGHT___A.fbx",
+   "objects": 1,
+   "tris": 4612,
+   "verts": 2460,
+   "src_tris": 4612,
+   "materials": 1,
+   "mb": 0.1,
+   "bbox_min_cm": [
+    0.0,
+    -0.2,
+    0.1
+   ],
+   "bbox_max_cm": [
+    1.2,
+    0.2,
+    3.7
+   ]
+  },
+  {
+   "file": "KRM_DOOR_03_DOOR_HINGE___Wing_end_RIGHT___B.fbx",
+   "objects": 1,
+   "tris": 4612,
+   "verts": 2460,
+   "src_tris": 4612,
+   "materials": 1,
+   "mb": 0.1,
+   "bbox_min_cm": [
+    -1.2,
+    -0.2,
+    0.1
+   ],
+   "bbox_max_cm": [
+    -0.0,
+    0.2,
+    3.7
+   ]
+  },
+  {
+   "file": "KRM_DOOR_04_DOOR_HINGE___Wing_portal_LEFT___A.fbx",
+   "objects": 1,
+   "tris": 4612,
+   "verts": 2460,
+   "src_tris": 4612,
+   "materials": 1,
+   "mb": 0.1,
+   "bbox_min_cm": [
+    0.0,
+    -0.2,
+    0.0
+   ],
+   "bbox_max_cm": [
+    1.6,
+    0.2,
+    4.4
+   ]
+  },
+  {
+   "file": "KRM_DOOR_05_DOOR_HINGE___Wing_portal_LEFT___B.fbx",
+   "objects": 1,
+   "tris": 4612,
+   "verts": 2460,
+   "src_tris": 4612,
+   "materials": 1,
+   "mb": 0.1,
+   "bbox_min_cm": [
+    -1.6,
+    -0.2,
+    0.0
+   ],
+   "bbox_max_cm": [
+    -0.0,
+    0.2,
+    4.4
+   ]
+  },
+  {
+   "file": "KRM_DOOR_06_DOOR_HINGE___Wing_portal_RIGHT___A.fbx",
+   "objects": 1,
+   "tris": 4612,
+   "verts": 2460,
+   "src_tris": 4612,
+   "materials": 1,
+   "mb": 0.1,
+   "bbox_min_cm": [
+    0.0,
+    -0.2,
+    0.0
+   ],
+   "bbox_max_cm": [
+    1.6,
+    0.2,
+    4.4
+   ]
+  },
+  {
+   "file": "KRM_DOOR_07_DOOR_HINGE___Wing_portal_RIGHT___B.fbx",
+   "objects": 1,
+   "tris": 4612,
+   "verts": 2460,
+   "src_tris": 4612,
+   "materials": 1,
+   "mb": 0.1,
+   "bbox_min_cm": [
+    -1.6,
+    -0.2,
+    0.0
+   ],
+   "bbox_max_cm": [
+    -0.0,
+    0.2,
+    4.4
+   ]
+  },
+  {
+   "file": "KRM_DOOR_08_Entrance_door_hinge_LEFT.fbx",
+   "objects": 1,
+   "tris": 2956,
+   "verts": 1580,
+   "src_tris": 2956,
+   "materials": 1,
+   "mb": 0.08,
+   "bbox_min_cm": [
+    0.0,
+    -0.4,
+    -0.0
+   ],
+   "bbox_max_cm": [
+    3.0,
+    0.6,
+    9.2
+   ]
+  },
+  {
+   "file": "KRM_DOOR_09_Entrance_door_hinge_RIGHT.fbx",
+   "objects": 1,
+   "tris": 2956,
+   "verts": 1580,
+   "src_tris": 2956,
+   "materials": 1,
+   "mb": 0.08,
+   "bbox_min_cm": [
+    -3.0,
+    -0.4,
+    -0.0
+   ],
+   "bbox_max_cm": [
+    -0.0,
+    0.6,
+    9.2
+   ]
+  }
+ ]
+}

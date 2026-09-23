@@ -1,0 +1,282 @@
+[
+ {
+  "file": "KRM_DOOR_00_DOOR_HINGE___Wing_end_LEFT___A.fbx",
+  "hinge": "DOOR_HINGE | Wing end LEFT | A",
+  "tris": 4612,
+  "verts": 2460,
+  "mb": 0.105,
+  "hinge_X_cm": -2978.0,
+  "hinge_Y_cm": 0.0,
+  "hinge_Z_cm": 978.0,
+  "base_yaw_deg": -90.0,
+  "closed_deg": 0.0,
+  "open_deg": null,
+  "open_start_s": null,
+  "open_end_s": null,
+  "animated_in_source": false,
+  "source_keys_frame_deg": [],
+  "duration_s": null
+ },
+ {
+  "file": "KRM_DOOR_01_DOOR_HINGE___Wing_end_LEFT___B.fbx",
+  "hinge": "DOOR_HINGE | Wing end LEFT | B",
+  "tris": 4612,
+  "verts": 2460,
+  "mb": 0.104,
+  "hinge_X_cm": -2978.0,
+  "hinge_Y_cm": 0.0,
+  "hinge_Z_cm": 1222.0,
+  "base_yaw_deg": -90.0,
+  "closed_deg": 0.0,
+  "open_deg": null,
+  "open_start_s": null,
+  "open_end_s": null,
+  "animated_in_source": false,
+  "source_keys_frame_deg": [],
+  "duration_s": null
+ },
+ {
+  "file": "KRM_DOOR_02_DOOR_HINGE___Wing_end_RIGHT___A.fbx",
+  "hinge": "DOOR_HINGE | Wing end RIGHT | A",
+  "tris": 4612,
+  "verts": 2460,
+  "mb": 0.104,
+  "hinge_X_cm": 2978.0,
+  "hinge_Y_cm": 0.0,
+  "hinge_Z_cm": 1222.0,
+  "base_yaw_deg": 90.0,
+  "closed_deg": 0.0,
+  "open_deg": null,
+  "open_start_s": null,
+  "open_end_s": null,
+  "animated_in_source": false,
+  "source_keys_frame_deg": [],
+  "duration_s": null
+ },
+ {
+  "file": "KRM_DOOR_03_DOOR_HINGE___Wing_end_RIGHT___B.fbx",
+  "hinge": "DOOR_HINGE | Wing end RIGHT | B",
+  "tris": 4612,
+  "verts": 2460,
+  "mb": 0.105,
+  "hinge_X_cm": 2978.0,
+  "hinge_Y_cm": 0.0,
+  "hinge_Z_cm": 978.0,
+  "base_yaw_deg": 90.0,
+  "closed_deg": 0.0,
+  "open_deg": null,
+  "open_start_s": null,
+  "open_end_s": null,
+  "animated_in_source": false,
+  "source_keys_frame_deg": [],
+  "duration_s": null
+ },
+ {
+  "file": "KRM_DOOR_04_DOOR_HINGE___Wing_portal_LEFT___A.fbx",
+  "hinge": "DOOR_HINGE | Wing portal LEFT | A",
+  "tris": 4612,
+  "verts": 2460,
+  "mb": 0.104,
+  "hinge_X_cm": -1616.5,
+  "hinge_Y_cm": 0.0,
+  "hinge_Z_cm": 908.0,
+  "base_yaw_deg": -90.0,
+  "closed_deg": 0.0,
+  "open_deg": -90.0,
+  "open_start_s": 1.25,
+  "open_end_s": 3.25,
+  "animated_in_source": true,
+  "source_keys_frame_deg": [
+   [
+    1,
+    0.0
+   ],
+   [
+    30,
+    0.0
+   ],
+   [
+    78,
+    90.0
+   ]
+  ],
+  "duration_s": 2.0,
+  "anticipation_deg": -0.0
+ },
+ {
+  "file": "KRM_DOOR_05_DOOR_HINGE___Wing_portal_LEFT___B.fbx",
+  "hinge": "DOOR_HINGE | Wing portal LEFT | B",
+  "tris": 4612,
+  "verts": 2460,
+  "mb": 0.104,
+  "hinge_X_cm": -1616.5,
+  "hinge_Y_cm": 0.0,
+  "hinge_Z_cm": 1232.0,
+  "base_yaw_deg": -90.0,
+  "closed_deg": 0.0,
+  "open_deg": 90.0,
+  "open_start_s": 1.25,
+  "open_end_s": 3.25,
+  "animated_in_source": true,
+  "source_keys_frame_deg": [
+   [
+    1,
+    0.0
+   ],
+   [
+    30,
+    0.0
+   ],
+   [
+    78,
+    -90.0
+   ]
+  ],
+  "duration_s": 2.0,
+  "anticipation_deg": -0.0
+ },
+ {
+  "file": "KRM_DOOR_06_DOOR_HINGE___Wing_portal_RIGHT___A.fbx",
+  "hinge": "DOOR_HINGE | Wing portal RIGHT | A",
+  "tris": 4612,
+  "verts": 2460,
+  "mb": 0.104,
+  "hinge_X_cm": 1616.5,
+  "hinge_Y_cm": 0.0,
+  "hinge_Z_cm": 1232.0,
+  "base_yaw_deg": 90.0,
+  "closed_deg": 0.0,
+  "open_deg": -90.0,
+  "open_start_s": 1.25,
+  "open_end_s": 3.25,
+  "animated_in_source": true,
+  "source_keys_frame_deg": [
+   [
+    1,
+    0.0
+   ],
+   [
+    30,
+    0.0
+   ],
+   [
+    78,
+    90.0
+   ]
+  ],
+  "duration_s": 2.0,
+  "anticipation_deg": -0.0
+ },
+ {
+  "file": "KRM_DOOR_07_DOOR_HINGE___Wing_portal_RIGHT___B.fbx",
+  "hinge": "DOOR_HINGE | Wing portal RIGHT | B",
+  "tris": 4612,
+  "verts": 2460,
+  "mb": 0.105,
+  "hinge_X_cm": 1616.5,
+  "hinge_Y_cm": 0.0,
+  "hinge_Z_cm": 908.0,
+  "base_yaw_deg": 90.0,
+  "closed_deg": 0.0,
+  "open_deg": 90.0,
+  "open_start_s": 1.25,
+  "open_end_s": 3.25,
+  "animated_in_source": true,
+  "source_keys_frame_deg": [
+   [
+    1,
+    0.0
+   ],
+   [
+    30,
+    0.0
+   ],
+   [
+    78,
+    -90.0
+   ]
+  ],
+  "duration_s": 2.0,
+  "anticipation_deg": -0.0
+ },
+ {
+  "file": "KRM_DOOR_08_Entrance_door_hinge_LEFT.fbx",
+  "hinge": "Entrance door hinge LEFT",
+  "tris": 2956,
+  "verts": 1580,
+  "mb": 0.078,
+  "hinge_X_cm": -305.0,
+  "hinge_Y_cm": 0.0,
+  "hinge_Z_cm": -4190.0,
+  "base_yaw_deg": -0.0,
+  "closed_deg": 0.0,
+  "open_deg": -92.0,
+  "open_start_s": 1.667,
+  "open_end_s": 4.583,
+  "animated_in_source": true,
+  "source_keys_frame_deg": [
+   [
+    1,
+    0.0
+   ],
+   [
+    24,
+    -2.0
+   ],
+   [
+    40,
+    0.0
+   ],
+   [
+    110,
+    92.0
+   ],
+   [
+    250,
+    92.0
+   ]
+  ],
+  "duration_s": 2.917,
+  "anticipation_deg": 2.0
+ },
+ {
+  "file": "KRM_DOOR_09_Entrance_door_hinge_RIGHT.fbx",
+  "hinge": "Entrance door hinge RIGHT",
+  "tris": 2956,
+  "verts": 1580,
+  "mb": 0.078,
+  "hinge_X_cm": 305.0,
+  "hinge_Y_cm": 0.0,
+  "hinge_Z_cm": -4190.0,
+  "base_yaw_deg": -0.0,
+  "closed_deg": 0.0,
+  "open_deg": 92.0,
+  "open_start_s": 1.667,
+  "open_end_s": 4.583,
+  "animated_in_source": true,
+  "source_keys_frame_deg": [
+   [
+    1,
+    -0.0
+   ],
+   [
+    24,
+    2.0
+   ],
+   [
+    40,
+    -0.0
+   ],
+   [
+    110,
+    -92.0
+   ],
+   [
+    250,
+    -92.0
+   ]
+  ],
+  "duration_s": 2.917,
+  "anticipation_deg": -2.0
+ }
+]

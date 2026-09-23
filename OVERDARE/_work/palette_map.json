@@ -1,0 +1,122 @@
+﻿{
+    "Antique gilded bronze":  {
+                                  "u":  0.0625,
+                                  "v":  0.9375,
+                                  "slot":  0
+                              },
+    "Blue grey marble":  {
+                             "u":  0.1875,
+                             "v":  0.9375,
+                             "slot":  1
+                         },
+    "Candle light":  {
+                         "u":  0.3125,
+                         "v":  0.9375,
+                         "slot":  2
+                     },
+    "Ceiling ivory single sided":  {
+                                       "u":  0.4375,
+                                       "v":  0.9375,
+                                       "slot":  3
+                                   },
+    "Fountain water":  {
+                           "u":  0.5625,
+                           "v":  0.9375,
+                           "slot":  4
+                       },
+    "Ivory marble":  {
+                         "u":  0.6875,
+                         "v":  0.9375,
+                         "slot":  5
+                     },
+    "P3 berry red":  {
+                         "u":  0.8125,
+                         "v":  0.9375,
+                         "slot":  6
+                     },
+    "P3 cake lavender icing":  {
+                                   "u":  0.9375,
+                                   "v":  0.9375,
+                                   "slot":  7
+                               },
+    "P3 pale marble tile":  {
+                                "u":  0.0625,
+                                "v":  0.8125,
+                                "slot":  8
+                            },
+    "P3 porcelain white":  {
+                               "u":  0.1875,
+                               "v":  0.8125,
+                               "slot":  9
+                           },
+    "P3 skylight sky":  {
+                            "u":  0.3125,
+                            "v":  0.8125,
+                            "slot":  10
+                        },
+    "P3 topiary green":  {
+                             "u":  0.4375,
+                             "v":  0.8125,
+                             "slot":  11
+                         },
+    "P3 window daylight glass":  {
+                                     "u":  0.5625,
+                                     "v":  0.8125,
+                                     "slot":  12
+                                 },
+    "P7 water basin":  {
+                           "u":  0.6875,
+                           "v":  0.8125,
+                           "slot":  13
+                       },
+    "P7 water droplet":  {
+                             "u":  0.8125,
+                             "v":  0.8125,
+                             "slot":  14
+                         },
+    "P7 water lower bowl":  {
+                                "u":  0.9375,
+                                "v":  0.8125,
+                                "slot":  15
+                            },
+    "P7 water overflow sheet":  {
+                                    "u":  0.0625,
+                                    "v":  0.6875,
+                                    "slot":  16
+                                },
+    "P7 water stream":  {
+                            "u":  0.1875,
+                            "v":  0.6875,
+                            "slot":  17
+                        },
+    "P7 water upper bowl":  {
+                                "u":  0.3125,
+                                "v":  0.6875,
+                                "slot":  18
+                            },
+    "Palace mirror":  {
+                          "u":  0.4375,
+                          "v":  0.6875,
+                          "slot":  19
+                      },
+    "Pale azure glazing":  {
+                               "u":  0.5625,
+                               "v":  0.6875,
+                               "slot":  20
+                           },
+    "Royal blue velvet":  {
+                              "u":  0.6875,
+                              "v":  0.6875,
+                              "slot":  21
+                          },
+    "Sapphire stone":  {
+                           "u":  0.8125,
+                           "v":  0.6875,
+                           "slot":  22
+                       },
+    "Wrought iron":  {
+                         "u":  0.9375,
+                         "v":  0.6875,
+                         "slot":  23
+                     }
+}

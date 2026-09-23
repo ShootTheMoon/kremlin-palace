@@ -1,0 +1,6 @@
+floors 4
+walls 13
+stairs 178 boxes from 6 objects
+columns 55 from 267 objects
+decks 3
+fountain 2

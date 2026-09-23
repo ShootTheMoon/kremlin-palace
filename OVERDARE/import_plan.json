@@ -1,0 +1,1146 @@
+[
+ {
+  "session": 1,
+  "batch": 1,
+  "dir": "02_INSTANCE_MASTERS",
+  "file": "KRM_M00_Cube.fbx",
+  "tris": 12,
+  "mb": 0.02
+ },
+ {
+  "session": 1,
+  "batch": 1,
+  "dir": "02_INSTANCE_MASTERS",
+  "file": "KRM_M01_Cube.001.fbx",
+  "tris": 12,
+  "mb": 0.02
+ },
+ {
+  "session": 1,
+  "batch": 1,
+  "dir": "02_INSTANCE_MASTERS",
+  "file": "KRM_M02_Cube.002.fbx",
+  "tris": 12,
+  "mb": 0.02
+ },
+ {
+  "session": 1,
+  "batch": 1,
+  "dir": "02_INSTANCE_MASTERS",
+  "file": "KRM_M03_Cube.003.fbx",
+  "tris": 12,
+  "mb": 0.02
+ },
+ {
+  "session": 1,
+  "batch": 1,
+  "dir": "02_INSTANCE_MASTERS",
+  "file": "KRM_M04_Cube.005.fbx",
+  "tris": 12,
+  "mb": 0.02
+ },
+ {
+  "session": 1,
+  "batch": 1,
+  "dir": "02_INSTANCE_MASTERS",
+  "file": "KRM_M05_Cube.006.fbx",
+  "tris": 12,
+  "mb": 0.02
+ },
+ {
+  "session": 1,
+  "batch": 1,
+  "dir": "02_INSTANCE_MASTERS",
+  "file": "KRM_M06_Cube.007.fbx",
+  "tris": 12,
+  "mb": 0.02
+ },
+ {
+  "session": 1,
+  "batch": 1,
+  "dir": "02_INSTANCE_MASTERS",
+  "file": "KRM_M07_Cube.007__back_.fbx",
+  "tris": 12,
+  "mb": 0.02
+ },
+ {
+  "session": 1,
+  "batch": 1,
+  "dir": "02_INSTANCE_MASTERS",
+  "file": "KRM_M08_Cube.008.fbx",
+  "tris": 12,
+  "mb": 0.02
+ },
+ {
+  "session": 1,
+  "batch": 1,
+  "dir": "02_INSTANCE_MASTERS",
+  "file": "KRM_M09_Cylinder.fbx",
+  "tris": 92,
+  "mb": 0.03
+ },
+ {
+  "session": 1,
+  "batch": 2,
+  "dir": "02_INSTANCE_MASTERS",
+  "file": "KRM_M10_Cylinder.001.fbx",
+  "tris": 92,
+  "mb": 0.03
+ },
+ {
+  "session": 1,
+  "batch": 2,
+  "dir": "02_INSTANCE_MASTERS",
+  "file": "KRM_M11_Cylinder.002.fbx",
+  "tris": 92,
+  "mb": 0.03
+ },
+ {
+  "session": 1,
+  "batch": 2,
+  "dir": "02_INSTANCE_MASTERS",
+  "file": "KRM_M12_Cylinder.007.fbx",
+  "tris": 92,
+  "mb": 0.03
+ },
+ {
+  "session": 2,
+  "batch": 1,
+  "dir": "02_INSTANCE_MASTERS",
+  "file": "KRM_M13_Cylinder.008.fbx",
+  "tris": 92,
+  "mb": 0.03
+ },
+ {
+  "session": 2,
+  "batch": 1,
+  "dir": "02_INSTANCE_MASTERS",
+  "file": "KRM_M14_Cylinder.009.fbx",
+  "tris": 92,
+  "mb": 0.03
+ },
+ {
+  "session": 2,
+  "batch": 1,
+  "dir": "02_INSTANCE_MASTERS",
+  "file": "KRM_M15_DOOR_unit_ball_Antique_gilded_bronze.fbx",
+  "tris": 224,
+  "mb": 0.03
+ },
+ {
+  "session": 2,
+  "batch": 1,
+  "dir": "02_INSTANCE_MASTERS",
+  "file": "KRM_M16_DOOR_unit_ball_Sapphire_stone.fbx",
+  "tris": 224,
+  "mb": 0.03
+ },
+ {
+  "session": 2,
+  "batch": 1,
+  "dir": "02_INSTANCE_MASTERS",
+  "file": "KRM_M17_DOOR_unit_box_Antique_gilded_bronze.fbx",
+  "tris": 12,
+  "mb": 0.03
+ },
+ {
+  "session": 2,
+  "batch": 1,
+  "dir": "02_INSTANCE_MASTERS",
+  "file": "KRM_M18_DOOR_unit_box_Ivory_marble.fbx",
+  "tris": 12,
+  "mb": 0.03
+ },
+ {
+  "session": 2,
+  "batch": 1,
+  "dir": "02_INSTANCE_MASTERS",
+  "file": "KRM_M19_DOOR_unit_box_Sapphire_stone.fbx",
+  "tris": 12,
+  "mb": 0.03
+ },
+ {
+  "session": 2,
+  "batch": 1,
+  "dir": "02_INSTANCE_MASTERS",
+  "file": "KRM_M20_GEN_knight_armor_LOD.fbx",
+  "tris": 29148,
+  "mb": 3.31
+ },
+ {
+  "session": 2,
+  "batch": 1,
+  "dir": "02_INSTANCE_MASTERS",
+  "file": "KRM_M21_GEN_rococo_armchair_LOD.fbx",
+  "tris": 17999,
+  "mb": 3.14
+ },
+ {
+  "session": 2,
+  "batch": 1,
+  "dir": "02_INSTANCE_MASTERS",
+  "file": "KRM_M22_P3_corridor_L_outer_glazing.fbx",
+  "tris": 416,
+  "mb": 0.03
+ },
+ {
+  "session": 2,
+  "batch": 2,
+  "dir": "02_INSTANCE_MASTERS",
+  "file": "KRM_M23_P3_corridor_R_outer_glazing.fbx",
+  "tris": 416,
+  "mb": 0.03
+ },
+ {
+  "session": 2,
+  "batch": 2,
+  "dir": "02_INSTANCE_MASTERS",
+  "file": "KRM_M24_P3_unit_ball_Antique_gilded_bronze.fbx",
+  "tris": 440,
+  "mb": 0.03
+ },
+ {
+  "session": 2,
+  "batch": 2,
+  "dir": "02_INSTANCE_MASTERS",
+  "file": "KRM_M25_P3_unit_ball_Sapphire_stone.fbx",
+  "tris": 440,
+  "mb": 0.03
+ },
+ {
+  "session": 3,
+  "batch": 1,
+  "dir": "02_INSTANCE_MASTERS",
+  "file": "KRM_M26_P3_unit_box_Antique_gilded_bronze.fbx",
+  "tris": 12,
+  "mb": 0.03
+ },
+ {
+  "session": 3,
+  "batch": 1,
+  "dir": "02_INSTANCE_MASTERS",
+  "file": "KRM_M27_P3_unit_box_Ivory_marble.fbx",
+  "tris": 12,
+  "mb": 0.03
+ },
+ {
+  "session": 3,
+  "batch": 1,
+  "dir": "02_INSTANCE_MASTERS",
+  "file": "KRM_M28_P3_unit_box_Sapphire_stone.fbx",
+  "tris": 12,
+  "mb": 0.03
+ },
+ {
+  "session": 3,
+  "batch": 1,
+  "dir": "02_INSTANCE_MASTERS",
+  "file": "KRM_M29_P3_unit_cyl_Antique_gilded_bronze.fbx",
+  "tris": 124,
+  "mb": 0.03
+ },
+ {
+  "session": 3,
+  "batch": 1,
+  "dir": "02_INSTANCE_MASTERS",
+  "file": "KRM_M30_P3_unit_cyl_Ivory_marble.fbx",
+  "tris": 124,
+  "mb": 0.03
+ },
+ {
+  "session": 3,
+  "batch": 1,
+  "dir": "02_INSTANCE_MASTERS",
+  "file": "KRM_M31_P3_unit_rhombus_Sapphire.fbx",
+  "tris": 12,
+  "mb": 0.03
+ },
+ {
+  "session": 3,
+  "batch": 1,
+  "dir": "02_INSTANCE_MASTERS",
+  "file": "KRM_M32_P5MOD_gilt_frames.fbx",
+  "tris": 408,
+  "mb": 0.03
+ },
+ {
+  "session": 3,
+  "batch": 1,
+  "dir": "02_INSTANCE_MASTERS",
+  "file": "KRM_M33_P5MOD_gilt_rosettes_and_lantern_metal.fbx",
+  "tris": 2480,
+  "mb": 0.07
+ },
+ {
+  "session": 3,
+  "batch": 1,
+  "dir": "02_INSTANCE_MASTERS",
+  "file": "KRM_M34_P5MOD_marble_panels.fbx",
+  "tris": 24,
+  "mb": 0.02
+ },
+ {
+  "session": 3,
+  "batch": 1,
+  "dir": "02_INSTANCE_MASTERS",
+  "file": "KRM_M35_P5MOD_sapphire_narrow_panels.fbx",
+  "tris": 20,
+  "mb": 0.03
+ },
+ {
+  "session": 3,
+  "batch": 2,
+  "dir": "02_INSTANCE_MASTERS",
+  "file": "KRM_M36_P5MODC_gilt_frames.fbx",
+  "tris": 96,
+  "mb": 0.03
+ },
+ {
+  "session": 3,
+  "batch": 2,
+  "dir": "02_INSTANCE_MASTERS",
+  "file": "KRM_M37_P5MODC_gilt_rosettes.fbx",
+  "tris": 980,
+  "mb": 0.04
+ },
+ {
+  "session": 3,
+  "batch": 2,
+  "dir": "02_INSTANCE_MASTERS",
+  "file": "KRM_M38_P5MODC_sapphire_coffers.fbx",
+  "tris": 12,
+  "mb": 0.03
+ },
+ {
+  "session": 4,
+  "batch": 1,
+  "dir": "02_INSTANCE_MASTERS",
+  "file": "KRM_M39_P5MODL_candles.fbx",
+  "tris": 504,
+  "mb": 0.03
+ },
+ {
+  "session": 4,
+  "batch": 1,
+  "dir": "02_INSTANCE_MASTERS",
+  "file": "KRM_M40_P5MODL_crystals.fbx",
+  "tris": 3192,
+  "mb": 0.07
+ },
+ {
+  "session": 4,
+  "batch": 1,
+  "dir": "02_INSTANCE_MASTERS",
+  "file": "KRM_M41_P5MODL_flames.fbx",
+  "tris": 3024,
+  "mb": 0.07
+ },
+ {
+  "session": 4,
+  "batch": 1,
+  "dir": "02_INSTANCE_MASTERS",
+  "file": "KRM_M42_P5MODL_gilt.fbx",
+  "tris": 1008,
+  "mb": 0.04
+ },
+ {
+  "session": 4,
+  "batch": 1,
+  "dir": "02_INSTANCE_MASTERS",
+  "file": "KRM_M43_P8_column_attic_base_gilt_fillets.fbx",
+  "tris": 480,
+  "mb": 0.03
+ },
+ {
+  "session": 4,
+  "batch": 1,
+  "dir": "02_INSTANCE_MASTERS",
+  "file": "KRM_M44_P8_column_attic_base_marble.fbx",
+  "tris": 892,
+  "mb": 0.04
+ },
+ {
+  "session": 4,
+  "batch": 1,
+  "dir": "02_INSTANCE_MASTERS",
+  "file": "KRM_M45_P8_column_corinthian_acanthus_gilt.fbx",
+  "tris": 3440,
+  "mb": 0.08
+ },
+ {
+  "session": 4,
+  "batch": 1,
+  "dir": "02_INSTANCE_MASTERS",
+  "file": "KRM_M46_P8_column_corinthian_bell_and_abacus_marble.fbx",
+  "tris": 476,
+  "mb": 0.03
+ },
+ {
+  "session": 4,
+  "batch": 1,
+  "dir": "02_INSTANCE_MASTERS",
+  "file": "KRM_M47_ROOM_unit_ball_Antique_gilded_bronze.fbx",
+  "tris": 224,
+  "mb": 0.03
+ },
+ {
+  "session": 4,
+  "batch": 1,
+  "dir": "02_INSTANCE_MASTERS",
+  "file": "KRM_M48_ROOM_unit_box_Antique_gilded_bronze.fbx",
+  "tris": 12,
+  "mb": 0.03
+ },
+ {
+  "session": 4,
+  "batch": 2,
+  "dir": "02_INSTANCE_MASTERS",
+  "file": "KRM_M49_ROOM_unit_box_Ivory_marble.fbx",
+  "tris": 12,
+  "mb": 0.03
+ },
+ {
+  "session": 4,
+  "batch": 2,
+  "dir": "02_INSTANCE_MASTERS",
+  "file": "KRM_M50_ROOM_unit_cyl_Sapphire_stone.fbx",
+  "tris": 76,
+  "mb": 0.03
+ },
+ {
+  "session": 4,
+  "batch": 2,
+  "dir": "02_INSTANCE_MASTERS",
+  "file": "KRM_M51_Sphere.005.fbx",
+  "tris": 224,
+  "mb": 0.03
+ },
+ {
+  "session": 5,
+  "batch": 1,
+  "dir": "02_INSTANCE_MASTERS",
+  "file": "KRM_M52_Sphere.005__back_.fbx",
+  "tris": 224,
+  "mb": 0.03
+ },
+ {
+  "session": 5,
+  "batch": 1,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_000.fbx",
+  "tris": 27840,
+  "mb": 0.42
+ },
+ {
+  "session": 5,
+  "batch": 1,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_001.fbx",
+  "tris": 27784,
+  "mb": 0.48
+ },
+ {
+  "session": 5,
+  "batch": 1,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_002.fbx",
+  "tris": 27388,
+  "mb": 0.49
+ },
+ {
+  "session": 5,
+  "batch": 1,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_003.fbx",
+  "tris": 26592,
+  "mb": 0.45
+ },
+ {
+  "session": 5,
+  "batch": 1,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_004.fbx",
+  "tris": 8832,
+  "mb": 0.17
+ },
+ {
+  "session": 5,
+  "batch": 1,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_005.fbx",
+  "tris": 22784,
+  "mb": 0.38
+ },
+ {
+  "session": 5,
+  "batch": 1,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_006.fbx",
+  "tris": 25664,
+  "mb": 0.42
+ },
+ {
+  "session": 5,
+  "batch": 1,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_007.fbx",
+  "tris": 4064,
+  "mb": 0.09
+ },
+ {
+  "session": 5,
+  "batch": 1,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_008.fbx",
+  "tris": 25632,
+  "mb": 0.51
+ },
+ {
+  "session": 5,
+  "batch": 2,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_009.fbx",
+  "tris": 27936,
+  "mb": 0.52
+ },
+ {
+  "session": 5,
+  "batch": 2,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_010.fbx",
+  "tris": 21520,
+  "mb": 0.33
+ },
+ {
+  "session": 5,
+  "batch": 2,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_011.fbx",
+  "tris": 24096,
+  "mb": 0.38
+ },
+ {
+  "session": 6,
+  "batch": 1,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_012.fbx",
+  "tris": 26864,
+  "mb": 0.43
+ },
+ {
+  "session": 6,
+  "batch": 1,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_013.fbx",
+  "tris": 27864,
+  "mb": 0.42
+ },
+ {
+  "session": 6,
+  "batch": 1,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_014.fbx",
+  "tris": 27184,
+  "mb": 0.5
+ },
+ {
+  "session": 6,
+  "batch": 1,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_015.fbx",
+  "tris": 27864,
+  "mb": 0.43
+ },
+ {
+  "session": 6,
+  "batch": 1,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_016.fbx",
+  "tris": 27848,
+  "mb": 0.5
+ },
+ {
+  "session": 6,
+  "batch": 1,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_017.fbx",
+  "tris": 27424,
+  "mb": 0.41
+ },
+ {
+  "session": 6,
+  "batch": 1,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_018.fbx",
+  "tris": 25680,
+  "mb": 0.4
+ },
+ {
+  "session": 6,
+  "batch": 1,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_019.fbx",
+  "tris": 19472,
+  "mb": 0.28
+ },
+ {
+  "session": 6,
+  "batch": 1,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_020.fbx",
+  "tris": 22664,
+  "mb": 0.34
+ },
+ {
+  "session": 6,
+  "batch": 1,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_021.fbx",
+  "tris": 27424,
+  "mb": 0.4
+ },
+ {
+  "session": 6,
+  "batch": 2,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_022.fbx",
+  "tris": 25680,
+  "mb": 0.4
+ },
+ {
+  "session": 6,
+  "batch": 2,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_023.fbx",
+  "tris": 19472,
+  "mb": 0.28
+ },
+ {
+  "session": 6,
+  "batch": 2,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_024.fbx",
+  "tris": 16224,
+  "mb": 0.23
+ },
+ {
+  "session": 7,
+  "batch": 1,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_025.fbx",
+  "tris": 27456,
+  "mb": 0.37
+ },
+ {
+  "session": 7,
+  "batch": 1,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_026.fbx",
+  "tris": 27984,
+  "mb": 0.37
+ },
+ {
+  "session": 7,
+  "batch": 1,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_027.fbx",
+  "tris": 25156,
+  "mb": 0.35
+ },
+ {
+  "session": 7,
+  "batch": 1,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_028.fbx",
+  "tris": 20976,
+  "mb": 0.31
+ },
+ {
+  "session": 7,
+  "batch": 1,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_029.fbx",
+  "tris": 16416,
+  "mb": 0.32
+ },
+ {
+  "session": 7,
+  "batch": 1,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_030.fbx",
+  "tris": 28000,
+  "mb": 0.42
+ },
+ {
+  "session": 7,
+  "batch": 1,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_031.fbx",
+  "tris": 28000,
+  "mb": 0.41
+ },
+ {
+  "session": 7,
+  "batch": 1,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_032.fbx",
+  "tris": 26840,
+  "mb": 0.38
+ },
+ {
+  "session": 7,
+  "batch": 1,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_033.fbx",
+  "tris": 14328,
+  "mb": 0.23
+ },
+ {
+  "session": 7,
+  "batch": 1,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_034.fbx",
+  "tris": 28000,
+  "mb": 0.35
+ },
+ {
+  "session": 7,
+  "batch": 2,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_035.fbx",
+  "tris": 5532,
+  "mb": 0.1
+ },
+ {
+  "session": 7,
+  "batch": 2,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_036.fbx",
+  "tris": 28000,
+  "mb": 0.35
+ },
+ {
+  "session": 7,
+  "batch": 2,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_037.fbx",
+  "tris": 27988,
+  "mb": 0.47
+ },
+ {
+  "session": 8,
+  "batch": 1,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_038.fbx",
+  "tris": 27524,
+  "mb": 0.55
+ },
+ {
+  "session": 8,
+  "batch": 1,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_039.fbx",
+  "tris": 26468,
+  "mb": 0.55
+ },
+ {
+  "session": 8,
+  "batch": 1,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_040.fbx",
+  "tris": 23376,
+  "mb": 0.48
+ },
+ {
+  "session": 8,
+  "batch": 1,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_041.fbx",
+  "tris": 24072,
+  "mb": 0.49
+ },
+ {
+  "session": 8,
+  "batch": 1,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_042.fbx",
+  "tris": 26740,
+  "mb": 0.46
+ },
+ {
+  "session": 8,
+  "batch": 1,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_043.fbx",
+  "tris": 26220,
+  "mb": 0.46
+ },
+ {
+  "session": 8,
+  "batch": 1,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_044.fbx",
+  "tris": 13096,
+  "mb": 0.24
+ },
+ {
+  "session": 8,
+  "batch": 1,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_045.fbx",
+  "tris": 26740,
+  "mb": 0.46
+ },
+ {
+  "session": 8,
+  "batch": 1,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_046.fbx",
+  "tris": 26220,
+  "mb": 0.46
+ },
+ {
+  "session": 8,
+  "batch": 1,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_047.fbx",
+  "tris": 13096,
+  "mb": 0.24
+ },
+ {
+  "session": 8,
+  "batch": 2,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_048.fbx",
+  "tris": 26740,
+  "mb": 0.46
+ },
+ {
+  "session": 8,
+  "batch": 2,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_049.fbx",
+  "tris": 26220,
+  "mb": 0.46
+ },
+ {
+  "session": 8,
+  "batch": 2,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_050.fbx",
+  "tris": 13096,
+  "mb": 0.24
+ },
+ {
+  "session": 9,
+  "batch": 1,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_051.fbx",
+  "tris": 26740,
+  "mb": 0.46
+ },
+ {
+  "session": 9,
+  "batch": 1,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_052.fbx",
+  "tris": 26220,
+  "mb": 0.46
+ },
+ {
+  "session": 9,
+  "batch": 1,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_053.fbx",
+  "tris": 13096,
+  "mb": 0.23
+ },
+ {
+  "session": 9,
+  "batch": 1,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_054.fbx",
+  "tris": 26740,
+  "mb": 0.43
+ },
+ {
+  "session": 9,
+  "batch": 1,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_055.fbx",
+  "tris": 26220,
+  "mb": 0.45
+ },
+ {
+  "session": 9,
+  "batch": 1,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_056.fbx",
+  "tris": 13096,
+  "mb": 0.23
+ },
+ {
+  "session": 9,
+  "batch": 1,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_057.fbx",
+  "tris": 26740,
+  "mb": 0.43
+ },
+ {
+  "session": 9,
+  "batch": 1,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_058.fbx",
+  "tris": 26220,
+  "mb": 0.43
+ },
+ {
+  "session": 9,
+  "batch": 1,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_059.fbx",
+  "tris": 13096,
+  "mb": 0.23
+ },
+ {
+  "session": 9,
+  "batch": 1,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_060.fbx",
+  "tris": 26740,
+  "mb": 0.43
+ },
+ {
+  "session": 9,
+  "batch": 2,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_061.fbx",
+  "tris": 26220,
+  "mb": 0.45
+ },
+ {
+  "session": 9,
+  "batch": 2,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_062.fbx",
+  "tris": 13096,
+  "mb": 0.23
+ },
+ {
+  "session": 9,
+  "batch": 2,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_063.fbx",
+  "tris": 26740,
+  "mb": 0.43
+ },
+ {
+  "session": 10,
+  "batch": 1,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_064.fbx",
+  "tris": 26220,
+  "mb": 0.43
+ },
+ {
+  "session": 10,
+  "batch": 1,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_065.fbx",
+  "tris": 18820,
+  "mb": 0.23
+ },
+ {
+  "session": 10,
+  "batch": 1,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_066.fbx",
+  "tris": 28000,
+  "mb": 0.42
+ },
+ {
+  "session": 10,
+  "batch": 1,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_067.fbx",
+  "tris": 28000,
+  "mb": 0.45
+ },
+ {
+  "session": 10,
+  "batch": 1,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_068.fbx",
+  "tris": 20896,
+  "mb": 0.34
+ },
+ {
+  "session": 10,
+  "batch": 1,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_069.fbx",
+  "tris": 28000,
+  "mb": 0.42
+ },
+ {
+  "session": 10,
+  "batch": 1,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_070.fbx",
+  "tris": 28000,
+  "mb": 0.44
+ },
+ {
+  "session": 10,
+  "batch": 1,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_071.fbx",
+  "tris": 26280,
+  "mb": 0.43
+ },
+ {
+  "session": 10,
+  "batch": 1,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_072.fbx",
+  "tris": 19788,
+  "mb": 0.35
+ },
+ {
+  "session": 10,
+  "batch": 1,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_073.fbx",
+  "tris": 26960,
+  "mb": 0.5
+ },
+ {
+  "session": 10,
+  "batch": 2,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_074.fbx",
+  "tris": 22484,
+  "mb": 0.44
+ },
+ {
+  "session": 10,
+  "batch": 2,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_075.fbx",
+  "tris": 27424,
+  "mb": 0.46
+ },
+ {
+  "session": 10,
+  "batch": 2,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_076.fbx",
+  "tris": 25248,
+  "mb": 0.41
+ },
+ {
+  "session": 11,
+  "batch": 1,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_077.fbx",
+  "tris": 28000,
+  "mb": 0.46
+ },
+ {
+  "session": 11,
+  "batch": 1,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_078.fbx",
+  "tris": 5344,
+  "mb": 0.11
+ },
+ {
+  "session": 11,
+  "batch": 1,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_079.fbx",
+  "tris": 28000,
+  "mb": 0.45
+ },
+ {
+  "session": 11,
+  "batch": 1,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_080.fbx",
+  "tris": 5920,
+  "mb": 0.12
+ },
+ {
+  "session": 11,
+  "batch": 1,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_081.fbx",
+  "tris": 28000,
+  "mb": 0.46
+ },
+ {
+  "session": 11,
+  "batch": 1,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_082.fbx",
+  "tris": 27576,
+  "mb": 0.38
+ },
+ {
+  "session": 11,
+  "batch": 1,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_083.fbx",
+  "tris": 26720,
+  "mb": 0.43
+ },
+ {
+  "session": 11,
+  "batch": 1,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_084.fbx",
+  "tris": 26400,
+  "mb": 0.46
+ },
+ {
+  "session": 11,
+  "batch": 1,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_085.fbx",
+  "tris": 26400,
+  "mb": 0.43
+ },
+ {
+  "session": 11,
+  "batch": 1,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_086.fbx",
+  "tris": 27996,
+  "mb": 0.5
+ },
+ {
+  "session": 11,
+  "batch": 2,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_087.fbx",
+  "tris": 9132,
+  "mb": 0.15
+ },
+ {
+  "session": 11,
+  "batch": 2,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_088.fbx",
+  "tris": 28000,
+  "mb": 0.41
+ },
+ {
+  "session": 11,
+  "batch": 2,
+  "dir": "01_STATIC",
+  "file": "KRM_STATIC_089.fbx",
+  "tris": 12256,
+  "mb": 0.19
+ }
+]

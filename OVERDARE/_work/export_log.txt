@@ -1,0 +1,158 @@
+door KRM_DOOR_00_DOOR_HINGE___Wing_end_LEFT___A 4612 tris keys 0
+door KRM_DOOR_01_DOOR_HINGE___Wing_end_LEFT___B 4612 tris keys 0
+door KRM_DOOR_02_DOOR_HINGE___Wing_end_RIGHT___A 4612 tris keys 0
+door KRM_DOOR_03_DOOR_HINGE___Wing_end_RIGHT___B 4612 tris keys 0
+door KRM_DOOR_04_DOOR_HINGE___Wing_portal_LEFT___A 4612 tris keys 3
+door KRM_DOOR_05_DOOR_HINGE___Wing_portal_LEFT___B 4612 tris keys 3
+door KRM_DOOR_06_DOOR_HINGE___Wing_portal_RIGHT___A 4612 tris keys 3
+door KRM_DOOR_07_DOOR_HINGE___Wing_portal_RIGHT___B 4612 tris keys 3
+door KRM_DOOR_08_Entrance_door_hinge_LEFT 2956 tris keys 5
+door KRM_DOOR_09_Entrance_door_hinge_RIGHT 2956 tris keys 5
+doors 10 excluded children 454
+visible 1812 | static objs 867 | instance masters 48
+split P3 wall gilt rosettes and lantern metal 73936 tris -> 3 chunks
+split P3 wall gilt panel scrolls 76896 tris -> 3 chunks
+split P3 side gallery balustrade R iron heart scrolls 31584 tris -> 2 chunks
+split P3 side gallery balustrade L iron heart scrolls 31584 tris -> 2 chunks
+split P3 gallery fascia gilt scrolls 74048 tris -> 3 chunks
+split P8 soffit gilt rosettes 29400 tris -> 2 chunks
+split P8 ceiling gilt acanthus reliefs 33344 tris -> 2 chunks
+split P8 chandelier rear dome crystal beads 33920 tris -> 2 chunks
+split P8 chandelier front dome crystal beads 33920 tris -> 2 chunks
+static buckets 88 prep 1.8 s
+static KRM_STATIC_000 25968 tris 13774 verts
+static KRM_STATIC_001 27092 tris 14662 verts
+static KRM_STATIC_002 27936 tris 15154 verts
+static KRM_STATIC_003 26048 tris 14208 verts
+static KRM_STATIC_004 25664 tris 13872 verts
+static KRM_STATIC_005 4064 tris 2768 verts
+static KRM_STATIC_006 25632 tris 13824 verts
+static KRM_STATIC_007 27936 tris 14976 verts
+static KRM_STATIC_008 21520 tris 10768 verts
+static KRM_STATIC_009 24096 tris 12194 verts
+static KRM_STATIC_010 26864 tris 15960 verts
+static KRM_STATIC_011 27864 tris 14224 verts
+static KRM_STATIC_012 27184 tris 15544 verts
+static KRM_STATIC_013 27864 tris 14224 verts
+static KRM_STATIC_014 27848 tris 16160 verts
+static KRM_STATIC_015 27424 tris 15064 verts
+static KRM_STATIC_016 25680 tris 14760 verts
+static KRM_STATIC_017 19472 tris 11464 verts
+static KRM_STATIC_018 22664 tris 13064 verts
+static KRM_STATIC_019 27424 tris 15064 verts
+static KRM_STATIC_020 25680 tris 14760 verts
+static KRM_STATIC_021 19472 tris 11464 verts
+static KRM_STATIC_022 16224 tris 8889 verts
+static KRM_STATIC_023 27456 tris 14592 verts
+static KRM_STATIC_024 27984 tris 14944 verts
+static KRM_STATIC_025 25156 tris 13692 verts
+static KRM_STATIC_026 20976 tris 11186 verts
+static KRM_STATIC_027 16416 tris 10134 verts
+static KRM_STATIC_028 28000 tris 15106 verts
+static KRM_STATIC_029 28000 tris 15148 verts
+static KRM_STATIC_030 26840 tris 14514 verts
+static KRM_STATIC_031 14328 tris 8472 verts
+static KRM_STATIC_032 28000 tris 14008 verts
+static KRM_STATIC_033 5532 tris 4136 verts
+static KRM_STATIC_034 28000 tris 14008 verts
+static KRM_STATIC_035 27988 tris 17154 verts
+static KRM_STATIC_036 27524 tris 16044 verts
+static KRM_STATIC_037 26468 tris 14176 verts
+static KRM_STATIC_038 23376 tris 12624 verts
+static KRM_STATIC_039 24072 tris 12844 verts
+static KRM_STATIC_040 26740 tris 14252 verts
+static KRM_STATIC_041 26220 tris 14080 verts
+static KRM_STATIC_042 13096 tris 6804 verts
+static KRM_STATIC_043 26740 tris 14252 verts
+static KRM_STATIC_044 26220 tris 14080 verts
+static KRM_STATIC_045 13096 tris 6804 verts
+static KRM_STATIC_046 26740 tris 14252 verts
+static KRM_STATIC_047 26220 tris 14080 verts
+static KRM_STATIC_048 13096 tris 6804 verts
+static KRM_STATIC_049 26740 tris 14252 verts
+static KRM_STATIC_050 26220 tris 14080 verts
+static KRM_STATIC_051 13096 tris 6804 verts
+static KRM_STATIC_052 26740 tris 14252 verts
+static KRM_STATIC_053 26220 tris 14080 verts
+static KRM_STATIC_054 13096 tris 6804 verts
+static KRM_STATIC_055 26740 tris 14252 verts
+static KRM_STATIC_056 26220 tris 14080 verts
+static KRM_STATIC_057 13096 tris 6804 verts
+static KRM_STATIC_058 26740 tris 14252 verts
+static KRM_STATIC_059 26220 tris 14080 verts
+static KRM_STATIC_060 13096 tris 6804 verts
+static KRM_STATIC_061 26740 tris 14252 verts
+static KRM_STATIC_062 26220 tris 14080 verts
+static KRM_STATIC_063 18820 tris 11640 verts
+static KRM_STATIC_064 28000 tris 15120 verts
+static KRM_STATIC_065 28000 tris 15272 verts
+static KRM_STATIC_066 20896 tris 11368 verts
+static KRM_STATIC_067 28000 tris 14536 verts
+static KRM_STATIC_068 28000 tris 14688 verts
+static KRM_STATIC_069 26280 tris 14492 verts
+static KRM_STATIC_070 19788 tris 12524 verts
+static KRM_STATIC_071 26960 tris 13928 verts
+static KRM_STATIC_072 22484 tris 12328 verts
+static KRM_STATIC_073 27424 tris 14206 verts
+static KRM_STATIC_074 25248 tris 13890 verts
+static KRM_STATIC_075 28000 tris 14492 verts
+static KRM_STATIC_076 5344 tris 2776 verts
+static KRM_STATIC_077 28000 tris 14728 verts
+static KRM_STATIC_078 5920 tris 3144 verts
+static KRM_STATIC_079 28000 tris 14728 verts
+static KRM_STATIC_080 27576 tris 14144 verts
+static KRM_STATIC_081 26720 tris 14656 verts
+static KRM_STATIC_082 26400 tris 14784 verts
+static KRM_STATIC_083 26400 tris 14784 verts
+static KRM_STATIC_084 27996 tris 15834 verts
+static KRM_STATIC_085 9132 tris 5562 verts
+static KRM_STATIC_086 28000 tris 14350 verts
+static KRM_STATIC_087 12256 tris 6254 verts
+master KRM_M00_Cube 12 tris x 21 instances
+master KRM_M01_Cube.001 12 tris x 58 instances
+master KRM_M02_Cube.002 12 tris x 1 instances
+master KRM_M03_Cube.003 12 tris x 5 instances
+master KRM_M04_Cube.005 12 tris x 7 instances
+master KRM_M05_Cube.006 12 tris x 4 instances
+master KRM_M06_Cube.007 12 tris x 19 instances
+master KRM_M07_Cylinder 92 tris x 169 instances
+master KRM_M08_Cylinder.001 92 tris x 2 instances
+master KRM_M09_Cylinder.002 92 tris x 33 instances
+master KRM_M10_Cylinder.007 92 tris x 42 instances
+master KRM_M11_Cylinder.008 92 tris x 2 instances
+master KRM_M12_Cylinder.009 92 tris x 18 instances
+master KRM_M13_DOOR_unit_ball_Sapphire_stone 224 tris x 4 instances
+master KRM_M14_DOOR_unit_box_Antique_gilded_bronze 12 tris x 30 instances
+master KRM_M15_DOOR_unit_box_Ivory_marble 12 tris x 20 instances
+master KRM_M16_GEN_knight_armor_LOD 29148 tris x 18 instances
+master KRM_M17_GEN_rococo_armchair_LOD 17999 tris x 64 instances
+master KRM_M18_P3_corridor_L_outer_glazing 416 tris x 4 instances
+master KRM_M19_P3_corridor_R_outer_glazing 416 tris x 4 instances
+master KRM_M20_P3_unit_ball_Antique_gilded_bronze 440 tris x 4 instances
+master KRM_M21_P3_unit_ball_Sapphire_stone 440 tris x 4 instances
+master KRM_M22_P3_unit_box_Antique_gilded_bronze 12 tris x 4 instances
+master KRM_M23_P3_unit_box_Ivory_marble 12 tris x 4 instances
+master KRM_M24_P3_unit_box_Sapphire_stone 12 tris x 4 instances
+master KRM_M25_P3_unit_cyl_Antique_gilded_bronze 124 tris x 8 instances
+master KRM_M26_P3_unit_cyl_Ivory_marble 124 tris x 1 instances
+master KRM_M27_P3_unit_rhombus_Sapphire 12 tris x 72 instances
+master KRM_M28_P5MOD_gilt_frames 408 tris x 10 instances
+master KRM_M29_P5MOD_gilt_rosettes_and_lantern_metal 2480 tris x 10 instances
+master KRM_M30_P5MOD_marble_panels 24 tris x 10 instances
+master KRM_M31_P5MOD_sapphire_narrow_panels 20 tris x 10 instances
+master KRM_M32_P5MODC_gilt_frames 96 tris x 15 instances
+master KRM_M33_P5MODC_gilt_rosettes 980 tris x 15 instances
+master KRM_M34_P5MODC_sapphire_coffers 12 tris x 15 instances
+master KRM_M35_P5MODL_candles 504 tris x 2 instances
+master KRM_M36_P5MODL_crystals 3192 tris x 2 instances
+master KRM_M37_P5MODL_flames 3024 tris x 2 instances
+master KRM_M38_P5MODL_gilt 1008 tris x 2 instances
+master KRM_M39_P8_column_attic_base_gilt_fillets 480 tris x 50 instances
+master KRM_M40_P8_column_attic_base_marble 892 tris x 50 instances
+master KRM_M41_P8_column_corinthian_acanthus_gilt 3440 tris x 50 instances
+master KRM_M42_P8_column_corinthian_bell_and_abacus_marble 476 tris x 50 instances
+master KRM_M43_ROOM_unit_ball_Antique_gilded_bronze 224 tris x 4 instances
+master KRM_M44_ROOM_unit_box_Antique_gilded_bronze 12 tris x 14 instances
+master KRM_M45_ROOM_unit_box_Ivory_marble 12 tris x 2 instances
+master KRM_M46_ROOM_unit_cyl_Sapphire_stone 76 tris x 4 instances
+master KRM_M47_Sphere.005 224 tris x 2 instances

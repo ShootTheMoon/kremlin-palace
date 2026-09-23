@@ -1,0 +1,946 @@
+master,object,X_cm,Y_cm,Z_cm,yaw_deg,pitch_deg,roll_deg,scale_x,scale_y,scale_z
+KRM_M00_Cube,Foundation,0.0,-42.0,0.0,-0.0,0.0,-0.0,32.4,28.4,0.4
+KRM_M00_Cube,Rear palace wall,0.0,0.0,1400.0,-0.0,0.0,-0.0,32.0,0.45,12.0
+KRM_M00_Cube,Lateral palace wall,-1600.0,0.0,-300.0,-0.0,0.0,-0.0,0.45,22.0,12.0
+KRM_M00_Cube,Wing portal lintel,-1600.0,600.0,1100.0,-0.0,0.0,-0.0,0.45,6.0,6.0
+KRM_M00_Cube,Lateral palace wall.001,1600.0,0.0,-300.0,-0.0,0.0,-0.0,0.45,22.0,12.0
+KRM_M00_Cube,Wing portal lintel.001,1600.0,600.0,1100.0,-0.0,0.0,-0.0,0.45,6.0,6.0
+KRM_M00_Cube,Upper promenade,-1370.0,480.0,0.0,-0.0,0.0,-0.0,4.6,28.0,0.3
+KRM_M00_Cube,Upper promenade.001,1370.0,480.0,0.0,-0.0,0.0,-0.0,4.6,28.0,0.3
+KRM_M00_Cube,Rear landing,0.0,480.0,1110.0,-0.0,0.0,-0.0,23.0,5.8,0.3
+KRM_M00_Cube,Wing marble floor,-2300.0,-24.0,1100.0,-0.0,0.0,-0.0,14.0,6.0,0.24
+KRM_M00_Cube,Wing outer wall,-2300.0,0.0,1400.0,-0.0,0.0,-0.0,14.0,0.3,6.0
+KRM_M00_Cube,Wing front wall,-2300.0,0.0,800.0,-0.0,0.0,-0.0,14.0,0.3,6.0
+KRM_M00_Cube,Wing end wall,-3000.0,0.0,1100.0,-0.0,0.0,-0.0,0.3,6.0,6.0
+KRM_M00_Cube,Square pedestal.020,-1625.0,0.0,1350.0,-0.0,0.0,-0.0,0.92,0.92,0.36
+KRM_M00_Cube,Wing marble floor.001,2300.0,-24.0,1100.0,-0.0,0.0,-0.0,14.0,6.0,0.24
+KRM_M00_Cube,Wing outer wall.001,2300.0,0.0,1400.0,-0.0,0.0,-0.0,14.0,0.3,6.0
+KRM_M00_Cube,Wing front wall.001,2300.0,0.0,800.0,-0.0,0.0,-0.0,14.0,0.3,6.0
+KRM_M00_Cube,Wing end wall.001,3000.0,0.0,1100.0,-0.0,0.0,-0.0,0.3,6.0,6.0
+KRM_M00_Cube,Forehall | Foundation,0.0,-42.0,-2800.0,-0.0,0.0,-0.0,32.4,28.4,0.4
+KRM_M00_Cube,Forehall | Upper promenade,-1370.0,480.0,-2800.0,-0.0,0.0,-0.0,4.6,28.0,0.3
+KRM_M00_Cube,Forehall | Upper promenade.001,1370.0,480.0,-2800.0,-0.0,0.0,-0.0,4.6,28.0,0.3
+KRM_M01_Cube.001,Rear cornice,0.0,18.5,1365.0,-0.0,0.0,-0.0,32.0,0.3,0.13
+KRM_M01_Cube.001,Lateral cornice,-1565.0,18.5,-260.0,-0.0,0.0,-0.0,0.3,22.8,0.13
+KRM_M01_Cube.001,Lateral cornice.001,1565.0,18.5,-260.0,-0.0,0.0,-0.0,0.3,22.8,0.13
+KRM_M01_Cube.001,Rear cornice.001,0.0,468.5,1365.0,-0.0,0.0,-0.0,32.0,0.3,0.13
+KRM_M01_Cube.001,Lateral cornice.002,-1565.0,468.5,0.0,-0.0,0.0,-0.0,0.3,28.0,0.13
+KRM_M01_Cube.001,Lateral cornice.003,1565.0,468.5,0.0,-0.0,0.0,-0.0,0.3,28.0,0.13
+KRM_M01_Cube.001,Rear cornice.002,0.0,503.5,1365.0,-0.0,0.0,-0.0,32.0,0.3,0.13
+KRM_M01_Cube.001,Lateral cornice.004,-1565.0,503.5,0.0,-0.0,0.0,-0.0,0.3,28.0,0.13
+KRM_M01_Cube.001,Lateral cornice.005,1565.0,503.5,0.0,-0.0,0.0,-0.0,0.3,28.0,0.13
+KRM_M01_Cube.001,Rear cornice.003,0.0,1073.5,1365.0,-0.0,0.0,-0.0,32.0,0.3,0.13
+KRM_M01_Cube.001,Lateral cornice.006,-1565.0,1073.5,0.0,-0.0,0.0,-0.0,0.3,28.0,0.13
+KRM_M01_Cube.001,Lateral cornice.007,1565.0,1073.5,0.0,-0.0,0.0,-0.0,0.3,28.0,0.13
+KRM_M01_Cube.001,Rear cornice.004,0.0,1153.5,1365.0,-0.0,0.0,-0.0,32.0,0.3,0.13
+KRM_M01_Cube.001,Lateral cornice.008,-1565.0,1153.5,0.0,-0.0,0.0,-0.0,0.3,28.0,0.13
+KRM_M01_Cube.001,Lateral cornice.009,1565.0,1153.5,0.0,-0.0,0.0,-0.0,0.3,28.0,0.13
+KRM_M01_Cube.001,Rear cornice.005,0.0,1193.5,1365.0,-0.0,0.0,-0.0,32.0,0.3,0.13
+KRM_M01_Cube.001,Lateral cornice.010,-1565.0,1193.5,0.0,-0.0,0.0,-0.0,0.3,28.0,0.13
+KRM_M01_Cube.001,Lateral cornice.011,1565.0,1193.5,0.0,-0.0,0.0,-0.0,0.3,28.0,0.13
+KRM_M01_Cube.001,Window vertical gold mullion,-300.0,170.0,1350.0,-0.0,0.0,-0.0,0.075,0.1,10.0
+KRM_M01_Cube.001,Window vertical gold mullion.001,-200.0,170.0,1350.0,-0.0,0.0,-0.0,0.075,0.1,10.0
+KRM_M01_Cube.001,Window vertical gold mullion.002,-100.0,170.0,1350.0,-0.0,0.0,-0.0,0.075,0.1,10.0
+KRM_M01_Cube.001,Window vertical gold mullion.003,0.0,170.0,1350.0,-0.0,0.0,-0.0,0.075,0.1,10.0
+KRM_M01_Cube.001,Window vertical gold mullion.004,100.0,170.0,1350.0,-0.0,0.0,-0.0,0.075,0.1,10.0
+KRM_M01_Cube.001,Window vertical gold mullion.005,200.0,170.0,1350.0,-0.0,0.0,-0.0,0.075,0.1,10.0
+KRM_M01_Cube.001,Window vertical gold mullion.006,300.0,170.0,1350.0,-0.0,0.0,-0.0,0.075,0.1,10.0
+KRM_M01_Cube.001,Window horizontal mullion,0.0,166.75,1348.0,-0.0,0.0,-0.0,6.0,0.1,0.065
+KRM_M01_Cube.001,Window horizontal mullion.001,0.0,266.75,1348.0,-0.0,0.0,-0.0,6.0,0.1,0.065
+KRM_M01_Cube.001,Window horizontal mullion.002,0.0,366.75,1348.0,-0.0,0.0,-0.0,6.0,0.1,0.065
+KRM_M01_Cube.001,Window horizontal mullion.003,0.0,466.75,1348.0,-0.0,0.0,-0.0,6.0,0.1,0.065
+KRM_M01_Cube.001,Window horizontal mullion.004,0.0,566.75,1348.0,-0.0,0.0,-0.0,6.0,0.1,0.065
+KRM_M01_Cube.001,Window horizontal mullion.005,0.0,666.75,1348.0,-0.0,0.0,-0.0,6.0,0.1,0.065
+KRM_M01_Cube.001,Window horizontal mullion.006,0.0,766.75,1348.0,-0.0,0.0,-0.0,6.0,0.1,0.065
+KRM_M01_Cube.001,Window horizontal mullion.007,0.0,866.75,1348.0,-0.0,0.0,-0.0,6.0,0.1,0.065
+KRM_M01_Cube.001,Window horizontal mullion.008,0.0,966.75,1348.0,-0.0,0.0,-0.0,6.0,0.1,0.065
+KRM_M01_Cube.001,Window horizontal mullion.009,0.0,1066.75,1348.0,-0.0,0.0,-0.0,6.0,0.1,0.065
+KRM_M01_Cube.001,Window horizontal mullion.010,0.0,1166.75,1348.0,-0.0,0.0,-0.0,6.0,0.1,0.065
+KRM_M01_Cube.001,Runner gold edge,-1200.0,513.75,0.0,-0.0,0.0,-0.0,0.05,27.5,0.025
+KRM_M01_Cube.001,Runner gold edge.001,-1540.0,513.75,0.0,-0.0,0.0,-0.0,0.05,27.5,0.025
+KRM_M01_Cube.001,Runner gold edge.002,1200.0,513.75,0.0,-0.0,0.0,-0.0,0.05,27.5,0.025
+KRM_M01_Cube.001,Runner gold edge.003,1540.0,513.75,0.0,-0.0,0.0,-0.0,0.05,27.5,0.025
+KRM_M01_Cube.001,Forehall | Lateral cornice,-1565.0,18.5,-2800.0,-0.0,0.0,-0.0,0.3,28.0,0.13
+KRM_M01_Cube.001,Forehall | Lateral cornice.001,1565.0,18.5,-2800.0,-0.0,0.0,-0.0,0.3,28.0,0.13
+KRM_M01_Cube.001,Forehall | Lateral cornice.002,-1565.0,468.5,-2800.0,-0.0,0.0,-0.0,0.3,28.0,0.13
+KRM_M01_Cube.001,Forehall | Lateral cornice.003,1565.0,468.5,-2800.0,-0.0,0.0,-0.0,0.3,28.0,0.13
+KRM_M01_Cube.001,Forehall | Lateral cornice.004,-1565.0,503.5,-2800.0,-0.0,0.0,-0.0,0.3,28.0,0.13
+KRM_M01_Cube.001,Forehall | Lateral cornice.005,1565.0,503.5,-2800.0,-0.0,0.0,-0.0,0.3,28.0,0.13
+KRM_M01_Cube.001,Forehall | Lateral cornice.006,-1565.0,1073.5,-2800.0,-0.0,0.0,-0.0,0.3,28.0,0.13
+KRM_M01_Cube.001,Forehall | Lateral cornice.007,1565.0,1073.5,-2800.0,-0.0,0.0,-0.0,0.3,28.0,0.13
+KRM_M01_Cube.001,Forehall | Lateral cornice.008,-1565.0,1153.5,-2800.0,-0.0,0.0,-0.0,0.3,28.0,0.13
+KRM_M01_Cube.001,Forehall | Lateral cornice.009,1565.0,1153.5,-2800.0,-0.0,0.0,-0.0,0.3,28.0,0.13
+KRM_M01_Cube.001,Forehall | Lateral cornice.010,-1565.0,1193.5,-2800.0,-0.0,0.0,-0.0,0.3,28.0,0.13
+KRM_M01_Cube.001,Forehall | Lateral cornice.011,1565.0,1193.5,-2800.0,-0.0,0.0,-0.0,0.3,28.0,0.13
+KRM_M01_Cube.001,Forehall | Runner gold edge,-1200.0,513.75,-2800.0,-0.0,0.0,-0.0,0.05,27.5,0.025
+KRM_M01_Cube.001,Forehall | Runner gold edge.001,-1540.0,513.75,-2800.0,-0.0,0.0,-0.0,0.05,27.5,0.025
+KRM_M01_Cube.001,Forehall | Runner gold edge.002,1200.0,513.75,-2800.0,-0.0,0.0,-0.0,0.05,27.5,0.025
+KRM_M01_Cube.001,Forehall | Runner gold edge.003,1540.0,513.75,-2800.0,-0.0,0.0,-0.0,0.05,27.5,0.025
+KRM_M01_Cube.001,Door-side cornice return L,-1565.0,18.5,1330.0,-0.0,0.0,-0.0,0.3,1.4,0.13
+KRM_M01_Cube.001,Door-side cornice return R,1565.0,18.5,1330.0,-0.0,0.0,-0.0,0.3,1.4,0.13
+KRM_M02_Cube.002,Central azure window,0.0,170.0,1369.0,-0.0,0.0,-0.0,6.0,0.12,10.0
+KRM_M03_Cube.003,Sapphire gallery runner,-1370.0,510.25,0.0,-0.0,0.0,-0.0,3.5,27.5,0.035
+KRM_M03_Cube.003,Sapphire gallery runner.001,1370.0,510.25,0.0,-0.0,0.0,-0.0,3.5,27.5,0.035
+KRM_M03_Cube.003,Rear landing blue carpet,0.0,510.25,1120.0,-0.0,0.0,-0.0,22.0,4.9,0.035
+KRM_M03_Cube.003,Forehall | Sapphire gallery runner,-1370.0,510.25,-2800.0,-0.0,0.0,-0.0,3.5,27.5,0.035
+KRM_M03_Cube.003,Forehall | Sapphire gallery runner.001,1370.0,510.25,-2800.0,-0.0,0.0,-0.0,3.5,27.5,0.035
+KRM_M04_Cube.005,Forehall solid side wall,-1600.0,0.0,-2800.0,-0.0,0.0,-0.0,0.45,28.0,12.0
+KRM_M04_Cube.005,Forehall solid side wall.001,1600.0,0.0,-2800.0,-0.0,0.0,-0.0,0.45,28.0,12.0
+KRM_M04_Cube.005,Entrance balcony marble deck,-970.0,480.0,-4030.0,-0.0,0.0,-0.0,12.6,3.4,0.3
+KRM_M04_Cube.005,Entrance balcony marble deck.001,970.0,480.0,-4030.0,-0.0,0.0,-0.0,12.6,3.4,0.3
+KRM_M04_Cube.005,Entrance wall wing,-970.0,0.0,-4200.0,-0.0,0.0,-0.0,12.6,0.5,12.0
+KRM_M04_Cube.005,Entrance wall wing.001,970.0,0.0,-4200.0,-0.0,0.0,-0.0,12.6,0.5,12.0
+KRM_M04_Cube.005,Entrance overdoor wall,0.0,960.0,-4200.0,-0.0,0.0,-0.0,6.8,0.5,2.4
+KRM_M05_Cube.006,Entrance balcony carpet,-970.0,510.5,-4030.0,-0.0,0.0,-0.0,12.0,2.8,0.03
+KRM_M05_Cube.006,Entrance balcony carpet.001,970.0,510.5,-4030.0,-0.0,0.0,-0.0,12.0,2.8,0.03
+KRM_M05_Cube.006,Blue imperial standard,-500.0,180.0,-3773.0,-0.0,0.0,-0.0,1.25,0.04,2.8
+KRM_M05_Cube.006,Blue imperial standard.001,500.0,180.0,-3773.0,-0.0,0.0,-0.0,1.25,0.04,2.8
+KRM_M06_Cube.007,Entrance facade cornice,-970.0,18.5,-4162.0,-0.0,0.0,-0.0,12.6,0.22,0.13
+KRM_M06_Cube.007,Entrance facade cornice.001,970.0,18.5,-4162.0,-0.0,0.0,-0.0,12.6,0.22,0.13
+KRM_M06_Cube.007,Entrance facade cornice.002,-970.0,471.5,-4162.0,-0.0,0.0,-0.0,12.6,0.22,0.13
+KRM_M06_Cube.007,Entrance facade cornice.003,970.0,471.5,-4162.0,-0.0,0.0,-0.0,12.6,0.22,0.13
+KRM_M06_Cube.007,Entrance facade cornice.004,-970.0,503.5,-4162.0,-0.0,0.0,-0.0,12.6,0.22,0.13
+KRM_M06_Cube.007,Entrance facade cornice.005,970.0,503.5,-4162.0,-0.0,0.0,-0.0,12.6,0.22,0.13
+KRM_M06_Cube.007,Entrance facade cornice.006,0.0,1078.5,-4162.0,-0.0,0.0,-0.0,32.0,0.22,0.13
+KRM_M06_Cube.007,Entrance facade cornice.007,0.0,1153.5,-4162.0,-0.0,0.0,-0.0,32.0,0.22,0.13
+KRM_M06_Cube.007,Entrance facade cornice.008,0.0,1193.5,-4162.0,-0.0,0.0,-0.0,32.0,0.22,0.13
+KRM_M06_Cube.007,Entrance arch jamb,-315.0,0.0,-4148.0,-0.0,0.0,-0.0,0.18,0.22,6.2
+KRM_M06_Cube.007,Entrance arch jamb.001,315.0,0.0,-4148.0,-0.0,0.0,-0.0,0.18,0.22,6.2
+KRM_M06_Cube.007,Standard gilt border,-556.0,186.5,-3767.0,-0.0,0.0,-0.0,0.055,0.09,2.67
+KRM_M06_Cube.007,Standard gilt border.001,-444.0,186.5,-3767.0,-0.0,0.0,-0.0,0.055,0.09,2.67
+KRM_M06_Cube.007,Standard gilt border.002,-500.0,183.75,-3767.0,-0.0,0.0,-0.0,1.12,0.09,0.055
+KRM_M06_Cube.007,Standard gilt border.003,-500.0,450.75,-3767.0,-0.0,0.0,-0.0,1.12,0.09,0.055
+KRM_M06_Cube.007,Standard gilt border.004,444.0,186.5,-3767.0,-0.0,0.0,-0.0,0.055,0.09,2.67
+KRM_M06_Cube.007,Standard gilt border.005,556.0,186.5,-3767.0,-0.0,0.0,-0.0,0.055,0.09,2.67
+KRM_M06_Cube.007,Standard gilt border.006,500.0,183.75,-3767.0,-0.0,0.0,-0.0,1.12,0.09,0.055
+KRM_M06_Cube.007,Standard gilt border.007,500.0,450.75,-3767.0,-0.0,0.0,-0.0,1.12,0.09,0.055
+KRM_M07_Cylinder,Gilded collar,-1180.0,95.0,-1300.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.001,-1180.0,275.0,-1300.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.002,-1180.0,295.0,-1300.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.003,-1180.0,495.0,-1300.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.004,-1180.0,511.0,-1300.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.007,-1180.0,95.0,-800.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.008,-1180.0,275.0,-800.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.009,-1180.0,295.0,-800.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.010,-1180.0,495.0,-800.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.011,-1180.0,511.0,-800.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.014,-1180.0,95.0,-300.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.015,-1180.0,275.0,-300.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.016,-1180.0,295.0,-300.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.017,-1180.0,495.0,-300.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.018,-1180.0,511.0,-300.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.021,-1180.0,95.0,200.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.022,-1180.0,275.0,200.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.023,-1180.0,295.0,200.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.024,-1180.0,495.0,200.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.025,-1180.0,511.0,200.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.028,-1180.0,95.0,700.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.029,-1180.0,275.0,700.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.030,-1180.0,295.0,700.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.031,-1180.0,495.0,700.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.032,-1180.0,511.0,700.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.035,-1180.0,95.0,1200.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.036,-1180.0,275.0,1200.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.037,-1180.0,295.0,1200.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.038,-1180.0,495.0,1200.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.039,-1180.0,511.0,1200.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.042,1180.0,95.0,-1300.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.043,1180.0,275.0,-1300.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.044,1180.0,295.0,-1300.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.045,1180.0,495.0,-1300.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.046,1180.0,511.0,-1300.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.049,1180.0,95.0,-800.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.050,1180.0,275.0,-800.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.051,1180.0,295.0,-800.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.052,1180.0,495.0,-800.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.053,1180.0,511.0,-800.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.056,1180.0,95.0,-300.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.057,1180.0,275.0,-300.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.058,1180.0,295.0,-300.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.059,1180.0,495.0,-300.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.060,1180.0,511.0,-300.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.063,1180.0,95.0,200.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.064,1180.0,275.0,200.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.065,1180.0,295.0,200.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.066,1180.0,495.0,200.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.067,1180.0,511.0,200.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.070,1180.0,95.0,700.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.071,1180.0,275.0,700.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.072,1180.0,295.0,700.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.073,1180.0,495.0,700.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.074,1180.0,511.0,700.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.077,1180.0,95.0,1200.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.078,1180.0,275.0,1200.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.079,1180.0,295.0,1200.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.080,1180.0,495.0,1200.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.081,1180.0,511.0,1200.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.084,-1550.0,95.0,1335.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.085,-1550.0,275.0,1335.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.086,-1550.0,295.0,1335.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.087,-1550.0,495.0,1335.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.088,-1550.0,511.0,1335.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.091,-1180.0,95.0,1335.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.092,-1180.0,275.0,1335.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.093,-1180.0,295.0,1335.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.094,-1180.0,495.0,1335.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.095,-1180.0,511.0,1335.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.098,-780.0,95.0,1335.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.099,-780.0,275.0,1335.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.100,-780.0,295.0,1335.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.101,-780.0,495.0,1335.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.102,-780.0,511.0,1335.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.105,-360.0,95.0,1335.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.106,-360.0,275.0,1335.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.107,-360.0,295.0,1335.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.108,-360.0,495.0,1335.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.109,-360.0,511.0,1335.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.112,360.0,95.0,1335.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.113,360.0,275.0,1335.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.114,360.0,295.0,1335.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.115,360.0,495.0,1335.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.116,360.0,511.0,1335.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.119,780.0,95.0,1335.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.120,780.0,275.0,1335.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.121,780.0,295.0,1335.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.122,780.0,495.0,1335.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.123,780.0,511.0,1335.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.126,1180.0,95.0,1335.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.127,1180.0,275.0,1335.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.128,1180.0,295.0,1335.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.129,1180.0,495.0,1335.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.130,1180.0,511.0,1335.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.133,1550.0,95.0,1335.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.134,1550.0,275.0,1335.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.135,1550.0,295.0,1335.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.136,1550.0,495.0,1335.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.137,1550.0,511.0,1335.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Column base and capital.080,-1625.0,33.0,1350.0,-0.0,0.0,-0.0,0.55,0.55,0.14
+KRM_M07_Cylinder,Column base and capital.082,-1625.0,536.0,1350.0,-0.0,0.0,-0.0,0.53,0.53,0.16
+KRM_M07_Cylinder,Gilded collar.140,-1625.0,95.0,1350.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.141,-1625.0,275.0,1350.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.142,-1625.0,295.0,1350.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.143,-1625.0,495.0,1350.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.144,-1625.0,511.0,1350.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.145,-1625.0,475.0,1350.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Gilded collar.146,-1625.0,505.0,1350.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Forehall | Gilded collar,-1180.0,95.0,-4100.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Forehall | Gilded collar.001,-1180.0,275.0,-4100.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Forehall | Gilded collar.002,-1180.0,295.0,-4100.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Forehall | Gilded collar.003,-1180.0,495.0,-4100.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Forehall | Gilded collar.004,-1180.0,511.0,-4100.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Forehall | Gilded collar.007,-1180.0,95.0,-3600.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Forehall | Gilded collar.008,-1180.0,275.0,-3600.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Forehall | Gilded collar.009,-1180.0,295.0,-3600.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Forehall | Gilded collar.010,-1180.0,495.0,-3600.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Forehall | Gilded collar.011,-1180.0,511.0,-3600.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Forehall | Gilded collar.014,-1180.0,95.0,-3100.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Forehall | Gilded collar.015,-1180.0,275.0,-3100.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Forehall | Gilded collar.016,-1180.0,295.0,-3100.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Forehall | Gilded collar.017,-1180.0,495.0,-3100.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Forehall | Gilded collar.018,-1180.0,511.0,-3100.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Forehall | Gilded collar.021,-1180.0,95.0,-2600.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Forehall | Gilded collar.022,-1180.0,275.0,-2600.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Forehall | Gilded collar.023,-1180.0,295.0,-2600.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Forehall | Gilded collar.024,-1180.0,495.0,-2600.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Forehall | Gilded collar.025,-1180.0,511.0,-2600.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Forehall | Gilded collar.028,-1180.0,95.0,-2100.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Forehall | Gilded collar.029,-1180.0,275.0,-2100.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Forehall | Gilded collar.030,-1180.0,295.0,-2100.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Forehall | Gilded collar.031,-1180.0,495.0,-2100.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Forehall | Gilded collar.032,-1180.0,511.0,-2100.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Forehall | Gilded collar.035,-1180.0,95.0,-1600.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Forehall | Gilded collar.036,-1180.0,275.0,-1600.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Forehall | Gilded collar.037,-1180.0,295.0,-1600.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Forehall | Gilded collar.038,-1180.0,495.0,-1600.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Forehall | Gilded collar.039,-1180.0,511.0,-1600.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Forehall | Gilded collar.042,1180.0,95.0,-4100.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Forehall | Gilded collar.043,1180.0,275.0,-4100.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Forehall | Gilded collar.044,1180.0,295.0,-4100.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Forehall | Gilded collar.045,1180.0,495.0,-4100.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Forehall | Gilded collar.046,1180.0,511.0,-4100.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Forehall | Gilded collar.049,1180.0,95.0,-3600.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Forehall | Gilded collar.050,1180.0,275.0,-3600.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Forehall | Gilded collar.051,1180.0,295.0,-3600.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Forehall | Gilded collar.052,1180.0,495.0,-3600.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Forehall | Gilded collar.053,1180.0,511.0,-3600.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Forehall | Gilded collar.056,1180.0,95.0,-3100.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Forehall | Gilded collar.057,1180.0,275.0,-3100.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Forehall | Gilded collar.058,1180.0,295.0,-3100.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Forehall | Gilded collar.059,1180.0,495.0,-3100.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Forehall | Gilded collar.060,1180.0,511.0,-3100.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Forehall | Gilded collar.063,1180.0,95.0,-2600.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Forehall | Gilded collar.064,1180.0,275.0,-2600.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Forehall | Gilded collar.065,1180.0,295.0,-2600.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Forehall | Gilded collar.066,1180.0,495.0,-2600.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Forehall | Gilded collar.067,1180.0,511.0,-2600.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Forehall | Gilded collar.070,1180.0,95.0,-2100.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Forehall | Gilded collar.071,1180.0,275.0,-2100.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Forehall | Gilded collar.072,1180.0,295.0,-2100.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Forehall | Gilded collar.073,1180.0,495.0,-2100.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Forehall | Gilded collar.074,1180.0,511.0,-2100.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Forehall | Gilded collar.077,1180.0,95.0,-1600.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Forehall | Gilded collar.078,1180.0,275.0,-1600.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Forehall | Gilded collar.079,1180.0,295.0,-1600.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Forehall | Gilded collar.080,1180.0,495.0,-1600.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M07_Cylinder,Forehall | Gilded collar.081,1180.0,511.0,-1600.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M08_Cylinder.001,Column base and capital.081,-1625.0,47.0,1350.0,-0.0,0.0,-0.0,0.45,0.45,0.3
+KRM_M08_Cylinder.001,Column base and capital.083,-1625.0,554.0,1350.0,-0.0,0.0,-0.0,0.62,0.62,0.2
+KRM_M09_Cylinder.002,Sapphire column shaft,-1180.0,50.0,-1300.0,-0.0,0.0,-0.0,0.31,0.31,10.8
+KRM_M09_Cylinder.002,Sapphire column shaft.001,-1180.0,50.0,-800.0,-0.0,0.0,-0.0,0.31,0.31,10.8
+KRM_M09_Cylinder.002,Sapphire column shaft.002,-1180.0,50.0,-300.0,-0.0,0.0,-0.0,0.31,0.31,10.8
+KRM_M09_Cylinder.002,Sapphire column shaft.003,-1180.0,50.0,200.0,-0.0,0.0,-0.0,0.31,0.31,10.8
+KRM_M09_Cylinder.002,Sapphire column shaft.004,-1180.0,50.0,700.0,-0.0,0.0,-0.0,0.31,0.31,10.8
+KRM_M09_Cylinder.002,Sapphire column shaft.005,-1180.0,50.0,1200.0,-0.0,0.0,-0.0,0.31,0.31,10.8
+KRM_M09_Cylinder.002,Sapphire column shaft.006,1180.0,50.0,-1300.0,-0.0,0.0,-0.0,0.31,0.31,10.8
+KRM_M09_Cylinder.002,Sapphire column shaft.007,1180.0,50.0,-800.0,-0.0,0.0,-0.0,0.31,0.31,10.8
+KRM_M09_Cylinder.002,Sapphire column shaft.008,1180.0,50.0,-300.0,-0.0,0.0,-0.0,0.31,0.31,10.8
+KRM_M09_Cylinder.002,Sapphire column shaft.009,1180.0,50.0,200.0,-0.0,0.0,-0.0,0.31,0.31,10.8
+KRM_M09_Cylinder.002,Sapphire column shaft.010,1180.0,50.0,700.0,-0.0,0.0,-0.0,0.31,0.31,10.8
+KRM_M09_Cylinder.002,Sapphire column shaft.011,1180.0,50.0,1200.0,-0.0,0.0,-0.0,0.31,0.31,10.8
+KRM_M09_Cylinder.002,Sapphire column shaft.012,-1550.0,50.0,1335.0,-0.0,0.0,-0.0,0.31,0.31,10.8
+KRM_M09_Cylinder.002,Sapphire column shaft.013,-1180.0,50.0,1335.0,-0.0,0.0,-0.0,0.31,0.31,10.8
+KRM_M09_Cylinder.002,Sapphire column shaft.014,-780.0,50.0,1335.0,-0.0,0.0,-0.0,0.31,0.31,10.8
+KRM_M09_Cylinder.002,Sapphire column shaft.015,-360.0,50.0,1335.0,-0.0,0.0,-0.0,0.31,0.31,10.8
+KRM_M09_Cylinder.002,Sapphire column shaft.016,360.0,50.0,1335.0,-0.0,0.0,-0.0,0.31,0.31,10.8
+KRM_M09_Cylinder.002,Sapphire column shaft.017,780.0,50.0,1335.0,-0.0,0.0,-0.0,0.31,0.31,10.8
+KRM_M09_Cylinder.002,Sapphire column shaft.018,1180.0,50.0,1335.0,-0.0,0.0,-0.0,0.31,0.31,10.8
+KRM_M09_Cylinder.002,Sapphire column shaft.019,1550.0,50.0,1335.0,-0.0,0.0,-0.0,0.31,0.31,10.8
+KRM_M09_Cylinder.002,Sapphire column shaft.020,-1625.0,50.0,1350.0,-0.0,0.0,-0.0,0.31,0.31,4.8
+KRM_M09_Cylinder.002,Forehall | Sapphire column shaft,-1180.0,50.0,-4100.0,-0.0,0.0,-0.0,0.31,0.31,10.8
+KRM_M09_Cylinder.002,Forehall | Sapphire column shaft.001,-1180.0,50.0,-3600.0,-0.0,0.0,-0.0,0.31,0.31,10.8
+KRM_M09_Cylinder.002,Forehall | Sapphire column shaft.002,-1180.0,50.0,-3100.0,-0.0,0.0,-0.0,0.31,0.31,10.8
+KRM_M09_Cylinder.002,Forehall | Sapphire column shaft.003,-1180.0,50.0,-2600.0,-0.0,0.0,-0.0,0.31,0.31,10.8
+KRM_M09_Cylinder.002,Forehall | Sapphire column shaft.004,-1180.0,50.0,-2100.0,-0.0,0.0,-0.0,0.31,0.31,10.8
+KRM_M09_Cylinder.002,Forehall | Sapphire column shaft.005,-1180.0,50.0,-1600.0,-0.0,0.0,-0.0,0.31,0.31,10.8
+KRM_M09_Cylinder.002,Forehall | Sapphire column shaft.006,1180.0,50.0,-4100.0,-0.0,0.0,-0.0,0.31,0.31,10.8
+KRM_M09_Cylinder.002,Forehall | Sapphire column shaft.007,1180.0,50.0,-3600.0,-0.0,0.0,-0.0,0.31,0.31,10.8
+KRM_M09_Cylinder.002,Forehall | Sapphire column shaft.008,1180.0,50.0,-3100.0,-0.0,0.0,-0.0,0.31,0.31,10.8
+KRM_M09_Cylinder.002,Forehall | Sapphire column shaft.009,1180.0,50.0,-2600.0,-0.0,0.0,-0.0,0.31,0.31,10.8
+KRM_M09_Cylinder.002,Forehall | Sapphire column shaft.010,1180.0,50.0,-2100.0,-0.0,0.0,-0.0,0.31,0.31,10.8
+KRM_M09_Cylinder.002,Forehall | Sapphire column shaft.011,1180.0,50.0,-1600.0,-0.0,0.0,-0.0,0.31,0.31,10.8
+KRM_M10_Cylinder.007,Gilded collar.196,-1520.0,95.0,-4120.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M10_Cylinder.007,Gilded collar.197,-1520.0,275.0,-4120.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M10_Cylinder.007,Gilded collar.198,-1520.0,295.0,-4120.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M10_Cylinder.007,Gilded collar.199,-1520.0,495.0,-4120.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M10_Cylinder.007,Gilded collar.200,-1520.0,511.0,-4120.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M10_Cylinder.007,Gilded collar.203,-1140.0,95.0,-4120.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M10_Cylinder.007,Gilded collar.204,-1140.0,275.0,-4120.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M10_Cylinder.007,Gilded collar.205,-1140.0,295.0,-4120.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M10_Cylinder.007,Gilded collar.206,-1140.0,495.0,-4120.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M10_Cylinder.007,Gilded collar.207,-1140.0,511.0,-4120.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M10_Cylinder.007,Gilded collar.210,-760.0,95.0,-4120.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M10_Cylinder.007,Gilded collar.211,-760.0,275.0,-4120.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M10_Cylinder.007,Gilded collar.212,-760.0,295.0,-4120.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M10_Cylinder.007,Gilded collar.213,-760.0,495.0,-4120.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M10_Cylinder.007,Gilded collar.214,-760.0,511.0,-4120.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M10_Cylinder.007,Gilded collar.217,-340.0,95.0,-4120.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M10_Cylinder.007,Gilded collar.218,-340.0,275.0,-4120.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M10_Cylinder.007,Gilded collar.219,-340.0,295.0,-4120.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M10_Cylinder.007,Gilded collar.220,-340.0,495.0,-4120.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M10_Cylinder.007,Gilded collar.221,-340.0,511.0,-4120.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M10_Cylinder.007,Gilded collar.224,340.0,95.0,-4120.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M10_Cylinder.007,Gilded collar.225,340.0,275.0,-4120.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M10_Cylinder.007,Gilded collar.226,340.0,295.0,-4120.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M10_Cylinder.007,Gilded collar.227,340.0,495.0,-4120.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M10_Cylinder.007,Gilded collar.228,340.0,511.0,-4120.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M10_Cylinder.007,Gilded collar.231,760.0,95.0,-4120.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M10_Cylinder.007,Gilded collar.232,760.0,275.0,-4120.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M10_Cylinder.007,Gilded collar.233,760.0,295.0,-4120.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M10_Cylinder.007,Gilded collar.234,760.0,495.0,-4120.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M10_Cylinder.007,Gilded collar.235,760.0,511.0,-4120.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M10_Cylinder.007,Gilded collar.238,1140.0,95.0,-4120.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M10_Cylinder.007,Gilded collar.239,1140.0,275.0,-4120.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M10_Cylinder.007,Gilded collar.240,1140.0,295.0,-4120.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M10_Cylinder.007,Gilded collar.241,1140.0,495.0,-4120.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M10_Cylinder.007,Gilded collar.242,1140.0,511.0,-4120.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M10_Cylinder.007,Gilded collar.245,1520.0,95.0,-4120.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M10_Cylinder.007,Gilded collar.246,1520.0,275.0,-4120.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M10_Cylinder.007,Gilded collar.247,1520.0,295.0,-4120.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M10_Cylinder.007,Gilded collar.248,1520.0,495.0,-4120.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M10_Cylinder.007,Gilded collar.249,1520.0,511.0,-4120.0,-0.0,0.0,-0.0,0.35,0.35,0.1
+KRM_M10_Cylinder.007,Standard gold pole,-500.0,10.0,-3780.0,-0.0,0.0,-0.0,0.045,0.045,4.8
+KRM_M10_Cylinder.007,Standard gold pole.001,500.0,10.0,-3780.0,-0.0,0.0,-0.0,0.045,0.045,4.8
+KRM_M11_Cylinder.008,Standard pedestal,-500.0,0.0,-3780.0,-0.0,0.0,-0.0,0.36,0.36,0.32
+KRM_M11_Cylinder.008,Standard pedestal.001,500.0,0.0,-3780.0,-0.0,0.0,-0.0,0.36,0.36,0.32
+KRM_M12_Cylinder.009,Sapphire column shaft.028,-1520.0,50.0,-4120.0,-0.0,0.0,-0.0,0.31,0.31,10.8
+KRM_M12_Cylinder.009,Sapphire column shaft.029,-1140.0,50.0,-4120.0,-0.0,0.0,-0.0,0.31,0.31,10.8
+KRM_M12_Cylinder.009,Sapphire column shaft.030,-760.0,50.0,-4120.0,-0.0,0.0,-0.0,0.31,0.31,10.8
+KRM_M12_Cylinder.009,Sapphire column shaft.031,-340.0,50.0,-4120.0,-0.0,0.0,-0.0,0.31,0.31,10.8
+KRM_M12_Cylinder.009,Sapphire column shaft.032,340.0,50.0,-4120.0,-0.0,0.0,-0.0,0.31,0.31,10.8
+KRM_M12_Cylinder.009,Sapphire column shaft.033,760.0,50.0,-4120.0,-0.0,0.0,-0.0,0.31,0.31,10.8
+KRM_M12_Cylinder.009,Sapphire column shaft.034,1140.0,50.0,-4120.0,-0.0,0.0,-0.0,0.31,0.31,10.8
+KRM_M12_Cylinder.009,Sapphire column shaft.035,1520.0,50.0,-4120.0,-0.0,0.0,-0.0,0.31,0.31,10.8
+KRM_M12_Cylinder.009,P5 column shaft L-45.45,-1060.0,107.5,-4545.0,-0.0,0.0,-0.0,0.31,0.31,9.65
+KRM_M12_Cylinder.009,P5 column shaft L-48.65,-1060.0,107.5,-4865.0,-0.0,0.0,-0.0,0.31,0.31,9.65
+KRM_M12_Cylinder.009,P5 column shaft L-51.85,-1060.0,107.5,-5185.0,-0.0,0.0,-0.0,0.31,0.31,9.65
+KRM_M12_Cylinder.009,P5 column shaft L-55.05,-1060.0,107.5,-5505.0,-0.0,0.0,-0.0,0.31,0.31,9.65
+KRM_M12_Cylinder.009,P5 column shaft R-45.45,1060.0,107.5,-4545.0,-0.0,0.0,-0.0,0.31,0.31,9.65
+KRM_M12_Cylinder.009,P5 column shaft R-48.65,1060.0,107.5,-4865.0,-0.0,0.0,-0.0,0.31,0.31,9.65
+KRM_M12_Cylinder.009,P5 column shaft R-51.85,1060.0,107.5,-5185.0,-0.0,0.0,-0.0,0.31,0.31,9.65
+KRM_M12_Cylinder.009,P5 column shaft R-55.05,1060.0,107.5,-5505.0,-0.0,0.0,-0.0,0.31,0.31,9.65
+KRM_M12_Cylinder.009,P5 column shaft B-4.71,-471.5,107.5,-5785.0,-0.0,0.0,-0.0,0.31,0.31,9.65
+KRM_M12_Cylinder.009,P5 column shaft B+4.71,471.5,107.5,-5785.0,-0.0,0.0,-0.0,0.31,0.31,9.65
+KRM_M13_DOOR_unit_ball_Sapphire_stone,Overdoor sapphire medallion,1632.5,508.0,1070.0,90.0,0.0,-0.0,0.22,0.06,0.22
+KRM_M13_DOOR_unit_ball_Sapphire_stone,Overdoor sapphire medallion.001,2975.0,438.0,1100.0,90.0,0.0,-0.0,0.22,0.06,0.22
+KRM_M13_DOOR_unit_ball_Sapphire_stone,Overdoor sapphire medallion.002,-1632.5,508.0,1070.0,-90.0,0.0,-0.0,0.22,0.06,0.22
+KRM_M13_DOOR_unit_ball_Sapphire_stone,Overdoor sapphire medallion.003,-2975.0,438.0,1100.0,-90.0,0.0,-0.0,0.22,0.06,0.22
+KRM_M14_DOOR_unit_box_Antique_gilded_bronze,Door reveal gilt lining,1600.0,0.0,1238.0,90.0,0.0,-0.0,0.04,0.46,4.4
+KRM_M14_DOOR_unit_box_Antique_gilded_bronze,Door reveal gilt lining.001,1600.0,0.0,902.0,90.0,0.0,-0.0,0.04,0.46,4.4
+KRM_M14_DOOR_unit_box_Antique_gilded_bronze,Door soffit gilt lining,1600.0,436.0,1070.0,90.0,0.0,-0.0,3.4,0.46,0.04
+KRM_M14_DOOR_unit_box_Antique_gilded_bronze,Door architrave jamb gilt,1572.5,0.0,1250.0,90.0,0.0,-0.0,0.2,0.1,4.5
+KRM_M14_DOOR_unit_box_Antique_gilded_bronze,Door architrave jamb gilt.001,1572.5,0.0,890.0,90.0,0.0,-0.0,0.2,0.1,4.5
+KRM_M14_DOOR_unit_box_Antique_gilded_bronze,Door architrave head gilt,1572.5,440.0,1070.0,90.0,0.0,-0.0,3.8,0.1,0.2
+KRM_M14_DOOR_unit_box_Antique_gilded_bronze,Door cornice gilt,1569.5,464.0,1070.0,90.0,0.0,-0.0,4.1,0.16,0.12
+KRM_M14_DOOR_unit_box_Antique_gilded_bronze,Door architrave jamb gilt.002,1627.5,0.0,1250.0,90.0,0.0,-0.0,0.2,0.1,4.5
+KRM_M14_DOOR_unit_box_Antique_gilded_bronze,Door architrave jamb gilt.003,1627.5,0.0,890.0,90.0,0.0,-0.0,0.2,0.1,4.5
+KRM_M14_DOOR_unit_box_Antique_gilded_bronze,Door architrave head gilt.001,1627.5,440.0,1070.0,90.0,0.0,-0.0,3.8,0.1,0.2
+KRM_M14_DOOR_unit_box_Antique_gilded_bronze,Door cornice gilt.001,1630.5,464.0,1070.0,90.0,0.0,-0.0,4.1,0.16,0.12
+KRM_M14_DOOR_unit_box_Antique_gilded_bronze,Door architrave jamb gilt.004,2980.0,0.0,1240.0,90.0,0.0,-0.0,0.2,0.1,3.8
+KRM_M14_DOOR_unit_box_Antique_gilded_bronze,Door architrave jamb gilt.005,2980.0,0.0,960.0,90.0,0.0,-0.0,0.2,0.1,3.8
+KRM_M14_DOOR_unit_box_Antique_gilded_bronze,Door architrave head gilt.002,2980.0,370.0,1100.0,90.0,0.0,-0.0,3.0,0.1,0.2
+KRM_M14_DOOR_unit_box_Antique_gilded_bronze,Door cornice gilt.002,2977.0,394.0,1100.0,90.0,0.0,-0.0,3.3,0.16,0.12
+KRM_M14_DOOR_unit_box_Antique_gilded_bronze,Door reveal gilt lining.002,-1600.0,0.0,902.0,-90.0,0.0,-0.0,0.04,0.46,4.4
+KRM_M14_DOOR_unit_box_Antique_gilded_bronze,Door reveal gilt lining.003,-1600.0,0.0,1238.0,-90.0,0.0,-0.0,0.04,0.46,4.4
+KRM_M14_DOOR_unit_box_Antique_gilded_bronze,Door soffit gilt lining.001,-1600.0,436.0,1070.0,-90.0,0.0,-0.0,3.4,0.46,0.04
+KRM_M14_DOOR_unit_box_Antique_gilded_bronze,Door architrave jamb gilt.006,-1572.5,0.0,890.0,-90.0,0.0,-0.0,0.2,0.1,4.5
+KRM_M14_DOOR_unit_box_Antique_gilded_bronze,Door architrave jamb gilt.007,-1572.5,0.0,1250.0,-90.0,0.0,-0.0,0.2,0.1,4.5
+KRM_M14_DOOR_unit_box_Antique_gilded_bronze,Door architrave head gilt.003,-1572.5,440.0,1070.0,-90.0,0.0,-0.0,3.8,0.1,0.2
+KRM_M14_DOOR_unit_box_Antique_gilded_bronze,Door cornice gilt.003,-1569.5,464.0,1070.0,-90.0,0.0,-0.0,4.1,0.16,0.12
+KRM_M14_DOOR_unit_box_Antique_gilded_bronze,Door architrave jamb gilt.008,-1627.5,0.0,890.0,-90.0,0.0,-0.0,0.2,0.1,4.5
+KRM_M14_DOOR_unit_box_Antique_gilded_bronze,Door architrave jamb gilt.009,-1627.5,0.0,1250.0,-90.0,0.0,-0.0,0.2,0.1,4.5
+KRM_M14_DOOR_unit_box_Antique_gilded_bronze,Door architrave head gilt.004,-1627.5,440.0,1070.0,-90.0,0.0,-0.0,3.8,0.1,0.2
+KRM_M14_DOOR_unit_box_Antique_gilded_bronze,Door cornice gilt.004,-1630.5,464.0,1070.0,-90.0,0.0,-0.0,4.1,0.16,0.12
+KRM_M14_DOOR_unit_box_Antique_gilded_bronze,Door architrave jamb gilt.010,-2980.0,0.0,960.0,-90.0,0.0,-0.0,0.2,0.1,3.8
+KRM_M14_DOOR_unit_box_Antique_gilded_bronze,Door architrave jamb gilt.011,-2980.0,0.0,1240.0,-90.0,0.0,-0.0,0.2,0.1,3.8
+KRM_M14_DOOR_unit_box_Antique_gilded_bronze,Door architrave head gilt.005,-2980.0,370.0,1100.0,-90.0,0.0,-0.0,3.0,0.1,0.2
+KRM_M14_DOOR_unit_box_Antique_gilded_bronze,Door cornice gilt.005,-2977.0,394.0,1100.0,-90.0,0.0,-0.0,3.3,0.16,0.12
+KRM_M15_DOOR_unit_box_Ivory_marble,Door wall infill marble,1600.0,0.0,850.0,90.0,0.0,-0.0,1.0,0.45,6.0
+KRM_M15_DOOR_unit_box_Ivory_marble,Door wall infill marble.001,1600.0,0.0,1320.0,90.0,0.0,-0.0,1.6,0.45,6.0
+KRM_M15_DOOR_unit_box_Ivory_marble,Door header marble,1600.0,440.0,1070.0,90.0,0.0,-0.0,3.4,0.45,1.6
+KRM_M15_DOOR_unit_box_Ivory_marble,Door marble threshold,1600.0,0.0,1070.0,90.0,0.0,-0.0,3.4,0.55,0.04
+KRM_M15_DOOR_unit_box_Ivory_marble,Door plinth block marble,1570.5,0.0,1250.0,90.0,0.0,-0.0,0.3,0.14,0.4
+KRM_M15_DOOR_unit_box_Ivory_marble,Door plinth block marble.001,1570.5,0.0,890.0,90.0,0.0,-0.0,0.3,0.14,0.4
+KRM_M15_DOOR_unit_box_Ivory_marble,Door plinth block marble.002,1629.5,0.0,1250.0,90.0,0.0,-0.0,0.3,0.14,0.4
+KRM_M15_DOOR_unit_box_Ivory_marble,Door plinth block marble.003,1629.5,0.0,890.0,90.0,0.0,-0.0,0.3,0.14,0.4
+KRM_M15_DOOR_unit_box_Ivory_marble,Door plinth block marble.004,2978.0,0.0,1240.0,90.0,0.0,-0.0,0.3,0.14,0.4
+KRM_M15_DOOR_unit_box_Ivory_marble,Door plinth block marble.005,2978.0,0.0,960.0,90.0,0.0,-0.0,0.3,0.14,0.4
+KRM_M15_DOOR_unit_box_Ivory_marble,Door wall infill marble.002,-1600.0,0.0,850.0,-90.0,0.0,-0.0,1.0,0.45,6.0
+KRM_M15_DOOR_unit_box_Ivory_marble,Door wall infill marble.003,-1600.0,0.0,1320.0,-90.0,0.0,-0.0,1.6,0.45,6.0
+KRM_M15_DOOR_unit_box_Ivory_marble,Door header marble.001,-1600.0,440.0,1070.0,-90.0,0.0,-0.0,3.4,0.45,1.6
+KRM_M15_DOOR_unit_box_Ivory_marble,Door marble threshold.001,-1600.0,0.0,1070.0,-90.0,0.0,-0.0,3.4,0.55,0.04
+KRM_M15_DOOR_unit_box_Ivory_marble,Door plinth block marble.006,-1570.5,0.0,890.0,-90.0,0.0,-0.0,0.3,0.14,0.4
+KRM_M15_DOOR_unit_box_Ivory_marble,Door plinth block marble.007,-1570.5,0.0,1250.0,-90.0,0.0,-0.0,0.3,0.14,0.4
+KRM_M15_DOOR_unit_box_Ivory_marble,Door plinth block marble.008,-1629.5,0.0,890.0,-90.0,0.0,-0.0,0.3,0.14,0.4
+KRM_M15_DOOR_unit_box_Ivory_marble,Door plinth block marble.009,-1629.5,0.0,1250.0,-90.0,0.0,-0.0,0.3,0.14,0.4
+KRM_M15_DOOR_unit_box_Ivory_marble,Door plinth block marble.010,-2978.0,0.0,960.0,-90.0,0.0,-0.0,0.3,0.14,0.4
+KRM_M15_DOOR_unit_box_Ivory_marble,Door plinth block marble.011,-2978.0,0.0,1240.0,-90.0,0.0,-0.0,0.3,0.14,0.4
+KRM_M16_GEN_knight_armor_LOD,P3 corridor R outer GEN knight 19,1899.98,-0.55,1284.92,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M16_GEN_knight_armor_LOD,P3 corridor R outer GEN knight 22,2199.98,-0.55,1284.92,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M16_GEN_knight_armor_LOD,P3 corridor R outer GEN knight 25,2499.98,-0.55,1284.92,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M16_GEN_knight_armor_LOD,P3 corridor R outer GEN knight 28,2799.98,-0.55,1284.92,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M16_GEN_knight_armor_LOD,P3 corridor R inner GEN knight 19,1900.02,-0.55,915.08,180.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M16_GEN_knight_armor_LOD,P3 corridor R inner GEN knight 22,2200.02,-0.55,915.08,180.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M16_GEN_knight_armor_LOD,P3 corridor R inner GEN knight 25,2500.02,-0.55,915.08,180.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M16_GEN_knight_armor_LOD,P3 corridor R inner GEN knight 28,2800.02,-0.55,915.08,180.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M16_GEN_knight_armor_LOD,P3 corridor L outer GEN knight 19,-1900.02,-0.55,1284.92,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M16_GEN_knight_armor_LOD,P3 corridor L outer GEN knight 22,-2200.02,-0.55,1284.92,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M16_GEN_knight_armor_LOD,P3 corridor L outer GEN knight 25,-2500.02,-0.55,1284.92,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M16_GEN_knight_armor_LOD,P3 corridor L outer GEN knight 28,-2800.02,-0.55,1284.92,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M16_GEN_knight_armor_LOD,P3 corridor L inner GEN knight 19,-1899.98,-0.55,915.08,180.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M16_GEN_knight_armor_LOD,P3 corridor L inner GEN knight 22,-2199.98,-0.55,915.08,180.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M16_GEN_knight_armor_LOD,P3 corridor L inner GEN knight 25,-2499.98,-0.55,915.08,180.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M16_GEN_knight_armor_LOD,P3 corridor L inner GEN knight 28,-2799.98,-0.55,915.08,180.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M16_GEN_knight_armor_LOD,P3 entrance GEN knight L,-1349.92,-0.55,-3600.02,-90.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M16_GEN_knight_armor_LOD,P3 entrance GEN knight R,1349.92,-0.55,-3599.98,90.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M17_GEN_rococo_armchair_LOD,P3 tea T00 GEN armchair 0,-595.02,-0.04,-299.98,90.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M17_GEN_rococo_armchair_LOD,P3 tea T00 GEN armchair 1,-700.02,-0.04,-195.02,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M17_GEN_rococo_armchair_LOD,P3 tea T00 GEN armchair 2,-804.98,-0.04,-300.02,-90.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M17_GEN_rococo_armchair_LOD,P3 tea T00 GEN armchair 3,-699.98,-0.04,-404.98,180.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M17_GEN_rococo_armchair_LOD,P3 tea T01 GEN armchair 0,-595.02,-0.04,-799.98,90.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M17_GEN_rococo_armchair_LOD,P3 tea T01 GEN armchair 1,-700.02,-0.04,-695.02,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M17_GEN_rococo_armchair_LOD,P3 tea T01 GEN armchair 2,-804.98,-0.04,-800.02,-90.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M17_GEN_rococo_armchair_LOD,P3 tea T01 GEN armchair 3,-699.98,-0.04,-904.98,180.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M17_GEN_rococo_armchair_LOD,P3 tea T02 GEN armchair 0,-595.02,-0.04,-3099.98,90.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M17_GEN_rococo_armchair_LOD,P3 tea T02 GEN armchair 1,-700.02,-0.04,-2995.02,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M17_GEN_rococo_armchair_LOD,P3 tea T02 GEN armchair 2,-804.98,-0.04,-3100.02,-90.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M17_GEN_rococo_armchair_LOD,P3 tea T02 GEN armchair 3,-699.98,-0.04,-3204.98,180.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M17_GEN_rococo_armchair_LOD,P3 tea T03 GEN armchair 0,-595.02,-0.04,-3599.98,90.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M17_GEN_rococo_armchair_LOD,P3 tea T03 GEN armchair 1,-700.02,-0.04,-3495.02,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M17_GEN_rococo_armchair_LOD,P3 tea T03 GEN armchair 2,-804.98,-0.04,-3600.02,-90.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M17_GEN_rococo_armchair_LOD,P3 tea T03 GEN armchair 3,-699.98,-0.04,-3704.98,180.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M17_GEN_rococo_armchair_LOD,P3 tea T04 GEN armchair 0,804.98,-0.04,-299.98,90.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M17_GEN_rococo_armchair_LOD,P3 tea T04 GEN armchair 1,699.98,-0.04,-195.02,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M17_GEN_rococo_armchair_LOD,P3 tea T04 GEN armchair 2,595.02,-0.04,-300.02,-90.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M17_GEN_rococo_armchair_LOD,P3 tea T04 GEN armchair 3,700.02,-0.04,-404.98,180.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M17_GEN_rococo_armchair_LOD,P3 tea T05 GEN armchair 0,804.98,-0.04,-799.98,90.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M17_GEN_rococo_armchair_LOD,P3 tea T05 GEN armchair 1,699.98,-0.04,-695.02,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M17_GEN_rococo_armchair_LOD,P3 tea T05 GEN armchair 2,595.02,-0.04,-800.02,-90.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M17_GEN_rococo_armchair_LOD,P3 tea T05 GEN armchair 3,700.02,-0.04,-904.98,180.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M17_GEN_rococo_armchair_LOD,P3 tea T06 GEN armchair 0,804.98,-0.04,-3099.98,90.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M17_GEN_rococo_armchair_LOD,P3 tea T06 GEN armchair 1,699.98,-0.04,-2995.02,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M17_GEN_rococo_armchair_LOD,P3 tea T06 GEN armchair 2,595.02,-0.04,-3100.02,-90.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M17_GEN_rococo_armchair_LOD,P3 tea T06 GEN armchair 3,700.02,-0.04,-3204.98,180.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M17_GEN_rococo_armchair_LOD,P3 tea T07 GEN armchair 0,804.98,-0.04,-3599.98,90.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M17_GEN_rococo_armchair_LOD,P3 tea T07 GEN armchair 1,699.98,-0.04,-3495.02,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M17_GEN_rococo_armchair_LOD,P3 tea T07 GEN armchair 2,595.02,-0.04,-3600.02,-90.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M17_GEN_rococo_armchair_LOD,P3 tea T07 GEN armchair 3,700.02,-0.04,-3704.98,180.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M17_GEN_rococo_armchair_LOD,P3 tea T08 GEN armchair 0,-1265.02,511.96,-949.98,90.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M17_GEN_rococo_armchair_LOD,P3 tea T08 GEN armchair 1,-1370.02,511.96,-845.02,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M17_GEN_rococo_armchair_LOD,P3 tea T08 GEN armchair 2,-1474.98,511.96,-950.02,-90.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M17_GEN_rococo_armchair_LOD,P3 tea T08 GEN armchair 3,-1369.98,511.96,-1054.98,180.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M17_GEN_rococo_armchair_LOD,P3 tea T09 GEN armchair 0,-1265.02,511.96,50.02,90.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M17_GEN_rococo_armchair_LOD,P3 tea T09 GEN armchair 1,-1370.02,511.96,154.98,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M17_GEN_rococo_armchair_LOD,P3 tea T09 GEN armchair 2,-1474.98,511.96,49.98,-90.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M17_GEN_rococo_armchair_LOD,P3 tea T09 GEN armchair 3,-1369.98,511.96,-54.98,180.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M17_GEN_rococo_armchair_LOD,P3 tea T10 GEN armchair 0,-1265.02,511.96,-2399.98,90.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M17_GEN_rococo_armchair_LOD,P3 tea T10 GEN armchair 1,-1370.02,511.96,-2295.02,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M17_GEN_rococo_armchair_LOD,P3 tea T10 GEN armchair 2,-1474.98,511.96,-2400.02,-90.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M17_GEN_rococo_armchair_LOD,P3 tea T10 GEN armchair 3,-1369.98,511.96,-2504.98,180.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M17_GEN_rococo_armchair_LOD,P3 tea T11 GEN armchair 0,-1265.02,511.96,-3299.98,90.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M17_GEN_rococo_armchair_LOD,P3 tea T11 GEN armchair 1,-1370.02,511.96,-3195.02,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M17_GEN_rococo_armchair_LOD,P3 tea T11 GEN armchair 2,-1474.98,511.96,-3300.02,-90.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M17_GEN_rococo_armchair_LOD,P3 tea T11 GEN armchair 3,-1369.98,511.96,-3404.98,180.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M17_GEN_rococo_armchair_LOD,P3 tea T12 GEN armchair 0,1474.98,511.96,-949.98,90.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M17_GEN_rococo_armchair_LOD,P3 tea T12 GEN armchair 1,1369.98,511.96,-845.02,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M17_GEN_rococo_armchair_LOD,P3 tea T12 GEN armchair 2,1265.02,511.96,-950.02,-90.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M17_GEN_rococo_armchair_LOD,P3 tea T12 GEN armchair 3,1370.02,511.96,-1054.98,180.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M17_GEN_rococo_armchair_LOD,P3 tea T13 GEN armchair 0,1474.98,511.96,50.02,90.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M17_GEN_rococo_armchair_LOD,P3 tea T13 GEN armchair 1,1369.98,511.96,154.98,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M17_GEN_rococo_armchair_LOD,P3 tea T13 GEN armchair 2,1265.02,511.96,49.98,-90.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M17_GEN_rococo_armchair_LOD,P3 tea T13 GEN armchair 3,1370.02,511.96,-54.98,180.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M17_GEN_rococo_armchair_LOD,P3 tea T14 GEN armchair 0,1474.98,511.96,-2399.98,90.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M17_GEN_rococo_armchair_LOD,P3 tea T14 GEN armchair 1,1369.98,511.96,-2295.02,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M17_GEN_rococo_armchair_LOD,P3 tea T14 GEN armchair 2,1265.02,511.96,-2400.02,-90.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M17_GEN_rococo_armchair_LOD,P3 tea T14 GEN armchair 3,1370.02,511.96,-2504.98,180.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M17_GEN_rococo_armchair_LOD,P3 tea T15 GEN armchair 0,1474.98,511.96,-3299.98,90.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M17_GEN_rococo_armchair_LOD,P3 tea T15 GEN armchair 1,1369.98,511.96,-3195.02,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M17_GEN_rococo_armchair_LOD,P3 tea T15 GEN armchair 2,1265.02,511.96,-3300.02,-90.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M17_GEN_rococo_armchair_LOD,P3 tea T15 GEN armchair 3,1370.02,511.96,-3404.98,180.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M18_P3_corridor_L_outer_glazing,P3 corridor L outer glazing,-1900.0,100.0,1383.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M18_P3_corridor_L_outer_glazing,P3 corridor L outer glazing @-22,-2200.0,100.0,1383.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M18_P3_corridor_L_outer_glazing,P3 corridor L outer glazing @-25,-2500.0,100.0,1383.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M18_P3_corridor_L_outer_glazing,P3 corridor L outer glazing @-28,-2800.0,100.0,1383.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M19_P3_corridor_R_outer_glazing,P3 corridor R outer glazing,1900.0,100.0,1383.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M19_P3_corridor_R_outer_glazing,P3 corridor R outer glazing @22,2200.0,100.0,1383.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M19_P3_corridor_R_outer_glazing,P3 corridor R outer glazing @25,2500.0,100.0,1383.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M19_P3_corridor_R_outer_glazing,P3 corridor R outer glazing @28,2800.0,100.0,1383.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M20_P3_unit_ball_Antique_gilded_bronze,P3 newel urn gilt finial,161.61,166.0,89.55,-0.0,0.0,-0.0,0.07,0.07,0.1
+KRM_M20_P3_unit_ball_Antique_gilded_bronze,P3 newel urn gilt finial.001,253.96,166.0,-87.86,-0.0,0.0,-0.0,0.07,0.07,0.1
+KRM_M20_P3_unit_ball_Antique_gilded_bronze,P3 newel urn gilt finial.002,-161.61,166.0,89.55,-0.0,0.0,-0.0,0.07,0.07,0.1
+KRM_M20_P3_unit_ball_Antique_gilded_bronze,P3 newel urn gilt finial.003,-253.96,166.0,-87.86,-0.0,0.0,-0.0,0.07,0.07,0.1
+KRM_M21_P3_unit_ball_Sapphire_stone,P3 newel urn sapphire body,161.61,117.0,89.55,-0.0,0.0,-0.0,0.21,0.21,0.25
+KRM_M21_P3_unit_ball_Sapphire_stone,P3 newel urn sapphire body.001,253.96,117.0,-87.86,-0.0,0.0,-0.0,0.21,0.21,0.25
+KRM_M21_P3_unit_ball_Sapphire_stone,P3 newel urn sapphire body.002,-161.61,117.0,89.55,-0.0,0.0,-0.0,0.21,0.21,0.25
+KRM_M21_P3_unit_ball_Sapphire_stone,P3 newel urn sapphire body.003,-253.96,117.0,-87.86,-0.0,0.0,-0.0,0.21,0.21,0.25
+KRM_M22_P3_unit_box_Antique_gilded_bronze,P3 newel gilt cap,161.61,100.0,89.55,-0.0,0.0,-0.0,0.6,0.6,0.08
+KRM_M22_P3_unit_box_Antique_gilded_bronze,P3 newel gilt cap.001,253.96,100.0,-87.86,-0.0,0.0,-0.0,0.6,0.6,0.08
+KRM_M22_P3_unit_box_Antique_gilded_bronze,P3 newel gilt cap.002,-161.61,100.0,89.55,-0.0,0.0,-0.0,0.6,0.6,0.08
+KRM_M22_P3_unit_box_Antique_gilded_bronze,P3 newel gilt cap.003,-253.96,100.0,-87.86,-0.0,0.0,-0.0,0.6,0.6,0.08
+KRM_M23_P3_unit_box_Ivory_marble,P3 newel marble base,161.61,0.0,89.55,-0.0,0.0,-0.0,0.62,0.62,0.16
+KRM_M23_P3_unit_box_Ivory_marble,P3 newel marble base.001,253.96,0.0,-87.86,-0.0,0.0,-0.0,0.62,0.62,0.16
+KRM_M23_P3_unit_box_Ivory_marble,P3 newel marble base.002,-161.61,0.0,89.55,-0.0,0.0,-0.0,0.62,0.62,0.16
+KRM_M23_P3_unit_box_Ivory_marble,P3 newel marble base.003,-253.96,0.0,-87.86,-0.0,0.0,-0.0,0.62,0.62,0.16
+KRM_M24_P3_unit_box_Sapphire_stone,P3 newel sapphire pedestal,161.61,0.0,89.55,-0.0,0.0,-0.0,0.5,0.5,1.0
+KRM_M24_P3_unit_box_Sapphire_stone,P3 newel sapphire pedestal.001,253.96,0.0,-87.86,-0.0,0.0,-0.0,0.5,0.5,1.0
+KRM_M24_P3_unit_box_Sapphire_stone,P3 newel sapphire pedestal.002,-161.61,0.0,89.55,-0.0,0.0,-0.0,0.5,0.5,1.0
+KRM_M24_P3_unit_box_Sapphire_stone,P3 newel sapphire pedestal.003,-253.96,0.0,-87.86,-0.0,0.0,-0.0,0.5,0.5,1.0
+KRM_M25_P3_unit_cyl_Antique_gilded_bronze,P3 newel urn gilt foot,161.61,109.0,89.55,-0.0,0.0,-0.0,0.13,0.13,0.1
+KRM_M25_P3_unit_cyl_Antique_gilded_bronze,P3 newel urn gilt rim,161.61,161.5,89.55,-0.0,0.0,-0.0,0.16,0.16,0.05
+KRM_M25_P3_unit_cyl_Antique_gilded_bronze,P3 newel urn gilt foot.001,253.96,109.0,-87.86,-0.0,0.0,-0.0,0.13,0.13,0.1
+KRM_M25_P3_unit_cyl_Antique_gilded_bronze,P3 newel urn gilt rim.001,253.96,161.5,-87.86,-0.0,0.0,-0.0,0.16,0.16,0.05
+KRM_M25_P3_unit_cyl_Antique_gilded_bronze,P3 newel urn gilt foot.002,-161.61,109.0,89.55,-0.0,0.0,-0.0,0.13,0.13,0.1
+KRM_M25_P3_unit_cyl_Antique_gilded_bronze,P3 newel urn gilt rim.002,-161.61,161.5,89.55,-0.0,0.0,-0.0,0.16,0.16,0.05
+KRM_M25_P3_unit_cyl_Antique_gilded_bronze,P3 newel urn gilt foot.003,-253.96,109.0,-87.86,-0.0,0.0,-0.0,0.13,0.13,0.1
+KRM_M25_P3_unit_cyl_Antique_gilded_bronze,P3 newel urn gilt rim.003,-253.96,161.5,-87.86,-0.0,0.0,-0.0,0.16,0.16,0.05
+KRM_M26_P3_unit_cyl_Ivory_marble,P3 fountain plinth step marble,0.0,0.0,400.0,-0.0,0.0,-0.0,2.55,2.55,0.1
+KRM_M27_P3_unit_rhombus_Sapphire,P3 ceiling frieze sapphire diamond rear,960.33,1285.0,73.61,-95.71,0.0,-0.0,0.17,0.025,0.2
+KRM_M27_P3_unit_rhombus_Sapphire,P3 ceiling frieze sapphire diamond rear.001,931.11,1285.0,218.58,-107.026,0.0,-0.0,0.17,0.025,0.2
+KRM_M27_P3_unit_rhombus_Sapphire,P3 ceiling frieze sapphire diamond rear.002,873.59,1285.0,356.88,-118.054,0.0,-0.0,0.17,0.025,0.2
+KRM_M27_P3_unit_rhombus_Sapphire,P3 ceiling frieze sapphire diamond rear.003,789.51,1285.0,484.3,-128.668,0.0,-0.0,0.17,0.025,0.2
+KRM_M27_P3_unit_rhombus_Sapphire,P3 ceiling frieze sapphire diamond rear.004,681.46,1285.0,596.98,-138.814,0.0,-0.0,0.17,0.025,0.2
+KRM_M27_P3_unit_rhombus_Sapphire,P3 ceiling frieze sapphire diamond rear.005,552.72,1285.0,691.5,-148.505,0.0,-0.0,0.17,0.025,0.2
+KRM_M27_P3_unit_rhombus_Sapphire,P3 ceiling frieze sapphire diamond rear.006,407.22,1285.0,765.0,-157.804,0.0,-0.0,0.17,0.025,0.2
+KRM_M27_P3_unit_rhombus_Sapphire,P3 ceiling frieze sapphire diamond rear.007,249.38,1285.0,815.27,-166.805,0.0,-0.0,0.17,0.025,0.2
+KRM_M27_P3_unit_rhombus_Sapphire,P3 ceiling frieze sapphire diamond rear.008,83.97,1285.0,840.79,-175.622,0.0,-0.0,0.17,0.025,0.2
+KRM_M27_P3_unit_rhombus_Sapphire,P3 ceiling frieze sapphire diamond rear.009,-83.97,1285.0,840.79,175.622,0.0,-0.0,0.17,0.025,0.2
+KRM_M27_P3_unit_rhombus_Sapphire,P3 ceiling frieze sapphire diamond rear.010,-249.38,1285.0,815.27,166.805,0.0,-0.0,0.17,0.025,0.2
+KRM_M27_P3_unit_rhombus_Sapphire,P3 ceiling frieze sapphire diamond rear.011,-407.22,1285.0,765.0,157.804,0.0,-0.0,0.17,0.025,0.2
+KRM_M27_P3_unit_rhombus_Sapphire,P3 ceiling frieze sapphire diamond rear.012,-552.72,1285.0,691.5,148.505,0.0,-0.0,0.17,0.025,0.2
+KRM_M27_P3_unit_rhombus_Sapphire,P3 ceiling frieze sapphire diamond rear.013,-681.46,1285.0,596.98,138.814,0.0,-0.0,0.17,0.025,0.2
+KRM_M27_P3_unit_rhombus_Sapphire,P3 ceiling frieze sapphire diamond rear.014,-789.51,1285.0,484.3,128.668,0.0,-0.0,0.17,0.025,0.2
+KRM_M27_P3_unit_rhombus_Sapphire,P3 ceiling frieze sapphire diamond rear.015,-873.59,1285.0,356.88,118.054,0.0,-0.0,0.17,0.025,0.2
+KRM_M27_P3_unit_rhombus_Sapphire,P3 ceiling frieze sapphire diamond rear.016,-931.11,1285.0,218.58,107.026,0.0,-0.0,0.17,0.025,0.2
+KRM_M27_P3_unit_rhombus_Sapphire,P3 ceiling frieze sapphire diamond rear.017,-960.33,1285.0,73.61,95.71,0.0,-0.0,0.17,0.025,0.2
+KRM_M27_P3_unit_rhombus_Sapphire,P3 ceiling frieze sapphire diamond rear.018,-960.33,1285.0,-73.61,84.29,0.0,-0.0,0.17,0.025,0.2
+KRM_M27_P3_unit_rhombus_Sapphire,P3 ceiling frieze sapphire diamond rear.019,-931.11,1285.0,-218.58,72.974,0.0,-0.0,0.17,0.025,0.2
+KRM_M27_P3_unit_rhombus_Sapphire,P3 ceiling frieze sapphire diamond rear.020,-873.59,1285.0,-356.88,61.946,0.0,-0.0,0.17,0.025,0.2
+KRM_M27_P3_unit_rhombus_Sapphire,P3 ceiling frieze sapphire diamond rear.021,-789.51,1285.0,-484.3,51.332,0.0,-0.0,0.17,0.025,0.2
+KRM_M27_P3_unit_rhombus_Sapphire,P3 ceiling frieze sapphire diamond rear.022,-681.46,1285.0,-596.98,41.186,0.0,-0.0,0.17,0.025,0.2
+KRM_M27_P3_unit_rhombus_Sapphire,P3 ceiling frieze sapphire diamond rear.023,-552.72,1285.0,-691.5,31.495,0.0,-0.0,0.17,0.025,0.2
+KRM_M27_P3_unit_rhombus_Sapphire,P3 ceiling frieze sapphire diamond rear.024,-407.22,1285.0,-765.0,22.196,0.0,-0.0,0.17,0.025,0.2
+KRM_M27_P3_unit_rhombus_Sapphire,P3 ceiling frieze sapphire diamond rear.025,-249.38,1285.0,-815.27,13.195,0.0,-0.0,0.17,0.025,0.2
+KRM_M27_P3_unit_rhombus_Sapphire,P3 ceiling frieze sapphire diamond rear.026,-83.97,1285.0,-840.79,4.378,0.0,-0.0,0.17,0.025,0.2
+KRM_M27_P3_unit_rhombus_Sapphire,P3 ceiling frieze sapphire diamond rear.027,83.97,1285.0,-840.79,-4.378,0.0,-0.0,0.17,0.025,0.2
+KRM_M27_P3_unit_rhombus_Sapphire,P3 ceiling frieze sapphire diamond rear.028,249.38,1285.0,-815.27,-13.195,0.0,-0.0,0.17,0.025,0.2
+KRM_M27_P3_unit_rhombus_Sapphire,P3 ceiling frieze sapphire diamond rear.029,407.22,1285.0,-765.0,-22.196,0.0,-0.0,0.17,0.025,0.2
+KRM_M27_P3_unit_rhombus_Sapphire,P3 ceiling frieze sapphire diamond rear.030,552.72,1285.0,-691.5,-31.495,0.0,-0.0,0.17,0.025,0.2
+KRM_M27_P3_unit_rhombus_Sapphire,P3 ceiling frieze sapphire diamond rear.031,681.46,1285.0,-596.98,-41.186,0.0,-0.0,0.17,0.025,0.2
+KRM_M27_P3_unit_rhombus_Sapphire,P3 ceiling frieze sapphire diamond rear.032,789.51,1285.0,-484.3,-51.332,0.0,-0.0,0.17,0.025,0.2
+KRM_M27_P3_unit_rhombus_Sapphire,P3 ceiling frieze sapphire diamond rear.033,873.59,1285.0,-356.88,-61.946,0.0,-0.0,0.17,0.025,0.2
+KRM_M27_P3_unit_rhombus_Sapphire,P3 ceiling frieze sapphire diamond rear.034,931.11,1285.0,-218.58,-72.974,0.0,-0.0,0.17,0.025,0.2
+KRM_M27_P3_unit_rhombus_Sapphire,P3 ceiling frieze sapphire diamond rear.035,960.33,1285.0,-73.61,-84.29,0.0,-0.0,0.17,0.025,0.2
+KRM_M27_P3_unit_rhombus_Sapphire,P3 ceiling frieze sapphire diamond front,960.33,1285.0,-2726.39,-95.71,0.0,-0.0,0.17,0.025,0.2
+KRM_M27_P3_unit_rhombus_Sapphire,P3 ceiling frieze sapphire diamond front.001,931.11,1285.0,-2581.42,-107.026,0.0,-0.0,0.17,0.025,0.2
+KRM_M27_P3_unit_rhombus_Sapphire,P3 ceiling frieze sapphire diamond front.002,873.59,1285.0,-2443.12,-118.054,0.0,-0.0,0.17,0.025,0.2
+KRM_M27_P3_unit_rhombus_Sapphire,P3 ceiling frieze sapphire diamond front.003,789.51,1285.0,-2315.7,-128.668,0.0,-0.0,0.17,0.025,0.2
+KRM_M27_P3_unit_rhombus_Sapphire,P3 ceiling frieze sapphire diamond front.004,681.46,1285.0,-2203.02,-138.814,0.0,-0.0,0.17,0.025,0.2
+KRM_M27_P3_unit_rhombus_Sapphire,P3 ceiling frieze sapphire diamond front.005,552.72,1285.0,-2108.5,-148.505,0.0,-0.0,0.17,0.025,0.2
+KRM_M27_P3_unit_rhombus_Sapphire,P3 ceiling frieze sapphire diamond front.006,407.22,1285.0,-2035.0,-157.804,0.0,-0.0,0.17,0.025,0.2
+KRM_M27_P3_unit_rhombus_Sapphire,P3 ceiling frieze sapphire diamond front.007,249.38,1285.0,-1984.73,-166.805,0.0,-0.0,0.17,0.025,0.2
+KRM_M27_P3_unit_rhombus_Sapphire,P3 ceiling frieze sapphire diamond front.008,83.97,1285.0,-1959.21,-175.622,0.0,-0.0,0.17,0.025,0.2
+KRM_M27_P3_unit_rhombus_Sapphire,P3 ceiling frieze sapphire diamond front.009,-83.97,1285.0,-1959.21,175.622,0.0,-0.0,0.17,0.025,0.2
+KRM_M27_P3_unit_rhombus_Sapphire,P3 ceiling frieze sapphire diamond front.010,-249.38,1285.0,-1984.73,166.805,0.0,-0.0,0.17,0.025,0.2
+KRM_M27_P3_unit_rhombus_Sapphire,P3 ceiling frieze sapphire diamond front.011,-407.22,1285.0,-2035.0,157.804,0.0,-0.0,0.17,0.025,0.2
+KRM_M27_P3_unit_rhombus_Sapphire,P3 ceiling frieze sapphire diamond front.012,-552.72,1285.0,-2108.5,148.505,0.0,-0.0,0.17,0.025,0.2
+KRM_M27_P3_unit_rhombus_Sapphire,P3 ceiling frieze sapphire diamond front.013,-681.46,1285.0,-2203.02,138.814,0.0,-0.0,0.17,0.025,0.2
+KRM_M27_P3_unit_rhombus_Sapphire,P3 ceiling frieze sapphire diamond front.014,-789.51,1285.0,-2315.7,128.668,0.0,-0.0,0.17,0.025,0.2
+KRM_M27_P3_unit_rhombus_Sapphire,P3 ceiling frieze sapphire diamond front.015,-873.59,1285.0,-2443.12,118.054,0.0,-0.0,0.17,0.025,0.2
+KRM_M27_P3_unit_rhombus_Sapphire,P3 ceiling frieze sapphire diamond front.016,-931.11,1285.0,-2581.42,107.026,0.0,-0.0,0.17,0.025,0.2
+KRM_M27_P3_unit_rhombus_Sapphire,P3 ceiling frieze sapphire diamond front.017,-960.33,1285.0,-2726.39,95.71,0.0,-0.0,0.17,0.025,0.2
+KRM_M27_P3_unit_rhombus_Sapphire,P3 ceiling frieze sapphire diamond front.018,-960.33,1285.0,-2873.61,84.29,0.0,-0.0,0.17,0.025,0.2
+KRM_M27_P3_unit_rhombus_Sapphire,P3 ceiling frieze sapphire diamond front.019,-931.11,1285.0,-3018.58,72.974,0.0,-0.0,0.17,0.025,0.2
+KRM_M27_P3_unit_rhombus_Sapphire,P3 ceiling frieze sapphire diamond front.020,-873.59,1285.0,-3156.88,61.946,0.0,-0.0,0.17,0.025,0.2
+KRM_M27_P3_unit_rhombus_Sapphire,P3 ceiling frieze sapphire diamond front.021,-789.51,1285.0,-3284.3,51.332,0.0,-0.0,0.17,0.025,0.2
+KRM_M27_P3_unit_rhombus_Sapphire,P3 ceiling frieze sapphire diamond front.022,-681.46,1285.0,-3396.98,41.186,0.0,-0.0,0.17,0.025,0.2
+KRM_M27_P3_unit_rhombus_Sapphire,P3 ceiling frieze sapphire diamond front.023,-552.72,1285.0,-3491.5,31.495,0.0,-0.0,0.17,0.025,0.2
+KRM_M27_P3_unit_rhombus_Sapphire,P3 ceiling frieze sapphire diamond front.024,-407.22,1285.0,-3565.0,22.196,0.0,-0.0,0.17,0.025,0.2
+KRM_M27_P3_unit_rhombus_Sapphire,P3 ceiling frieze sapphire diamond front.025,-249.38,1285.0,-3615.27,13.195,0.0,-0.0,0.17,0.025,0.2
+KRM_M27_P3_unit_rhombus_Sapphire,P3 ceiling frieze sapphire diamond front.026,-83.97,1285.0,-3640.79,4.378,0.0,-0.0,0.17,0.025,0.2
+KRM_M27_P3_unit_rhombus_Sapphire,P3 ceiling frieze sapphire diamond front.027,83.97,1285.0,-3640.79,-4.378,0.0,-0.0,0.17,0.025,0.2
+KRM_M27_P3_unit_rhombus_Sapphire,P3 ceiling frieze sapphire diamond front.028,249.38,1285.0,-3615.27,-13.195,0.0,-0.0,0.17,0.025,0.2
+KRM_M27_P3_unit_rhombus_Sapphire,P3 ceiling frieze sapphire diamond front.029,407.22,1285.0,-3565.0,-22.196,0.0,-0.0,0.17,0.025,0.2
+KRM_M27_P3_unit_rhombus_Sapphire,P3 ceiling frieze sapphire diamond front.030,552.72,1285.0,-3491.5,-31.495,0.0,-0.0,0.17,0.025,0.2
+KRM_M27_P3_unit_rhombus_Sapphire,P3 ceiling frieze sapphire diamond front.031,681.46,1285.0,-3396.98,-41.186,0.0,-0.0,0.17,0.025,0.2
+KRM_M27_P3_unit_rhombus_Sapphire,P3 ceiling frieze sapphire diamond front.032,789.51,1285.0,-3284.3,-51.332,0.0,-0.0,0.17,0.025,0.2
+KRM_M27_P3_unit_rhombus_Sapphire,P3 ceiling frieze sapphire diamond front.033,873.59,1285.0,-3156.88,-61.946,0.0,-0.0,0.17,0.025,0.2
+KRM_M27_P3_unit_rhombus_Sapphire,P3 ceiling frieze sapphire diamond front.034,931.11,1285.0,-3018.58,-72.974,0.0,-0.0,0.17,0.025,0.2
+KRM_M27_P3_unit_rhombus_Sapphire,P3 ceiling frieze sapphire diamond front.035,960.33,1285.0,-2873.61,-84.29,0.0,-0.0,0.17,0.025,0.2
+KRM_M28_P5MOD_gilt_frames,P5 bay L0 | gilt frames,-1075.1,47.79,-4470.5,-0.0,0.0,-0.0,1.0,1.0,0.928
+KRM_M28_P5MOD_gilt_frames,P5 bay L1 | gilt frames,-1075.1,47.79,-4970.5,-0.0,0.0,-0.0,1.0,1.0,0.928
+KRM_M28_P5MOD_gilt_frames,P5 bay L2 | gilt frames,-1075.1,47.79,-5470.5,-0.0,0.0,-0.0,1.0,1.0,0.928
+KRM_M28_P5MOD_gilt_frames,P5 bay R0 | gilt frames,1075.1,47.79,-4589.5,-180.0,0.0,-0.0,1.0,1.0,0.928
+KRM_M28_P5MOD_gilt_frames,P5 bay R1 | gilt frames,1075.1,47.79,-5089.5,-180.0,0.0,-0.0,1.0,1.0,0.928
+KRM_M28_P5MOD_gilt_frames,P5 bay R2 | gilt frames,1075.1,47.79,-5589.5,-180.0,0.0,-0.0,1.0,1.0,0.928
+KRM_M28_P5MOD_gilt_frames,P5 bay B0 | gilt frames,-859.5,47.79,-5800.1,-90.0,0.0,-0.0,1.0,1.0,0.928
+KRM_M28_P5MOD_gilt_frames,P5 bay B1 | gilt frames,-439.5,47.79,-5800.1,-90.0,0.0,-0.0,1.0,1.0,0.928
+KRM_M28_P5MOD_gilt_frames,P5 bay B2 | gilt frames,430.5,47.79,-5800.1,-90.0,0.0,-0.0,1.0,1.0,0.928
+KRM_M28_P5MOD_gilt_frames,P5 bay B3 | gilt frames,860.5,47.79,-5800.1,-90.0,0.0,-0.0,1.0,1.0,0.928
+KRM_M29_P5MOD_gilt_rosettes_and_lantern_metal,P5 bay L0 | gilt rosettes and lantern metal,-1074.25,84.45,-4463.75,-0.0,0.0,-0.0,1.0,1.0,0.928
+KRM_M29_P5MOD_gilt_rosettes_and_lantern_metal,P5 bay L1 | gilt rosettes and lantern metal,-1074.25,84.45,-4963.75,-0.0,0.0,-0.0,1.0,1.0,0.928
+KRM_M29_P5MOD_gilt_rosettes_and_lantern_metal,P5 bay L2 | gilt rosettes and lantern metal,-1074.25,84.45,-5463.75,-0.0,0.0,-0.0,1.0,1.0,0.928
+KRM_M29_P5MOD_gilt_rosettes_and_lantern_metal,P5 bay R0 | gilt rosettes and lantern metal,1074.25,84.45,-4596.25,-180.0,0.0,-0.0,1.0,1.0,0.928
+KRM_M29_P5MOD_gilt_rosettes_and_lantern_metal,P5 bay R1 | gilt rosettes and lantern metal,1074.25,84.45,-5096.25,-180.0,0.0,-0.0,1.0,1.0,0.928
+KRM_M29_P5MOD_gilt_rosettes_and_lantern_metal,P5 bay R2 | gilt rosettes and lantern metal,1074.25,84.45,-5596.25,-180.0,0.0,-0.0,1.0,1.0,0.928
+KRM_M29_P5MOD_gilt_rosettes_and_lantern_metal,P5 bay B0 | gilt rosettes and lantern metal,-866.25,84.45,-5799.25,-90.0,0.0,-0.0,1.0,1.0,0.928
+KRM_M29_P5MOD_gilt_rosettes_and_lantern_metal,P5 bay B1 | gilt rosettes and lantern metal,-446.25,84.45,-5799.25,-90.0,0.0,-0.0,1.0,1.0,0.928
+KRM_M29_P5MOD_gilt_rosettes_and_lantern_metal,P5 bay B2 | gilt rosettes and lantern metal,423.75,84.45,-5799.25,-90.0,0.0,-0.0,1.0,1.0,0.928
+KRM_M29_P5MOD_gilt_rosettes_and_lantern_metal,P5 bay B3 | gilt rosettes and lantern metal,853.75,84.45,-5799.25,-90.0,0.0,-0.0,1.0,1.0,0.928
+KRM_M30_P5MOD_marble_panels,P5 bay L0 | marble panels,-1099.5,51.04,-4530.0,-0.0,0.0,-0.0,1.0,1.0,0.928
+KRM_M30_P5MOD_marble_panels,P5 bay L1 | marble panels,-1099.5,51.04,-5030.0,-0.0,0.0,-0.0,1.0,1.0,0.928
+KRM_M30_P5MOD_marble_panels,P5 bay L2 | marble panels,-1099.5,51.04,-5530.0,-0.0,0.0,-0.0,1.0,1.0,0.928
+KRM_M30_P5MOD_marble_panels,P5 bay R0 | marble panels,1099.5,51.04,-4530.0,-180.0,0.0,-0.0,1.0,1.0,0.928
+KRM_M30_P5MOD_marble_panels,P5 bay R1 | marble panels,1099.5,51.04,-5030.0,-180.0,0.0,-0.0,1.0,1.0,0.928
+KRM_M30_P5MOD_marble_panels,P5 bay R2 | marble panels,1099.5,51.04,-5530.0,-180.0,0.0,-0.0,1.0,1.0,0.928
+KRM_M30_P5MOD_marble_panels,P5 bay B0 | marble panels,-800.0,51.04,-5824.5,-90.0,0.0,-0.0,1.0,1.0,0.928
+KRM_M30_P5MOD_marble_panels,P5 bay B1 | marble panels,-380.0,51.04,-5824.5,-90.0,0.0,-0.0,1.0,1.0,0.928
+KRM_M30_P5MOD_marble_panels,P5 bay B2 | marble panels,490.0,51.04,-5824.5,-90.0,0.0,-0.0,1.0,1.0,0.928
+KRM_M30_P5MOD_marble_panels,P5 bay B3 | marble panels,920.0,51.04,-5824.5,-90.0,0.0,-0.0,1.0,1.0,0.928
+KRM_M31_P5MOD_sapphire_narrow_panels,P5 bay L0 | sapphire narrow panels,-1098.5,60.32,-4280.0,-0.0,0.0,-0.0,1.0,1.0,0.928
+KRM_M31_P5MOD_sapphire_narrow_panels,P5 bay L1 | sapphire narrow panels,-1098.5,60.32,-4780.0,-0.0,0.0,-0.0,1.0,1.0,0.928
+KRM_M31_P5MOD_sapphire_narrow_panels,P5 bay L2 | sapphire narrow panels,-1098.5,60.32,-5280.0,-0.0,0.0,-0.0,1.0,1.0,0.928
+KRM_M31_P5MOD_sapphire_narrow_panels,P5 bay R0 | sapphire narrow panels,1098.5,60.32,-4780.0,-180.0,0.0,-0.0,1.0,1.0,0.928
+KRM_M31_P5MOD_sapphire_narrow_panels,P5 bay R1 | sapphire narrow panels,1098.5,60.32,-5280.0,-180.0,0.0,-0.0,1.0,1.0,0.928
+KRM_M31_P5MOD_sapphire_narrow_panels,P5 bay R2 | sapphire narrow panels,1098.5,60.32,-5780.0,-180.0,0.0,-0.0,1.0,1.0,0.928
+KRM_M31_P5MOD_sapphire_narrow_panels,P5 bay B0 | sapphire narrow panels,-1050.0,60.32,-5823.5,-90.0,0.0,-0.0,1.0,1.0,0.928
+KRM_M31_P5MOD_sapphire_narrow_panels,P5 bay B1 | sapphire narrow panels,-630.0,60.32,-5823.5,-90.0,0.0,-0.0,1.0,1.0,0.928
+KRM_M31_P5MOD_sapphire_narrow_panels,P5 bay B2 | sapphire narrow panels,240.0,60.32,-5823.5,-90.0,0.0,-0.0,1.0,1.0,0.928
+KRM_M31_P5MOD_sapphire_narrow_panels,P5 bay B3 | sapphire narrow panels,670.0,60.32,-5823.5,-90.0,0.0,-0.0,1.0,1.0,0.928
+KRM_M32_P5MODC_gilt_frames,P5 coffer 00 | gilt frames,-740.0,1017.0,-4545.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M32_P5MODC_gilt_frames,P5 coffer 01 | gilt frames,-740.0,1017.0,-5025.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M32_P5MODC_gilt_frames,P5 coffer 02 | gilt frames,-740.0,1017.0,-5505.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M32_P5MODC_gilt_frames,P5 coffer 10 | gilt frames,-370.0,1017.0,-4545.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M32_P5MODC_gilt_frames,P5 coffer 11 | gilt frames,-370.0,1017.0,-5025.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M32_P5MODC_gilt_frames,P5 coffer 12 | gilt frames,-370.0,1017.0,-5505.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M32_P5MODC_gilt_frames,P5 coffer 20 | gilt frames,0.0,1017.0,-4545.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M32_P5MODC_gilt_frames,P5 coffer 21 | gilt frames,0.0,1017.0,-5025.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M32_P5MODC_gilt_frames,P5 coffer 22 | gilt frames,0.0,1017.0,-5505.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M32_P5MODC_gilt_frames,P5 coffer 30 | gilt frames,370.0,1017.0,-4545.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M32_P5MODC_gilt_frames,P5 coffer 31 | gilt frames,370.0,1017.0,-5025.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M32_P5MODC_gilt_frames,P5 coffer 32 | gilt frames,370.0,1017.0,-5505.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M32_P5MODC_gilt_frames,P5 coffer 40 | gilt frames,740.0,1017.0,-4545.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M32_P5MODC_gilt_frames,P5 coffer 41 | gilt frames,740.0,1017.0,-5025.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M32_P5MODC_gilt_frames,P5 coffer 42 | gilt frames,740.0,1017.0,-5505.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M33_P5MODC_gilt_rosettes,P5 coffer 00 | gilt rosettes,-740.0,1011.7,-4545.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M33_P5MODC_gilt_rosettes,P5 coffer 01 | gilt rosettes,-740.0,1011.7,-5025.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M33_P5MODC_gilt_rosettes,P5 coffer 02 | gilt rosettes,-740.0,1011.7,-5505.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M33_P5MODC_gilt_rosettes,P5 coffer 10 | gilt rosettes,-370.0,1011.7,-4545.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M33_P5MODC_gilt_rosettes,P5 coffer 11 | gilt rosettes,-370.0,1011.7,-5025.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M33_P5MODC_gilt_rosettes,P5 coffer 12 | gilt rosettes,-370.0,1011.7,-5505.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M33_P5MODC_gilt_rosettes,P5 coffer 20 | gilt rosettes,0.0,1011.7,-4545.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M33_P5MODC_gilt_rosettes,P5 coffer 21 | gilt rosettes,0.0,1011.7,-5025.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M33_P5MODC_gilt_rosettes,P5 coffer 22 | gilt rosettes,0.0,1011.7,-5505.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M33_P5MODC_gilt_rosettes,P5 coffer 30 | gilt rosettes,370.0,1011.7,-4545.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M33_P5MODC_gilt_rosettes,P5 coffer 31 | gilt rosettes,370.0,1011.7,-5025.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M33_P5MODC_gilt_rosettes,P5 coffer 32 | gilt rosettes,370.0,1011.7,-5505.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M33_P5MODC_gilt_rosettes,P5 coffer 40 | gilt rosettes,740.0,1011.7,-4545.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M33_P5MODC_gilt_rosettes,P5 coffer 41 | gilt rosettes,740.0,1011.7,-5025.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M33_P5MODC_gilt_rosettes,P5 coffer 42 | gilt rosettes,740.0,1011.7,-5505.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M34_P5MODC_sapphire_coffers,P5 coffer 00 | sapphire coffers,-740.0,1018.6,-4545.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M34_P5MODC_sapphire_coffers,P5 coffer 01 | sapphire coffers,-740.0,1018.6,-5025.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M34_P5MODC_sapphire_coffers,P5 coffer 02 | sapphire coffers,-740.0,1018.6,-5505.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M34_P5MODC_sapphire_coffers,P5 coffer 10 | sapphire coffers,-370.0,1018.6,-4545.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M34_P5MODC_sapphire_coffers,P5 coffer 11 | sapphire coffers,-370.0,1018.6,-5025.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M34_P5MODC_sapphire_coffers,P5 coffer 12 | sapphire coffers,-370.0,1018.6,-5505.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M34_P5MODC_sapphire_coffers,P5 coffer 20 | sapphire coffers,0.0,1018.6,-4545.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M34_P5MODC_sapphire_coffers,P5 coffer 21 | sapphire coffers,0.0,1018.6,-5025.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M34_P5MODC_sapphire_coffers,P5 coffer 22 | sapphire coffers,0.0,1018.6,-5505.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M34_P5MODC_sapphire_coffers,P5 coffer 30 | sapphire coffers,370.0,1018.6,-4545.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M34_P5MODC_sapphire_coffers,P5 coffer 31 | sapphire coffers,370.0,1018.6,-5025.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M34_P5MODC_sapphire_coffers,P5 coffer 32 | sapphire coffers,370.0,1018.6,-5505.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M34_P5MODC_sapphire_coffers,P5 coffer 40 | sapphire coffers,740.0,1018.6,-4545.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M34_P5MODC_sapphire_coffers,P5 coffer 41 | sapphire coffers,740.0,1018.6,-5025.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M34_P5MODC_sapphire_coffers,P5 coffer 42 | sapphire coffers,740.0,1018.6,-5505.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M35_P5MODL_candles,P5 chandelier F | candles,0.0,687.83,-4785.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M35_P5MODL_candles,P5 chandelier R | candles,0.0,687.83,-5265.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M36_P5MODL_crystals,P5 chandelier F | crystals,0.0,621.33,-4785.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M36_P5MODL_crystals,P5 chandelier R | crystals,0.0,621.33,-5265.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M37_P5MODL_flames,P5 chandelier F | flames,0.0,700.33,-4785.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M37_P5MODL_flames,P5 chandelier R | flames,0.0,700.33,-5265.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M38_P5MODL_gilt,P5 chandelier F | gilt,0.0,645.33,-4785.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M38_P5MODL_gilt,P5 chandelier R | gilt,0.0,645.33,-5265.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M39_P8_column_attic_base_gilt_fillets,"P8 column base gilt (11.8, -41.0)",1180.0,19.5,-4100.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M39_P8_column_attic_base_gilt_fillets,"P8 column base gilt (11.8, -36.0)",1180.0,19.5,-3600.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M39_P8_column_attic_base_gilt_fillets,"P8 column base gilt (11.8, -31.0)",1180.0,19.5,-3100.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M39_P8_column_attic_base_gilt_fillets,"P8 column base gilt (11.8, -26.0)",1180.0,19.5,-2600.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M39_P8_column_attic_base_gilt_fillets,"P8 column base gilt (11.8, -21.0)",1180.0,19.5,-2100.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M39_P8_column_attic_base_gilt_fillets,"P8 column base gilt (11.8, -16.0)",1180.0,19.5,-1600.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M39_P8_column_attic_base_gilt_fillets,"P8 column base gilt (11.8, -13.0)",1180.0,19.5,-1300.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M39_P8_column_attic_base_gilt_fillets,"P8 column base gilt (11.8, -8.0)",1180.0,19.5,-800.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M39_P8_column_attic_base_gilt_fillets,"P8 column base gilt (11.8, -3.0)",1180.0,19.5,-300.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M39_P8_column_attic_base_gilt_fillets,"P8 column base gilt (11.8, 2.0)",1180.0,19.5,200.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M39_P8_column_attic_base_gilt_fillets,"P8 column base gilt (11.8, 7.0)",1180.0,19.5,700.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M39_P8_column_attic_base_gilt_fillets,"P8 column base gilt (11.8, 12.0)",1180.0,19.5,1200.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M39_P8_column_attic_base_gilt_fillets,"P8 column base gilt (-11.8, -41.0)",-1180.0,19.5,-4100.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M39_P8_column_attic_base_gilt_fillets,"P8 column base gilt (-11.8, -36.0)",-1180.0,19.5,-3600.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M39_P8_column_attic_base_gilt_fillets,"P8 column base gilt (-11.8, -31.0)",-1180.0,19.5,-3100.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M39_P8_column_attic_base_gilt_fillets,"P8 column base gilt (-11.8, -26.0)",-1180.0,19.5,-2600.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M39_P8_column_attic_base_gilt_fillets,"P8 column base gilt (-11.8, -21.0)",-1180.0,19.5,-2100.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M39_P8_column_attic_base_gilt_fillets,"P8 column base gilt (-11.8, -16.0)",-1180.0,19.5,-1600.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M39_P8_column_attic_base_gilt_fillets,"P8 column base gilt (-11.8, -13.0)",-1180.0,19.5,-1300.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M39_P8_column_attic_base_gilt_fillets,"P8 column base gilt (-11.8, -8.0)",-1180.0,19.5,-800.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M39_P8_column_attic_base_gilt_fillets,"P8 column base gilt (-11.8, -3.0)",-1180.0,19.5,-300.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M39_P8_column_attic_base_gilt_fillets,"P8 column base gilt (-11.8, 2.0)",-1180.0,19.5,200.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M39_P8_column_attic_base_gilt_fillets,"P8 column base gilt (-11.8, 7.0)",-1180.0,19.5,700.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M39_P8_column_attic_base_gilt_fillets,"P8 column base gilt (-11.8, 12.0)",-1180.0,19.5,1200.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M39_P8_column_attic_base_gilt_fillets,"P8 column base gilt (3.6, 13.3)",360.0,19.5,1335.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M39_P8_column_attic_base_gilt_fillets,"P8 column base gilt (-3.6, 13.3)",-360.0,19.5,1335.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M39_P8_column_attic_base_gilt_fillets,"P8 column base gilt (7.8, 13.3)",780.0,19.5,1335.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M39_P8_column_attic_base_gilt_fillets,"P8 column base gilt (-7.8, 13.3)",-780.0,19.5,1335.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M39_P8_column_attic_base_gilt_fillets,"P8 column base gilt (11.8, 13.3)",1180.0,19.5,1335.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M39_P8_column_attic_base_gilt_fillets,"P8 column base gilt (-11.8, 13.3)",-1180.0,19.5,1335.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M39_P8_column_attic_base_gilt_fillets,"P8 column base gilt (15.5, 13.3)",1550.0,19.5,1335.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M39_P8_column_attic_base_gilt_fillets,"P8 column base gilt (-15.5, 13.3)",-1550.0,19.5,1335.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M39_P8_column_attic_base_gilt_fillets,"P8 column base gilt (3.4, -41.2)",340.0,19.5,-4120.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M39_P8_column_attic_base_gilt_fillets,"P8 column base gilt (-3.4, -41.2)",-340.0,19.5,-4120.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M39_P8_column_attic_base_gilt_fillets,"P8 column base gilt (7.6, -41.2)",760.0,19.5,-4120.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M39_P8_column_attic_base_gilt_fillets,"P8 column base gilt (-7.6, -41.2)",-760.0,19.5,-4120.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M39_P8_column_attic_base_gilt_fillets,"P8 column base gilt (11.4, -41.2)",1140.0,19.5,-4120.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M39_P8_column_attic_base_gilt_fillets,"P8 column base gilt (-11.4, -41.2)",-1140.0,19.5,-4120.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M39_P8_column_attic_base_gilt_fillets,"P8 column base gilt (15.2, -41.2)",1520.0,19.5,-4120.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M39_P8_column_attic_base_gilt_fillets,"P8 column base gilt (-15.2, -41.2)",-1520.0,19.5,-4120.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M39_P8_column_attic_base_gilt_fillets,P5 column base_g L-45.45,-1060.0,19.5,-4545.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M39_P8_column_attic_base_gilt_fillets,P5 column base_g L-48.65,-1060.0,19.5,-4865.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M39_P8_column_attic_base_gilt_fillets,P5 column base_g L-51.85,-1060.0,19.5,-5185.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M39_P8_column_attic_base_gilt_fillets,P5 column base_g L-55.05,-1060.0,19.5,-5505.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M39_P8_column_attic_base_gilt_fillets,P5 column base_g R-45.45,1060.0,19.5,-4545.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M39_P8_column_attic_base_gilt_fillets,P5 column base_g R-48.65,1060.0,19.5,-4865.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M39_P8_column_attic_base_gilt_fillets,P5 column base_g R-51.85,1060.0,19.5,-5185.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M39_P8_column_attic_base_gilt_fillets,P5 column base_g R-55.05,1060.0,19.5,-5505.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M39_P8_column_attic_base_gilt_fillets,P5 column base_g B-4.71,-471.5,19.5,-5785.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M39_P8_column_attic_base_gilt_fillets,P5 column base_g B+4.71,471.5,19.5,-5785.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M40_P8_column_attic_base_marble,"P8 column base marble (11.8, -41.0)",1180.0,0.0,-4100.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M40_P8_column_attic_base_marble,"P8 column base marble (11.8, -36.0)",1180.0,0.0,-3600.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M40_P8_column_attic_base_marble,"P8 column base marble (11.8, -31.0)",1180.0,0.0,-3100.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M40_P8_column_attic_base_marble,"P8 column base marble (11.8, -26.0)",1180.0,0.0,-2600.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M40_P8_column_attic_base_marble,"P8 column base marble (11.8, -21.0)",1180.0,0.0,-2100.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M40_P8_column_attic_base_marble,"P8 column base marble (11.8, -16.0)",1180.0,0.0,-1600.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M40_P8_column_attic_base_marble,"P8 column base marble (11.8, -13.0)",1180.0,0.0,-1300.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M40_P8_column_attic_base_marble,"P8 column base marble (11.8, -8.0)",1180.0,0.0,-800.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M40_P8_column_attic_base_marble,"P8 column base marble (11.8, -3.0)",1180.0,0.0,-300.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M40_P8_column_attic_base_marble,"P8 column base marble (11.8, 2.0)",1180.0,0.0,200.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M40_P8_column_attic_base_marble,"P8 column base marble (11.8, 7.0)",1180.0,0.0,700.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M40_P8_column_attic_base_marble,"P8 column base marble (11.8, 12.0)",1180.0,0.0,1200.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M40_P8_column_attic_base_marble,"P8 column base marble (-11.8, -41.0)",-1180.0,0.0,-4100.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M40_P8_column_attic_base_marble,"P8 column base marble (-11.8, -36.0)",-1180.0,0.0,-3600.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M40_P8_column_attic_base_marble,"P8 column base marble (-11.8, -31.0)",-1180.0,0.0,-3100.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M40_P8_column_attic_base_marble,"P8 column base marble (-11.8, -26.0)",-1180.0,0.0,-2600.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M40_P8_column_attic_base_marble,"P8 column base marble (-11.8, -21.0)",-1180.0,0.0,-2100.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M40_P8_column_attic_base_marble,"P8 column base marble (-11.8, -16.0)",-1180.0,0.0,-1600.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M40_P8_column_attic_base_marble,"P8 column base marble (-11.8, -13.0)",-1180.0,0.0,-1300.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M40_P8_column_attic_base_marble,"P8 column base marble (-11.8, -8.0)",-1180.0,0.0,-800.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M40_P8_column_attic_base_marble,"P8 column base marble (-11.8, -3.0)",-1180.0,0.0,-300.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M40_P8_column_attic_base_marble,"P8 column base marble (-11.8, 2.0)",-1180.0,0.0,200.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M40_P8_column_attic_base_marble,"P8 column base marble (-11.8, 7.0)",-1180.0,0.0,700.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M40_P8_column_attic_base_marble,"P8 column base marble (-11.8, 12.0)",-1180.0,0.0,1200.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M40_P8_column_attic_base_marble,"P8 column base marble (3.6, 13.3)",360.0,0.0,1335.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M40_P8_column_attic_base_marble,"P8 column base marble (-3.6, 13.3)",-360.0,0.0,1335.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M40_P8_column_attic_base_marble,"P8 column base marble (7.8, 13.3)",780.0,0.0,1335.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M40_P8_column_attic_base_marble,"P8 column base marble (-7.8, 13.3)",-780.0,0.0,1335.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M40_P8_column_attic_base_marble,"P8 column base marble (11.8, 13.3)",1180.0,0.0,1335.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M40_P8_column_attic_base_marble,"P8 column base marble (-11.8, 13.3)",-1180.0,0.0,1335.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M40_P8_column_attic_base_marble,"P8 column base marble (15.5, 13.3)",1550.0,0.0,1335.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M40_P8_column_attic_base_marble,"P8 column base marble (-15.5, 13.3)",-1550.0,0.0,1335.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M40_P8_column_attic_base_marble,"P8 column base marble (3.4, -41.2)",340.0,0.0,-4120.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M40_P8_column_attic_base_marble,"P8 column base marble (-3.4, -41.2)",-340.0,0.0,-4120.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M40_P8_column_attic_base_marble,"P8 column base marble (7.6, -41.2)",760.0,0.0,-4120.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M40_P8_column_attic_base_marble,"P8 column base marble (-7.6, -41.2)",-760.0,0.0,-4120.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M40_P8_column_attic_base_marble,"P8 column base marble (11.4, -41.2)",1140.0,0.0,-4120.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M40_P8_column_attic_base_marble,"P8 column base marble (-11.4, -41.2)",-1140.0,0.0,-4120.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M40_P8_column_attic_base_marble,"P8 column base marble (15.2, -41.2)",1520.0,0.0,-4120.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M40_P8_column_attic_base_marble,"P8 column base marble (-15.2, -41.2)",-1520.0,0.0,-4120.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M40_P8_column_attic_base_marble,P5 column base_m L-45.45,-1060.0,0.0,-4545.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M40_P8_column_attic_base_marble,P5 column base_m L-48.65,-1060.0,0.0,-4865.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M40_P8_column_attic_base_marble,P5 column base_m L-51.85,-1060.0,0.0,-5185.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M40_P8_column_attic_base_marble,P5 column base_m L-55.05,-1060.0,0.0,-5505.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M40_P8_column_attic_base_marble,P5 column base_m R-45.45,1060.0,0.0,-4545.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M40_P8_column_attic_base_marble,P5 column base_m R-48.65,1060.0,0.0,-4865.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M40_P8_column_attic_base_marble,P5 column base_m R-51.85,1060.0,0.0,-5185.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M40_P8_column_attic_base_marble,P5 column base_m R-55.05,1060.0,0.0,-5505.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M40_P8_column_attic_base_marble,P5 column base_m B-4.71,-471.5,0.0,-5785.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M40_P8_column_attic_base_marble,P5 column base_m B+4.71,471.5,0.0,-5785.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M41_P8_column_corinthian_acanthus_gilt,"P8 column capital acanthus (11.8, -41.0)",1180.0,1084.0,-4100.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M41_P8_column_corinthian_acanthus_gilt,"P8 column capital acanthus (11.8, -36.0)",1180.0,1084.0,-3600.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M41_P8_column_corinthian_acanthus_gilt,"P8 column capital acanthus (11.8, -31.0)",1180.0,1084.0,-3100.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M41_P8_column_corinthian_acanthus_gilt,"P8 column capital acanthus (11.8, -26.0)",1180.0,1084.0,-2600.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M41_P8_column_corinthian_acanthus_gilt,"P8 column capital acanthus (11.8, -21.0)",1180.0,1084.0,-2100.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M41_P8_column_corinthian_acanthus_gilt,"P8 column capital acanthus (11.8, -16.0)",1180.0,1084.0,-1600.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M41_P8_column_corinthian_acanthus_gilt,"P8 column capital acanthus (11.8, -13.0)",1180.0,1084.0,-1300.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M41_P8_column_corinthian_acanthus_gilt,"P8 column capital acanthus (11.8, -8.0)",1180.0,1084.0,-800.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M41_P8_column_corinthian_acanthus_gilt,"P8 column capital acanthus (11.8, -3.0)",1180.0,1084.0,-300.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M41_P8_column_corinthian_acanthus_gilt,"P8 column capital acanthus (11.8, 2.0)",1180.0,1084.0,200.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M41_P8_column_corinthian_acanthus_gilt,"P8 column capital acanthus (11.8, 7.0)",1180.0,1084.0,700.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M41_P8_column_corinthian_acanthus_gilt,"P8 column capital acanthus (11.8, 12.0)",1180.0,1084.0,1200.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M41_P8_column_corinthian_acanthus_gilt,"P8 column capital acanthus (-11.8, -41.0)",-1180.0,1084.0,-4100.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M41_P8_column_corinthian_acanthus_gilt,"P8 column capital acanthus (-11.8, -36.0)",-1180.0,1084.0,-3600.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M41_P8_column_corinthian_acanthus_gilt,"P8 column capital acanthus (-11.8, -31.0)",-1180.0,1084.0,-3100.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M41_P8_column_corinthian_acanthus_gilt,"P8 column capital acanthus (-11.8, -26.0)",-1180.0,1084.0,-2600.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M41_P8_column_corinthian_acanthus_gilt,"P8 column capital acanthus (-11.8, -21.0)",-1180.0,1084.0,-2100.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M41_P8_column_corinthian_acanthus_gilt,"P8 column capital acanthus (-11.8, -16.0)",-1180.0,1084.0,-1600.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M41_P8_column_corinthian_acanthus_gilt,"P8 column capital acanthus (-11.8, -13.0)",-1180.0,1084.0,-1300.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M41_P8_column_corinthian_acanthus_gilt,"P8 column capital acanthus (-11.8, -8.0)",-1180.0,1084.0,-800.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M41_P8_column_corinthian_acanthus_gilt,"P8 column capital acanthus (-11.8, -3.0)",-1180.0,1084.0,-300.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M41_P8_column_corinthian_acanthus_gilt,"P8 column capital acanthus (-11.8, 2.0)",-1180.0,1084.0,200.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M41_P8_column_corinthian_acanthus_gilt,"P8 column capital acanthus (-11.8, 7.0)",-1180.0,1084.0,700.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M41_P8_column_corinthian_acanthus_gilt,"P8 column capital acanthus (-11.8, 12.0)",-1180.0,1084.0,1200.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M41_P8_column_corinthian_acanthus_gilt,"P8 column capital acanthus (3.6, 13.3)",360.0,1084.0,1335.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M41_P8_column_corinthian_acanthus_gilt,"P8 column capital acanthus (-3.6, 13.3)",-360.0,1084.0,1335.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M41_P8_column_corinthian_acanthus_gilt,"P8 column capital acanthus (7.8, 13.3)",780.0,1084.0,1335.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M41_P8_column_corinthian_acanthus_gilt,"P8 column capital acanthus (-7.8, 13.3)",-780.0,1084.0,1335.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M41_P8_column_corinthian_acanthus_gilt,"P8 column capital acanthus (11.8, 13.3)",1180.0,1084.0,1335.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M41_P8_column_corinthian_acanthus_gilt,"P8 column capital acanthus (-11.8, 13.3)",-1180.0,1084.0,1335.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M41_P8_column_corinthian_acanthus_gilt,"P8 column capital acanthus (15.5, 13.3)",1550.0,1084.0,1335.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M41_P8_column_corinthian_acanthus_gilt,"P8 column capital acanthus (-15.5, 13.3)",-1550.0,1084.0,1335.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M41_P8_column_corinthian_acanthus_gilt,"P8 column capital acanthus (3.4, -41.2)",340.0,1084.0,-4120.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M41_P8_column_corinthian_acanthus_gilt,"P8 column capital acanthus (-3.4, -41.2)",-340.0,1084.0,-4120.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M41_P8_column_corinthian_acanthus_gilt,"P8 column capital acanthus (7.6, -41.2)",760.0,1084.0,-4120.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M41_P8_column_corinthian_acanthus_gilt,"P8 column capital acanthus (-7.6, -41.2)",-760.0,1084.0,-4120.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M41_P8_column_corinthian_acanthus_gilt,"P8 column capital acanthus (11.4, -41.2)",1140.0,1084.0,-4120.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M41_P8_column_corinthian_acanthus_gilt,"P8 column capital acanthus (-11.4, -41.2)",-1140.0,1084.0,-4120.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M41_P8_column_corinthian_acanthus_gilt,"P8 column capital acanthus (15.2, -41.2)",1520.0,1084.0,-4120.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M41_P8_column_corinthian_acanthus_gilt,"P8 column capital acanthus (-15.2, -41.2)",-1520.0,1084.0,-4120.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M41_P8_column_corinthian_acanthus_gilt,P5 column cap_a L-45.45,-1060.0,1014.0,-4545.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M41_P8_column_corinthian_acanthus_gilt,P5 column cap_a L-48.65,-1060.0,1014.0,-4865.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M41_P8_column_corinthian_acanthus_gilt,P5 column cap_a L-51.85,-1060.0,1014.0,-5185.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M41_P8_column_corinthian_acanthus_gilt,P5 column cap_a L-55.05,-1060.0,1014.0,-5505.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M41_P8_column_corinthian_acanthus_gilt,P5 column cap_a R-45.45,1060.0,1014.0,-4545.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M41_P8_column_corinthian_acanthus_gilt,P5 column cap_a R-48.65,1060.0,1014.0,-4865.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M41_P8_column_corinthian_acanthus_gilt,P5 column cap_a R-51.85,1060.0,1014.0,-5185.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M41_P8_column_corinthian_acanthus_gilt,P5 column cap_a R-55.05,1060.0,1014.0,-5505.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M41_P8_column_corinthian_acanthus_gilt,P5 column cap_a B-4.71,-471.5,1014.0,-5785.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M41_P8_column_corinthian_acanthus_gilt,P5 column cap_a B+4.71,471.5,1014.0,-5785.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M42_P8_column_corinthian_bell_and_abacus_marble,"P8 column capital marble (11.8, -41.0)",1180.0,1085.0,-4100.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M42_P8_column_corinthian_bell_and_abacus_marble,"P8 column capital marble (11.8, -36.0)",1180.0,1085.0,-3600.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M42_P8_column_corinthian_bell_and_abacus_marble,"P8 column capital marble (11.8, -31.0)",1180.0,1085.0,-3100.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M42_P8_column_corinthian_bell_and_abacus_marble,"P8 column capital marble (11.8, -26.0)",1180.0,1085.0,-2600.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M42_P8_column_corinthian_bell_and_abacus_marble,"P8 column capital marble (11.8, -21.0)",1180.0,1085.0,-2100.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M42_P8_column_corinthian_bell_and_abacus_marble,"P8 column capital marble (11.8, -16.0)",1180.0,1085.0,-1600.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M42_P8_column_corinthian_bell_and_abacus_marble,"P8 column capital marble (11.8, -13.0)",1180.0,1085.0,-1300.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M42_P8_column_corinthian_bell_and_abacus_marble,"P8 column capital marble (11.8, -8.0)",1180.0,1085.0,-800.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M42_P8_column_corinthian_bell_and_abacus_marble,"P8 column capital marble (11.8, -3.0)",1180.0,1085.0,-300.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M42_P8_column_corinthian_bell_and_abacus_marble,"P8 column capital marble (11.8, 2.0)",1180.0,1085.0,200.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M42_P8_column_corinthian_bell_and_abacus_marble,"P8 column capital marble (11.8, 7.0)",1180.0,1085.0,700.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M42_P8_column_corinthian_bell_and_abacus_marble,"P8 column capital marble (11.8, 12.0)",1180.0,1085.0,1200.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M42_P8_column_corinthian_bell_and_abacus_marble,"P8 column capital marble (-11.8, -41.0)",-1180.0,1085.0,-4100.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M42_P8_column_corinthian_bell_and_abacus_marble,"P8 column capital marble (-11.8, -36.0)",-1180.0,1085.0,-3600.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M42_P8_column_corinthian_bell_and_abacus_marble,"P8 column capital marble (-11.8, -31.0)",-1180.0,1085.0,-3100.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M42_P8_column_corinthian_bell_and_abacus_marble,"P8 column capital marble (-11.8, -26.0)",-1180.0,1085.0,-2600.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M42_P8_column_corinthian_bell_and_abacus_marble,"P8 column capital marble (-11.8, -21.0)",-1180.0,1085.0,-2100.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M42_P8_column_corinthian_bell_and_abacus_marble,"P8 column capital marble (-11.8, -16.0)",-1180.0,1085.0,-1600.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M42_P8_column_corinthian_bell_and_abacus_marble,"P8 column capital marble (-11.8, -13.0)",-1180.0,1085.0,-1300.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M42_P8_column_corinthian_bell_and_abacus_marble,"P8 column capital marble (-11.8, -8.0)",-1180.0,1085.0,-800.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M42_P8_column_corinthian_bell_and_abacus_marble,"P8 column capital marble (-11.8, -3.0)",-1180.0,1085.0,-300.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M42_P8_column_corinthian_bell_and_abacus_marble,"P8 column capital marble (-11.8, 2.0)",-1180.0,1085.0,200.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M42_P8_column_corinthian_bell_and_abacus_marble,"P8 column capital marble (-11.8, 7.0)",-1180.0,1085.0,700.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M42_P8_column_corinthian_bell_and_abacus_marble,"P8 column capital marble (-11.8, 12.0)",-1180.0,1085.0,1200.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M42_P8_column_corinthian_bell_and_abacus_marble,"P8 column capital marble (3.6, 13.3)",360.0,1085.0,1335.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M42_P8_column_corinthian_bell_and_abacus_marble,"P8 column capital marble (-3.6, 13.3)",-360.0,1085.0,1335.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M42_P8_column_corinthian_bell_and_abacus_marble,"P8 column capital marble (7.8, 13.3)",780.0,1085.0,1335.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M42_P8_column_corinthian_bell_and_abacus_marble,"P8 column capital marble (-7.8, 13.3)",-780.0,1085.0,1335.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M42_P8_column_corinthian_bell_and_abacus_marble,"P8 column capital marble (11.8, 13.3)",1180.0,1085.0,1335.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M42_P8_column_corinthian_bell_and_abacus_marble,"P8 column capital marble (-11.8, 13.3)",-1180.0,1085.0,1335.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M42_P8_column_corinthian_bell_and_abacus_marble,"P8 column capital marble (15.5, 13.3)",1550.0,1085.0,1335.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M42_P8_column_corinthian_bell_and_abacus_marble,"P8 column capital marble (-15.5, 13.3)",-1550.0,1085.0,1335.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M42_P8_column_corinthian_bell_and_abacus_marble,"P8 column capital marble (3.4, -41.2)",340.0,1085.0,-4120.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M42_P8_column_corinthian_bell_and_abacus_marble,"P8 column capital marble (-3.4, -41.2)",-340.0,1085.0,-4120.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M42_P8_column_corinthian_bell_and_abacus_marble,"P8 column capital marble (7.6, -41.2)",760.0,1085.0,-4120.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M42_P8_column_corinthian_bell_and_abacus_marble,"P8 column capital marble (-7.6, -41.2)",-760.0,1085.0,-4120.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M42_P8_column_corinthian_bell_and_abacus_marble,"P8 column capital marble (11.4, -41.2)",1140.0,1085.0,-4120.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M42_P8_column_corinthian_bell_and_abacus_marble,"P8 column capital marble (-11.4, -41.2)",-1140.0,1085.0,-4120.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M42_P8_column_corinthian_bell_and_abacus_marble,"P8 column capital marble (15.2, -41.2)",1520.0,1085.0,-4120.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M42_P8_column_corinthian_bell_and_abacus_marble,"P8 column capital marble (-15.2, -41.2)",-1520.0,1085.0,-4120.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M42_P8_column_corinthian_bell_and_abacus_marble,P5 column cap_m L-45.45,-1060.0,1015.0,-4545.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M42_P8_column_corinthian_bell_and_abacus_marble,P5 column cap_m L-48.65,-1060.0,1015.0,-4865.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M42_P8_column_corinthian_bell_and_abacus_marble,P5 column cap_m L-51.85,-1060.0,1015.0,-5185.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M42_P8_column_corinthian_bell_and_abacus_marble,P5 column cap_m L-55.05,-1060.0,1015.0,-5505.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M42_P8_column_corinthian_bell_and_abacus_marble,P5 column cap_m R-45.45,1060.0,1015.0,-4545.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M42_P8_column_corinthian_bell_and_abacus_marble,P5 column cap_m R-48.65,1060.0,1015.0,-4865.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M42_P8_column_corinthian_bell_and_abacus_marble,P5 column cap_m R-51.85,1060.0,1015.0,-5185.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M42_P8_column_corinthian_bell_and_abacus_marble,P5 column cap_m R-55.05,1060.0,1015.0,-5505.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M42_P8_column_corinthian_bell_and_abacus_marble,P5 column cap_m B-4.71,-471.5,1015.0,-5785.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M42_P8_column_corinthian_bell_and_abacus_marble,P5 column cap_m B+4.71,471.5,1015.0,-5785.0,-0.0,0.0,-0.0,1.0,1.0,1.0
+KRM_M43_ROOM_unit_ball_Antique_gilded_bronze,Wing ceiling beam rosette,2300.0,590.0,940.0,-0.0,0.0,-0.0,0.09,0.09,0.05
+KRM_M43_ROOM_unit_ball_Antique_gilded_bronze,Wing ceiling beam rosette.001,2300.0,590.0,1260.0,-0.0,0.0,-0.0,0.09,0.09,0.05
+KRM_M43_ROOM_unit_ball_Antique_gilded_bronze,Wing ceiling beam rosette.002,-2300.0,590.0,940.0,-0.0,0.0,-0.0,0.09,0.09,0.05
+KRM_M43_ROOM_unit_ball_Antique_gilded_bronze,Wing ceiling beam rosette.003,-2300.0,590.0,1260.0,-0.0,0.0,-0.0,0.09,0.09,0.05
+KRM_M44_ROOM_unit_box_Antique_gilded_bronze,Wing crown cornice gilt,2300.0,579.0,823.0,-0.0,0.0,-0.0,13.6,0.16,0.12
+KRM_M44_ROOM_unit_box_Antique_gilded_bronze,Wing crown cornice gilt.001,2300.0,579.0,1377.0,-0.0,0.0,-0.0,13.6,0.16,0.12
+KRM_M44_ROOM_unit_box_Antique_gilded_bronze,Wing crown cornice gilt.002,2977.0,579.0,1100.0,-0.0,0.0,-0.0,0.16,5.7,0.12
+KRM_M44_ROOM_unit_box_Antique_gilded_bronze,Wing crown cornice gilt.003,1630.5,579.0,1100.0,-0.0,0.0,-0.0,0.16,5.7,0.12
+KRM_M44_ROOM_unit_box_Antique_gilded_bronze,Wing ceiling beam gilt,2300.0,594.0,940.0,-0.0,0.0,-0.0,13.4,0.1,0.06
+KRM_M44_ROOM_unit_box_Antique_gilded_bronze,Wing ceiling beam gilt.001,2300.0,594.0,1260.0,-0.0,0.0,-0.0,13.4,0.1,0.06
+KRM_M44_ROOM_unit_box_Antique_gilded_bronze,Wing ceiling beam gilt.002,2300.0,594.0,1100.0,-0.0,0.0,-0.0,0.1,5.6,0.06
+KRM_M44_ROOM_unit_box_Antique_gilded_bronze,Wing crown cornice gilt.004,-2300.0,579.0,823.0,-0.0,0.0,-0.0,13.6,0.16,0.12
+KRM_M44_ROOM_unit_box_Antique_gilded_bronze,Wing crown cornice gilt.005,-2300.0,579.0,1377.0,-0.0,0.0,-0.0,13.6,0.16,0.12
+KRM_M44_ROOM_unit_box_Antique_gilded_bronze,Wing crown cornice gilt.006,-2977.0,579.0,1100.0,-0.0,0.0,-0.0,0.16,5.7,0.12
+KRM_M44_ROOM_unit_box_Antique_gilded_bronze,Wing crown cornice gilt.007,-1630.5,579.0,1100.0,-0.0,0.0,-0.0,0.16,5.7,0.12
+KRM_M44_ROOM_unit_box_Antique_gilded_bronze,Wing ceiling beam gilt.003,-2300.0,594.0,940.0,-0.0,0.0,-0.0,13.4,0.1,0.06
+KRM_M44_ROOM_unit_box_Antique_gilded_bronze,Wing ceiling beam gilt.004,-2300.0,594.0,1260.0,-0.0,0.0,-0.0,13.4,0.1,0.06
+KRM_M44_ROOM_unit_box_Antique_gilded_bronze,Wing ceiling beam gilt.005,-2300.0,594.0,1100.0,-0.0,0.0,-0.0,0.1,5.6,0.06
+KRM_M45_ROOM_unit_box_Ivory_marble,Wing ceiling marble slab,2300.0,600.0,1100.0,-0.0,0.0,-0.0,14.0,6.3,0.2
+KRM_M45_ROOM_unit_box_Ivory_marble,Wing ceiling marble slab.001,-2300.0,600.0,1100.0,-0.0,0.0,-0.0,14.0,6.3,0.2
+KRM_M46_ROOM_unit_cyl_Sapphire_stone,Wing ceiling sapphire medallion,2000.0,596.0,1100.0,-0.0,0.0,-0.0,0.45,0.45,0.03
+KRM_M46_ROOM_unit_cyl_Sapphire_stone,Wing ceiling sapphire medallion.001,2600.0,596.0,1100.0,-0.0,0.0,-0.0,0.45,0.45,0.03
+KRM_M46_ROOM_unit_cyl_Sapphire_stone,Wing ceiling sapphire medallion.002,-2000.0,596.0,1100.0,-0.0,0.0,-0.0,0.45,0.45,0.03
+KRM_M46_ROOM_unit_cyl_Sapphire_stone,Wing ceiling sapphire medallion.003,-2600.0,596.0,1100.0,-0.0,0.0,-0.0,0.45,0.45,0.03
+KRM_M47_Sphere.005,Standard finial,-500.0,478.0,-3780.0,-0.0,0.0,-0.0,0.1,0.1,0.22
+KRM_M47_Sphere.005,Standard finial.001,500.0,478.0,-3780.0,-0.0,0.0,-0.0,0.1,0.1,0.22
